@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2016-01-27T16:13:00</meta:creation-date><dc:language>en-GB</dc:language><meta:print-date>2002-11-19T18:54:00</meta:print-date><dc:date>2016-01-27T16:22:00</dc:date><meta:editing-cycles>1</meta:editing-cycles><dc:subject>HLTD Template</dc:subject><dc:title>High Level Technical Design Template</dc:title><meta:editing-duration>P0D</meta:editing-duration><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><meta:document-statistic meta:table-count="11" meta:image-count="2" meta:object-count="0" meta:page-count="33" meta:paragraph-count="524" meta:word-count="3913" meta:character-count="26703" meta:non-whitespace-character-count="23428"/><meta:user-defined meta:name="AppVersion">14.0000</meta:user-defined><meta:user-defined meta:name="Archive" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="CMS Website URL">, </meta:user-defined><meta:user-defined meta:name="Category">XLC</meta:user-defined><meta:user-defined meta:name="ContentTypeId" meta:value-type="string">0x01010029C7FBC06C7BBA4EB65D441E09D0318A</meta:user-defined><meta:user-defined meta:name="DocSecurity" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="Document Sub-Type" meta:value-type="string">;#Template - Artifact;#</meta:user-defined><meta:user-defined meta:name="Document Type" meta:value-type="string">Life Cycle Document or Template</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="Language" meta:value-type="string">English</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="Order" meta:value-type="float">16200</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="Source" meta:value-type="string">Internal</meta:user-defined><meta:user-defined meta:name="Status" meta:value-type="string">Current (Published)</meta:user-defined><meta:user-defined meta:name="_Version" meta:value-type="string">XLC Baseline</meta:user-defined><meta:user-defined meta:name="category" meta:value-type="string">High Level Technical Design, Standards, Guidelines, Architecture, Information, Application, Interface, Technology, Security, Privacy</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="XLC Template" xlink:href=""/></office:meta>
+ <office:meta><meta:creation-date>2016-01-27T16:13:00</meta:creation-date><dc:language>en-GB</dc:language><meta:print-date>2002-11-19T18:54:00</meta:print-date><dc:date>2018-05-25T11:57:09.262908625</dc:date><meta:editing-cycles>2</meta:editing-cycles><dc:subject>HLTD Template</dc:subject><dc:title>High Level Technical Design Template</dc:title><meta:editing-duration>PT3M19S</meta:editing-duration><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><meta:document-statistic meta:table-count="11" meta:image-count="2" meta:object-count="0" meta:page-count="33" meta:paragraph-count="535" meta:word-count="4371" meta:character-count="29412" meta:non-whitespace-character-count="25676"/><meta:user-defined meta:name="AppVersion">14.0000</meta:user-defined><meta:user-defined meta:name="Archive" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="CMS Website URL">, </meta:user-defined><meta:user-defined meta:name="Category">XLC</meta:user-defined><meta:user-defined meta:name="ContentTypeId" meta:value-type="string">0x01010029C7FBC06C7BBA4EB65D441E09D0318A</meta:user-defined><meta:user-defined meta:name="DocSecurity" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="Document Sub-Type" meta:value-type="string">;#Template - Artifact;#</meta:user-defined><meta:user-defined meta:name="Document Type" meta:value-type="string">Life Cycle Document or Template</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="Language" meta:value-type="string">English</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="Order" meta:value-type="float">16200</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="Source" meta:value-type="string">Internal</meta:user-defined><meta:user-defined meta:name="Status" meta:value-type="string">Current (Published)</meta:user-defined><meta:user-defined meta:name="_Version" meta:value-type="string">XLC Baseline</meta:user-defined><meta:user-defined meta:name="category" meta:value-type="string">High Level Technical Design, Standards, Guidelines, Architecture, Information, Application, Interface, Technology, Security, Privacy</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="XLC Template" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">173778</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">34292</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">13496</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">8890</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">3200</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">14305</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">181455</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">173778</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">34290</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">13494</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">187272</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -69,7 +69,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">true</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1455645</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2021902</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -121,6 +121,7 @@
   </office:script>
  </office:scripts>
  <office:font-face-decls>
+  <style:font-face style:name="Motiva Sans Light" svg:font-family="&apos;Motiva Sans Light&apos;, &apos;Motiva Sans&apos;, Arial, Helvetica, sans-serif"/>
   <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Arial Narrow1" svg:font-family="&apos;Arial Narrow&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Calibri" svg:font-family="Calibri" style:font-family-generic="roman" style:font-pitch="variable"/>
@@ -3167,37 +3168,85 @@
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name="WWNum4"/>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="WWNum4"/>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Heading_20_4" style:list-style-name="WWNum4"/>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_4" style:list-style-name="WWNum4" style:master-page-name="Converted2">
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001b6d43" officeooo:paragraph-rsid="001b6d43"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001c0705"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001c0705" officeooo:paragraph-rsid="001c0705"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001c2b21" officeooo:paragraph-rsid="001b6d43"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name="WWNum4"/>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="WWNum4"/>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_4" style:list-style-name="WWNum4"/>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_4" style:list-style-name="WWNum4" style:master-page-name="Converted2">
    <style:paragraph-properties style:page-number="auto"/>
   </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_4" style:list-style-name="WWNum4" style:master-page-name="Converted4">
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_4" style:list-style-name="WWNum4" style:master-page-name="Converted4">
    <style:paragraph-properties style:page-number="auto"/>
   </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_4" style:list-style-name="WWNum4" style:master-page-name="Converted6">
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_4" style:list-style-name="WWNum4" style:master-page-name="Converted6">
    <style:paragraph-properties style:page-number="auto"/>
   </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_4" style:list-style-name="WWNum4" style:master-page-name="Converted8">
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Heading_20_4" style:list-style-name="WWNum4" style:master-page-name="Converted8">
    <style:paragraph-properties style:page-number="auto"/>
   </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_3" style:list-style-name="WWNum4"/>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_5" style:list-style-name="WWNum4"/>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Instructional_20_Text_20_Table_20_Text_20_10">
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Heading_20_3" style:list-style-name="WWNum4"/>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_5" style:list-style-name="WWNum4"/>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Instructional_20_Text_20_Table_20_Text_20_10">
    <style:paragraph-properties fo:margin-top="0.035cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
   </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties officeooo:rsid="0016361d" officeooo:paragraph-rsid="0018bc94"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties officeooo:rsid="0018bc94" officeooo:paragraph-rsid="0018bc94"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties officeooo:paragraph-rsid="0018bc94"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties officeooo:rsid="00198864" officeooo:paragraph-rsid="00198864"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties officeooo:paragraph-rsid="00198864"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties officeooo:rsid="001c0705" officeooo:paragraph-rsid="0018bc94"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties officeooo:rsid="001c0705" officeooo:paragraph-rsid="001c0705"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties officeooo:rsid="001c0705" officeooo:paragraph-rsid="001d9728"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties officeooo:rsid="001c2b21" officeooo:paragraph-rsid="001c0705"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties officeooo:rsid="001c2b21" officeooo:paragraph-rsid="001c2b21"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties officeooo:rsid="001c2b21" officeooo:paragraph-rsid="001d9728"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties officeooo:rsid="001d9728" officeooo:paragraph-rsid="001d9728"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
    <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
   </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Header">
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Header">
    <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:padding-left="0cm" fo:padding-right="0cm" fo:padding-top="0cm" fo:padding-bottom="0.035cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.51pt solid #000001">
     <style:tab-stops>
      <style:tab-stop style:position="16.51cm" style:type="right"/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Header">
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Header">
    <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
     <style:tab-stops>
      <style:tab-stop style:position="16.51cm" style:type="right"/>
@@ -3205,10 +3254,10 @@
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Back_20_Matter_20_Heading" style:master-page-name="Converted9">
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Back_20_Matter_20_Heading" style:master-page-name="Converted9">
    <style:paragraph-properties style:page-number="auto"/>
   </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Footer">
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Footer">
    <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" loext:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:padding-left="0cm" fo:padding-right="0cm" fo:padding-top="0.035cm" fo:padding-bottom="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="0.51pt solid #000001" fo:border-bottom="none" style:writing-mode="lr-tb">
     <style:tab-stops>
      <style:tab-stop style:position="8.255cm" style:type="center"/>
@@ -3216,7 +3265,7 @@
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Footer">
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Footer">
    <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" loext:contextual-spacing="false">
     <style:tab-stops>
      <style:tab-stop style:position="8.255cm" style:type="center"/>
@@ -3226,7 +3275,7 @@
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Footer">
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Footer">
    <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" loext:contextual-spacing="false" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="0.51pt solid #000001" fo:border-bottom="none">
     <style:tab-stops>
      <style:tab-stop style:position="8.255cm" style:type="center"/>
@@ -3236,38 +3285,38 @@
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Front_20_Matter_20_Header">
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Front_20_Matter_20_Header">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="caption" style:master-page-name="Converted1">
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="caption" style:master-page-name="Converted1">
    <style:paragraph-properties style:page-number="auto"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="caption" style:master-page-name="Converted3">
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="caption" style:master-page-name="Converted3">
    <style:paragraph-properties style:page-number="auto"/>
   </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="caption" style:master-page-name="Converted5">
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="caption" style:master-page-name="Converted5">
    <style:paragraph-properties style:page-number="auto"/>
   </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="caption" style:master-page-name="Converted7">
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="caption" style:master-page-name="Converted7">
    <style:paragraph-properties style:page-number="auto"/>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Body_20_Text_20_10_20_Italic_20_Borders" style:master-page-name="First_20_Page">
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Body_20_Text_20_10_20_Italic_20_Borders" style:master-page-name="First_20_Page">
    <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" style:page-number="auto"/>
   </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Instructional_20_Text_20_Bullet" style:list-style-name="WWNum2"/>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Instructional_20_Text_20_Bullet_20_Level_20_2" style:list-style-name="WWNum3"/>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Instructional_20_Text_20_Number" style:list-style-name="WWNum5"/>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Signature_20_Text">
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Instructional_20_Text_20_Bullet" style:list-style-name="WWNum2"/>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Instructional_20_Text_20_Bullet_20_Level_20_2" style:list-style-name="WWNum3"/>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Instructional_20_Text_20_Number" style:list-style-name="WWNum5"/>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Signature_20_Text">
    <style:paragraph-properties fo:margin-top="0.847cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:padding-left="0cm" fo:padding-right="0cm" fo:padding-top="0.035cm" fo:padding-bottom="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="0.51pt dashed #00000a" fo:border-bottom="none"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Table_20_Text_20_10">
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Table_20_Text_20_10">
    <style:paragraph-properties fo:margin-top="0.035cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Table_20_Text_20_10_20_Bullet" style:list-style-name="WWNum6"/>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Table_20_Text_20_10_20_Bullet" style:list-style-name="WWNum6">
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Table_20_Text_20_10_20_Bullet" style:list-style-name="WWNum6"/>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Table_20_Text_20_10_20_Bullet" style:list-style-name="WWNum6">
    <style:paragraph-properties fo:margin-top="0.035cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Table_20_Text_20_10_20_Header_20_Center">
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Table_20_Text_20_10_20_Header_20_Center">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:keep-with-next="always"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -3281,6 +3330,36 @@
   </style:style>
   <style:style style:name="T4" style:family="text">
    <style:text-properties style:font-name-asian="F" text:display="true"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties officeooo:rsid="0016361d"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties officeooo:rsid="00174fcb"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#0000ff" style:font-name="Arial" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00174fcb" style:font-name-asian="Times New Roman1" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="italic" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#0000ff" style:font-name="Arial" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="italic" fo:font-weight="normal" style:font-name-asian="Times New Roman1" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="italic" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#0000ff" style:font-name="Arial" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0018bc94" style:font-name-asian="Times New Roman1" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="italic" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#0000ff" style:font-name="Arial" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00198864" style:font-name-asian="Times New Roman1" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="italic" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties fo:color="#0000ff" style:font-name="Arial" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-style="italic" officeooo:rsid="00174fcb" style:font-name-asian="Times New Roman1" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="italic" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties officeooo:rsid="001b6d43"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties officeooo:rsid="001c2b21"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties officeooo:rsid="001d9728"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:vertical-pos="top" style:vertical-rel="baseline" fo:background-color="transparent" draw:fill="none" draw:fill-color="#ffffff" fo:padding="0cm" fo:border="none" style:mirror="none" fo:clip="rect(0.309cm, 0cm, 0.543cm, 0.245cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
@@ -3340,7 +3419,7 @@
     <text:p text:style-name="P1">CMS XLC<text:tab/><field:fieldmark-start text:name="__Fieldmark__3584_1366513797" field:type="STYLEREF  &quot;Front Matter Header&quot;  \* MERGEFORMAT"/><field:fieldmark-end/><text:bookmark text:name="__Fieldmark__667_1366513797"/>List of Figures</text:p>
    </style:header>
    <style:footer>
-    <text:p text:style-name="P2">HLTD Version X.X<text:tab/><text:page-number text:select-page="current">ix</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
+    <text:p text:style-name="P2">HLTD Version X.X<text:tab/><text:page-number text:select-page="current">xi</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm2" style:next-style-name="Standard"/>
@@ -3349,7 +3428,7 @@
     <text:p text:style-name="P3">CMS XLC<text:tab/><field:fieldmark-start text:name="__Fieldmark__3637_1366513797" field:type="STYLEREF  &quot;Heading 2&quot;  \* MERGEFORMAT"/><field:fieldmark-end/><text:bookmark text:name="__Fieldmark__1073_1366513797"/>Proposed System</text:p>
    </style:header>
    <style:footer>
-    <text:p text:style-name="P4">HLTD Version X.X<text:tab/><text:tab/><text:page-number text:select-page="current">10</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
+    <text:p text:style-name="P4">HLTD Version X.X<text:tab/><text:tab/><text:page-number text:select-page="current">12</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="Converted2" style:page-layout-name="pm4">
@@ -3357,7 +3436,7 @@
     <text:p text:style-name="P1">CMS XLC<text:tab/><field:fieldmark-start text:name="__Fieldmark__3833_1366513797" field:type="STYLEREF  &quot;Heading 2&quot;  \* MERGEFORMAT"/><field:fieldmark-end/><text:bookmark text:name="__Fieldmark__1246_1366513797"/>Proposed System</text:p>
    </style:header>
    <style:footer>
-    <text:p text:style-name="P2">HLTD Version X.X<text:tab/><text:page-number text:select-page="current">11</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
+    <text:p text:style-name="P2">HLTD Version X.X<text:tab/><text:page-number text:select-page="current">14</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="Converted3" style:page-layout-name="pm3">
@@ -3365,7 +3444,7 @@
     <text:p text:style-name="P3">CMS XLC<text:tab/><field:fieldmark-start text:name="__Fieldmark__3969_1366513797" field:type="STYLEREF  &quot;Heading 2&quot;  \* MERGEFORMAT"/><field:fieldmark-end/><text:bookmark text:name="__Fieldmark__1395_1366513797"/>Proposed System</text:p>
    </style:header>
    <style:footer>
-    <text:p text:style-name="P4">HLTD Version X.X<text:tab/><text:page-number text:select-page="current">13</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
+    <text:p text:style-name="P4">HLTD Version X.X<text:tab/><text:page-number text:select-page="current">15</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="Converted4" style:page-layout-name="pm4">
@@ -3373,7 +3452,7 @@
     <text:p text:style-name="P1">CMS XLC<text:tab/><field:fieldmark-start text:name="__Fieldmark__3996_1366513797" field:type="STYLEREF  &quot;Heading 2&quot;  \* MERGEFORMAT"/><field:fieldmark-end/><text:bookmark text:name="__Fieldmark__1422_1366513797"/>Proposed System</text:p>
    </style:header>
    <style:footer>
-    <text:p text:style-name="P2">HLTD Version X.X<text:tab/><text:page-number text:select-page="current">14</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
+    <text:p text:style-name="P2">HLTD Version X.X<text:tab/><text:page-number text:select-page="current">16</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="Converted5" style:page-layout-name="pm3">
@@ -3381,7 +3460,7 @@
     <text:p text:style-name="P3">CMS XLC <text:tab/><field:fieldmark-start text:name="__Fieldmark__4143_1366513797" field:type="STYLEREF  &quot;Heading 2&quot;  \* MERGEFORMAT"/><field:fieldmark-end/><text:bookmark text:name="__Fieldmark__1580_1366513797"/>Proposed System</text:p>
    </style:header>
    <style:footer>
-    <text:p text:style-name="P4">HLTD Version X.X<text:tab/><text:page-number text:select-page="current">15</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
+    <text:p text:style-name="P4">HLTD Version X.X<text:tab/><text:page-number text:select-page="current">17</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="Converted6" style:page-layout-name="pm4">
@@ -3389,7 +3468,7 @@
     <text:p text:style-name="P1">CMS XLC<text:tab/><field:fieldmark-start text:name="__Fieldmark__4167_1366513797" field:type="STYLEREF  &quot;Heading 2&quot;  \* MERGEFORMAT"/><field:fieldmark-end/><text:bookmark text:name="__Fieldmark__1602_1366513797"/>Proposed System</text:p>
    </style:header>
    <style:footer>
-    <text:p text:style-name="P2">HLTD Version X.X<text:tab/><text:page-number text:select-page="current">16</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
+    <text:p text:style-name="P2">HLTD Version X.X<text:tab/><text:page-number text:select-page="current">18</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="Converted7" style:page-layout-name="pm3">
@@ -3397,7 +3476,7 @@
     <text:p text:style-name="P3">CMS XLC<text:tab/><field:fieldmark-start text:name="__Fieldmark__4289_1366513797" field:type="STYLEREF  &quot;Heading 2&quot;  \* MERGEFORMAT"/><field:fieldmark-end/><text:bookmark text:name="__Fieldmark__1736_1366513797"/>Proposed System</text:p>
    </style:header>
    <style:footer>
-    <text:p text:style-name="P5">HLTD Version X.X<text:tab/><text:page-number text:select-page="current">17</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
+    <text:p text:style-name="P5">HLTD Version X.X<text:tab/><text:page-number text:select-page="current">19</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="Converted8" style:page-layout-name="pm4">
@@ -3405,7 +3484,7 @@
     <text:p text:style-name="P1">CMS XLC<text:tab/><field:fieldmark-start text:name="__Fieldmark__4395_1366513797" field:type="STYLEREF  &quot;Heading 2&quot;  \* MERGEFORMAT"/><field:fieldmark-end/><text:bookmark text:name="__Fieldmark__1861_1366513797"/>Proposed System</text:p>
    </style:header>
    <style:footer>
-    <text:p text:style-name="P2">HLTD Version X.X<text:tab/><text:page-number text:select-page="current">18</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
+    <text:p text:style-name="P2">HLTD Version X.X<text:tab/><text:page-number text:select-page="current">22</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="Converted9" style:page-layout-name="pm4">
@@ -3413,12 +3492,13 @@
     <text:p text:style-name="P1">CMS XLC<text:tab/><field:fieldmark-start text:name="__Fieldmark__5114_1366513797" field:type="STYLEREF  &quot;Back Matter Heading&quot;  \* MERGEFORMAT"/><field:fieldmark-end/><text:bookmark text:name="__Fieldmark__2559_1366513797"/>Appendix A: Scenarios Analysis</text:p>
    </style:header>
    <style:footer>
-    <text:p text:style-name="P2">HLTD Version X.X<text:tab/><text:page-number text:select-page="current">21</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
+    <text:p text:style-name="P2">HLTD Version X.X<text:tab/><text:page-number text:select-page="current">33</text:page-number><text:tab/>&lt;Project and release name&gt;</text:p>
    </style:footer>
   </style:master-page>
  </office:master-styles>
  <office:body>
   <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
    <text:sequence-decls>
     <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
@@ -3426,7 +3506,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P28">For instructions on using this template, please see Notes to Author/Template Instructions on page 25. Notes on accessibility: This template has been tested and is best accessible with JAWS 11.0 or higher. For questions about using this template, please contact <text:a xlink:type="simple" xlink:href="mailto:IT_Governance@cms.hhs.gov" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Hyperlink_20_10">CMS IT Governance</text:span></text:a> (<text:a xlink:type="simple" xlink:href="mailto:IT_Governance@cms.hhs.gov" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Hyperlink_20_10">IT_Governance@cms.hhs.gov</text:span></text:a>). To request changes to the template, please submit an <text:a xlink:type="simple" xlink:href="https://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/XLC/Downloads/XLCProcessChangeRequestCR.docx" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Hyperlink_20_10">XLC Process Change Request</text:span></text:a><text:span text:style-name="Hyperlink_20_10"> (CR)</text:span> (<text:a xlink:type="simple" xlink:href="https://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/XLC/Downloads/XLCProcessChangeRequestCR.docx" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Hyperlink_20_10">https://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/XLC/Downloads/XLCProcessChangeRequestCR.docx</text:span></text:a>).</text:p>
+   <text:p text:style-name="P44">For instructions on using this template, please see Notes to Author/Template Instructions on page 25. Notes on accessibility: This template has been tested and is best accessible with JAWS 11.0 or higher. For questions about using this template, please contact <text:a xlink:type="simple" xlink:href="mailto:IT_Governance@cms.hhs.gov" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Hyperlink_20_10">CMS IT Governance</text:span></text:a> (<text:a xlink:type="simple" xlink:href="mailto:IT_Governance@cms.hhs.gov" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Hyperlink_20_10">IT_Governance@cms.hhs.gov</text:span></text:a>). To request changes to the template, please submit an <text:a xlink:type="simple" xlink:href="https://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/XLC/Downloads/XLCProcessChangeRequestCR.docx" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Hyperlink_20_10">XLC Process Change Request</text:span></text:a><text:span text:style-name="Hyperlink_20_10"> (CR)</text:span> (<text:a xlink:type="simple" xlink:href="https://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/XLC/Downloads/XLCProcessChangeRequestCR.docx" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Hyperlink_20_10">https://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/XLC/Downloads/XLCProcessChangeRequestCR.docx</text:span></text:a>).</text:p>
    <text:p text:style-name="Paragraph_20_Spacer_20_10"/>
    <text:p text:style-name="Figure"><draw:frame draw:style-name="fr1" draw:name="Picture 1" text:anchor-type="as-char" svg:width="16.51cm" svg:height="2.223cm" draw:z-index="0"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAtYAAACCCAIAAADt8hhZAAAACXBIWXMAAA7EAAAOxAGVKw4b
@@ -3786,7 +3866,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
    <text:p text:style-name="Cover_20_Project_20_Name">&lt;Project Name/Acronym&gt;</text:p>
    <text:list xml:id="list1462535792402769768" text:style-name="WWNum4">
     <text:list-item>
-     <text:h text:style-name="P6" text:outline-level="1">High-Level Technical Design</text:h>
+     <text:h text:style-name="P10" text:outline-level="1">High-Level Technical Design</text:h>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Cover_20_Text">Version X.X</text:p>
@@ -3794,7 +3874,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="Body_20_Text_20_Bold_20_Char">Document Number</text:span>: &lt;document’s configuration item control number&gt;</text:p>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="Body_20_Text_20_Bold_20_Char">Contract Number</text:span><text:bookmark-start text:name="_Toc278187082"/><text:bookmark-start text:name="_Toc278189218"/>: &lt;current contract number of company maintaining document&gt;</text:p>
    <text:p text:style-name="Text_20_body"/>
-   <text:h text:style-name="P23" text:outline-level="1"><text:bookmark-end text:name="_Toc278189218"/><text:bookmark-end text:name="_Toc278187082"/>Table of Contents</text:h>
+   <text:h text:style-name="P39" text:outline-level="1"><text:bookmark-end text:name="_Toc278189218"/><text:bookmark-end text:name="_Toc278187082"/>Table of Contents</text:h>
    <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Table of Contents1">
     <text:table-of-content-source text:outline-level="10" text:use-outline-level="false" text:use-index-marks="false" text:use-index-source-styles="true">
      <text:index-title-template text:style-name="Contents_20_Heading"/>
@@ -4003,133 +4083,153 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
      <text:p text:style-name="Text_20_body"/>
     </text:index-body>
    </text:illustration-index>
-   <text:list xml:id="list95127902275137" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115712956134605" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P7" text:outline-level="2"><text:bookmark text:name="_Toc4991066631"/><text:bookmark text:name="_Toc396111538"/><text:bookmark text:name="_Toc441656787"/><text:bookmark text:name="_Toc278187080"/><text:bookmark text:name="_Toc278189216"/><text:bookmark text:name="_Toc497871702"/><text:bookmark text:name="_Toc497872046"/><text:bookmark text:name="_Toc497872814"/><text:bookmark text:name="_Toc497872969"/><text:bookmark text:name="_Toc497873017"/><text:bookmark text:name="_Toc4976340561"/><text:bookmark text:name="_Toc4982355841"/><text:bookmark text:name="_Toc4983250241"/>Introduction</text:h>
+       <text:h text:style-name="P11" text:outline-level="2"><text:bookmark text:name="_Toc4991066631"/><text:bookmark text:name="_Toc396111538"/><text:bookmark text:name="_Toc441656787"/><text:bookmark text:name="_Toc278187080"/><text:bookmark text:name="_Toc278189216"/><text:bookmark text:name="_Toc497871702"/><text:bookmark text:name="_Toc497872046"/><text:bookmark text:name="_Toc497872814"/><text:bookmark text:name="_Toc497872969"/><text:bookmark text:name="_Toc497873017"/><text:bookmark text:name="_Toc4976340561"/><text:bookmark text:name="_Toc4982355841"/><text:bookmark text:name="_Toc4983250241"/>Introduction</text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Instructional_20_Text">Instructions: Provide identifying information for the existing and/or proposed automated system or situation for which the High Level Technical Design applies (e.g., the full names and acronyms for the development project, the existing system or situation, and the proposed system or situation, as applicable). Summarize the purpose of the document, the scope of activities that resulted in its development, its relationship to other relevant documents, the intended audience for the document, and expected evolution of the document. Emphasize that the High Level Technical Design is completed during the Concept Phase of the Investment Lifecycle and is intended to describe the conceptual design of the proposed system. This document provides a framework for more detailed requirements and design activities in later phases of the project.</text:p>
-   <text:list xml:id="list95127163372651" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:p text:style-name="P21"><text:span text:style-name="T9">T</text:span><text:span text:style-name="T8">he program being written I have named Linuxconf. </text:span><text:span text:style-name="T10">It builds on the Ubuntu restricted devices program .</text:span></text:p>
+   <text:p text:style-name="P22"><text:span text:style-name="T7">T</text:span><text:span text:style-name="T9">his document explains the architecture <text:s/>the proposed system from a high level of <text:s/>abstraction. </text:span><text:span text:style-name="T10">It is intended for people with an understanding of the process of compiling and inserting linux kernel modules using bash.</text:span></text:p>
+   <text:p text:style-name="P24"><text:span text:style-name="T10">I’m using the waterfall project management process. The concept phase of the process will be written later.</text:span></text:p>
+   <text:list xml:id="list115713024784656" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P7" text:outline-level="2"><text:bookmark text:name="_Toc4978730171"/><text:bookmark text:name="_Toc396111539"/><text:bookmark text:name="_Toc441656788"/><text:bookmark text:name="_Toc288057811"/><text:bookmark text:name="_Toc288057812"/><text:bookmark text:name="_Toc288057813"/><text:bookmark text:name="_Toc288057814"/><text:bookmark text:name="_Toc288057839"/><text:bookmark text:name="_Toc288057840"/><text:bookmark text:name="_Toc4978717021"/><text:bookmark text:name="_Toc4978720461"/><text:bookmark text:name="_Toc4978728141"/><text:bookmark text:name="_Toc4978729691"/>Current System</text:h>
+       <text:h text:style-name="P11" text:outline-level="2"><text:bookmark text:name="_Toc4978730171"/><text:bookmark text:name="_Toc396111539"/><text:bookmark text:name="_Toc441656788"/><text:bookmark text:name="_Toc288057811"/><text:bookmark text:name="_Toc288057812"/><text:bookmark text:name="_Toc288057813"/><text:bookmark text:name="_Toc288057814"/><text:bookmark text:name="_Toc288057839"/><text:bookmark text:name="_Toc288057840"/><text:bookmark text:name="_Toc4978717021"/><text:bookmark text:name="_Toc4978720461"/><text:bookmark text:name="_Toc4978728141"/><text:bookmark text:name="_Toc4978729691"/>Current System</text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Instructional_20_Text">Instructions: If applicable, this section describes the current system that is being replaced, enhanced, or upgraded.</text:p>
-   <text:list xml:id="list95128860211654" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:p text:style-name="P21">T<text:span text:style-name="T6">his project </text:span><text:span text:style-name="T11">builds on the current “</text:span><text:span text:style-name="T7">additional drivers” program in Ubuntu which allows proprietary firmware to be installed. It extends it by </text:span><text:span text:style-name="T10"><text:s/>opening up the configuration process to the Internet at large.</text:span></text:p>
+   <text:list xml:id="list115713004716465" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P13" text:outline-level="3"><text:bookmark text:name="_Toc441656789"/><text:bookmark text:name="_Toc396111540"/>Functional Description</text:h>
+         <text:h text:style-name="P17" text:outline-level="3"><text:bookmark text:name="_Toc441656789"/><text:bookmark text:name="_Toc396111540"/>Functional Description</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Instructional_20_Text">Instructions: Provide a brief description of the functionality of the current system. If available, provide a high level context diagram for the current system.</text:p>
-   <text:list xml:id="list95127484947564" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:p text:style-name="P20">This project enables a user of Linux with limited technical knowledge to easily install Linux kernel modules using a graphical interface. It relies on the Linux community to suggest configurations for each device being installed based on the identifier of that device.</text:p>
+   <text:p text:style-name="P22"><text:span text:style-name="T5">As an incentive for contributions the contributing users will be able to link to their homepage / profile etc possibly with a gps location. <text:s/>When the client users have successfully installed a kernel module the nearest contributer will have a link to their profile, plus some basic information about them, including a link to a picture displayed as well as a list of their skills. </text:span></text:p>
+   <text:p text:style-name="P25"/>
+   <text:p text:style-name="P26">In it’s initial configuration three types of customisaton were planned, configuration of software available from the repositries using apt-get and yum, kernel parameter configueation (for the make config process), and firmware downloads, possibly using all methods for one device configuration.</text:p>
+   <text:p text:style-name="P26"/>
+   <text:p text:style-name="P26">I then realised, having installed a wireless ac adaptor in linux that the scope of devices configurable by this project can be <text:s/>massivley increased by by allowing users to submit <text:s/>git projects for this system. <text:s/>This process doesn’t require recompiling the kernel, which takes time and may lead to an unstable system. <text:s/><text:span text:style-name="T13">When contemplating how to discuss issues with a particular configuration I realised that git hosts everything this system could need, a code repositry for commands, firmware files and configuration builds using make.</text:span></text:p>
+   <text:p text:style-name="P28"/>
+   <text:p text:style-name="P31">After the module has been installed the user will be prompted on the success or failure of the kernel configuration on a per device basis, using a unique code via a website.</text:p>
+   <text:p text:style-name="P29"/>
+   <text:p text:style-name="P29">Due to differences in the dependencies of each Linux distribution this system will focus only on the latest Ubuntu LTS, Ubuntu 18.04 (bionic beaver).</text:p>
+   <text:p text:style-name="P31"/>
+   <text:list xml:id="list115711779953256" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P13" text:outline-level="3"><text:bookmark text:name="_Toc441656790"/><text:bookmark text:name="_Toc396111541"/>User Community Description</text:h>
+         <text:h text:style-name="P17" text:outline-level="3"><text:bookmark text:name="_Toc441656790"/><text:bookmark text:name="_Toc396111541"/>User Community Description</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Instructional_20_Text">Instructions: Identify and describe the users of the current system.</text:p>
-   <text:list xml:id="list95126962949525" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:p text:style-name="P23">Two types of user will take advantage of this system. <text:s/>The client users will benefit from not have to use the shell to install kernel modules, which many people find obscure and <text:soft-page-break/>intimidating. The contributing users will suggest configuration processes referred to as recipes, with the incentive mentioned earlier.</text:p>
+   <text:list xml:id="list115712580747894" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P13" text:outline-level="3"><text:bookmark text:name="_Toc441656791"/><text:bookmark text:name="_Toc396111542"/>Technical Architecture</text:h>
+         <text:h text:style-name="P17" text:outline-level="3"><text:bookmark text:name="_Toc396111542"/><text:bookmark text:name="_Toc441656791"/>Technical Architectur<text:span text:style-name="T12">e</text:span></text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
+   <text:p text:style-name="P7"/>
+   <text:p text:style-name="P8">In it;s initial design the system was going to host links to firmware files, apt-get commands and kernel configuration parameters, on realizing that we need a forum to discuss issues I realized that github.com was doing exactly this, and can reference projects by urls.</text:p>
+   <text:p text:style-name="P27"/>
+   <text:p text:style-name="P30">In order to use github.com the system will look for a certain file, penguin.sh (I’m being obscue to keep the concept of this project quiet) as part of the project. <text:s/>The client system aspect will run this shell script to build and insert the module into the kernel, reporting success or failure to the central database.</text:p>
+   <text:p text:style-name="P8">Potentially any site could be linked to in the database. In order to prevent malware I have decided to stick to using github.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="P6">The system relies on a MySQL database, probably maria DB, accessed using Java EE Servlets using get and post requests of <text:span text:style-name="T13">J</text:span>SON type parameters, <text:span text:style-name="T14">running on tomcat8</text:span>. <text:s/>The Linux client will be written in C++, using gtk and qt libraries for displaying in gnome and KDE respectively. Bash will also be used extensively <text:span text:style-name="T13">to clone the git repository and insert <text:s/>the kernel modules, forked from the client program. Web based technologies to communicate with the aftercare aspect will be used.</text:span></text:p>
+   <text:p text:style-name="P9"/>
    <text:p text:style-name="Instructional_20_Text">Instructions: Identify and describe the technical architecture of the current system. If available, include a high-level diagram that highlights major subsystems and components. Questions for consideration for this subsection include, but are not limited to:</text:p>
    <text:list xml:id="list5011532374799404329" text:style-name="WWNum2">
     <text:list-item>
-     <text:p text:style-name="P29">Is the system custom-built, COTS, or GOTS?</text:p>
+     <text:p text:style-name="P45">Is the system custom-built, COTS, or GOTS?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">What type of processing is the current system responsible for?</text:p>
+     <text:p text:style-name="P45">What type of processing is the current system responsible for?</text:p>
     </text:list-item>
    </text:list>
    <text:list xml:id="list5452575157704186805" text:style-name="WWNum3">
     <text:list-item>
-     <text:p text:style-name="P30">Batch and/or online </text:p>
+     <text:p text:style-name="P46">Batch and/or online </text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P30">Transaction processing and/or analytical reporting</text:p>
+     <text:p text:style-name="P46">Transaction processing and/or analytical reporting</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list95128786055132" text:continue-list="list5011532374799404329" text:style-name="WWNum2">
+   <text:list xml:id="list115711835287740" text:continue-list="list5011532374799404329" text:style-name="WWNum2">
     <text:list-item>
-     <text:p text:style-name="P29">What are the major application components?</text:p>
+     <text:p text:style-name="P45">What are the major application components?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">What data does the current system collect and manage?</text:p>
+     <text:p text:style-name="P45">What data does the current system collect and manage?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">What is the basic application architecture (mainframe, three-tier, two-tier client/server, etc.)?</text:p>
+     <text:p text:style-name="P45">What is the basic application architecture (mainframe, three-tier, two-tier client/server, etc.)?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">What programming language is the current system built in? (e.g. J2EE, .NET, COBOL)?</text:p>
+     <text:p text:style-name="P45">What programming language is the current system built in? (e.g. J2EE, .NET, COBOL)?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">What is the hardware platform that supports the current system (Sun, Wintel, etc.)?</text:p>
+     <text:p text:style-name="P45">What is the hardware platform that supports the current system (Sun, Wintel, etc.)?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">What database platform supports the current system (e.g., DB2, Oracle, or SQL Server)?</text:p>
+     <text:p text:style-name="P45"><text:soft-page-break/>What database platform supports the current system (e.g., DB2, Oracle, or SQL Server)?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Does the system have an end-user interface? If so, what type of user interface does the current system have (e.g., browser based, mainframe terminal, thick client)?</text:p>
+     <text:p text:style-name="P45">Does the system have an end-user interface? If so, what type of user interface does the current system have (e.g., browser based, mainframe terminal, thick client)?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">What is the basic network architecture (e.g., available on LAN, WAN, Internet, Extranet)?</text:p>
+     <text:p text:style-name="P45">What is the basic network architecture (e.g., available on LAN, WAN, Internet, Extranet)?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Where is the system hosted (e.g., Enterprise Data Center, Baltimore Data Center, Other CMS Data Center, External Data Center)?</text:p>
+     <text:p text:style-name="P45">Where is the system hosted (e.g., Enterprise Data Center, Baltimore Data Center, Other CMS Data Center, External Data Center)?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">What contractor is responsible for maintenance of the current system?</text:p>
+     <text:p text:style-name="P45">What contractor is responsible for maintenance of the current system?</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list95128428806177" text:continue-list="list95126962949525" text:style-name="WWNum4">
+   <text:list xml:id="list115713114452460" text:continue-list="list115712580747894" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P7" text:outline-level="2"><text:bookmark text:name="_Toc441656792"/><text:bookmark text:name="_Toc396111543"/>Goals, Objectives, and Rationale for New or Significantly Modified System</text:h>
+       <text:h text:style-name="P11" text:outline-level="2"><text:bookmark text:name="_Toc441656792"/><text:bookmark text:name="_Toc396111543"/>Goals, Objectives, and Rationale for New or Significantly Modified System</text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: This section describes why a new system is being developed or why an existing system is undergoing a significant modification. Identify the stakeholders, goals, and objectives of the new system.</text:p>
-   <text:list xml:id="list95127867179605" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115712997148643" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P13" text:outline-level="3"><text:bookmark text:name="_Toc441656793"/><text:bookmark text:name="_Toc396111544"/>Project Purpose</text:h>
+         <text:h text:style-name="P17" text:outline-level="3"><text:bookmark text:name="_Toc441656793"/><text:bookmark text:name="_Toc396111544"/>Project Purpose</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -4137,13 +4237,13 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Identify the fundamental purpose of this project (e.g., create a brand new system, replace an existing system, or significantly alter an existing system.</text:p>
-   <text:list xml:id="list95127179258644" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115713330534908" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P13" text:outline-level="3"><text:bookmark text:name="_Toc441656794"/><text:bookmark text:name="_Toc396111545"/>System Goals and Objectives</text:h>
+         <text:h text:style-name="P17" text:outline-level="3"><text:bookmark text:name="_Toc441656794"/><text:bookmark text:name="_Toc396111545"/>System Goals and Objectives</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -4151,13 +4251,13 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text"><text:bookmark text:name="_Toc294191293"/>Instructions: Briefly describe the goals and objectives of the new or modified system. Clearly state the business and/or operational problem that will be solved.</text:p>
-   <text:list xml:id="list95128295684557" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115712956851700" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P13" text:outline-level="3"><text:bookmark text:name="_Toc2941912931"/><text:bookmark text:name="_Toc396111546"/><text:bookmark text:name="_Toc441656795"/>Proposed System</text:h>
+         <text:h text:style-name="P17" text:outline-level="3"><text:bookmark text:name="_Toc2941912931"/><text:bookmark text:name="_Toc396111546"/><text:bookmark text:name="_Toc441656795"/>Proposed System</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -4165,7 +4265,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Provide a succinct description of the proposed system. Sections 5 and 6 will describe the proposed system in more detail.</text:p>
-   <text:list xml:id="list95128664097688" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115712329360884" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4173,7 +4273,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P8" text:outline-level="4"><text:bookmark text:name="_Toc441656796"/><text:bookmark text:name="_Toc396111547"/>System Scope</text:h>
+           <text:h text:style-name="P12" text:outline-level="4"><text:bookmark text:name="_Toc441656796"/><text:bookmark text:name="_Toc396111547"/>System Scope</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -4183,7 +4283,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Describe the scope of the proposed system. This subsection should clearly identify the boundaries of the proposed system.</text:p>
-   <text:list xml:id="list95126879537441" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115713323706029" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4191,7 +4291,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P8" text:outline-level="4"><text:bookmark text:name="_Toc441656797"/><text:bookmark text:name="_Toc396111548"/>Business Processes Supported</text:h>
+           <text:h text:style-name="P12" text:outline-level="4"><text:bookmark text:name="_Toc441656797"/><text:bookmark text:name="_Toc396111548"/>Business Processes Supported</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -4201,7 +4301,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Briefly identify and describe the business processes that the proposed system will support. Please note that this section should not describe the processes in extreme detail. The Business Process Model should have the detailed process descriptions.</text:p>
-   <text:list xml:id="list95128039182399" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115713293948495" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4209,7 +4309,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P8" text:outline-level="4"><text:bookmark text:name="_Toc441656798"/><text:bookmark text:name="_Toc396111549"/>High-Level Functional Requirements</text:h>
+           <text:h text:style-name="P12" text:outline-level="4"><text:bookmark text:name="_Toc441656798"/><text:bookmark text:name="_Toc396111549"/>High-Level Functional Requirements</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -4219,7 +4319,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Briefly describe the high level business and user requirements for the system. The purpose of this subsection is to provide enough requirements information to inform the proposed technical design. Detailed requirements should be in the Requirements Document instead of this document.</text:p>
-   <text:list xml:id="list95128718272880" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115711371010801" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4227,7 +4327,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P8" text:outline-level="4"><text:bookmark text:name="_Toc441656799"/><text:bookmark text:name="_Toc396111550"/>Summary of Changes</text:h>
+           <text:h text:style-name="P12" text:outline-level="4"><text:bookmark text:name="_Toc441656799"/><text:bookmark text:name="_Toc396111550"/>Summary of Changes</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -4237,23 +4337,23 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: If changing an existing system, briefly summarize the changes that this project will make to the system (e.g., functionality changes, technology changes, environment changes.</text:p>
-   <text:list xml:id="list95127326090922" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115711350801218" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P7" text:outline-level="2"><text:bookmark text:name="_Toc441656800"/><text:bookmark text:name="_Toc396111551"/>Factors Influencing Technical Design</text:h>
+       <text:h text:style-name="P11" text:outline-level="2"><text:bookmark text:name="_Toc441656800"/><text:bookmark text:name="_Toc396111551"/>Factors Influencing Technical Design</text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: This section describes the standards, assumptions, and constraints that influence the technical design of the proposed system.</text:p>
-   <text:list xml:id="list95128852356749" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115711383270799" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P13" text:outline-level="3"><text:bookmark text:name="_Toc441656801"/><text:bookmark text:name="_Toc396111552"/>Relevant Standards</text:h>
+         <text:h text:style-name="P17" text:outline-level="3"><text:bookmark text:name="_Toc441656801"/><text:bookmark text:name="_Toc396111552"/>Relevant Standards</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -4261,13 +4361,13 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Identify the relevant CMS, Government, and industry standards that govern the technical design.</text:p>
-   <text:list xml:id="list95128855438942" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115712574824461" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P13" text:outline-level="3"><text:bookmark text:name="_Toc441656802"/><text:bookmark text:name="_Toc396111553"/>Assumptions and Dependencies</text:h>
+         <text:h text:style-name="P17" text:outline-level="3"><text:bookmark text:name="_Toc441656802"/><text:bookmark text:name="_Toc396111553"/>Assumptions and Dependencies</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -4275,13 +4375,13 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Describe any assumptions or dependencies regarding the system and its use.</text:p>
-   <text:list xml:id="list95128618018496" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115711808301705" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P13" text:outline-level="3"><text:bookmark text:name="_Toc441656803"/><text:bookmark text:name="_Toc396111554"/>Constraints</text:h>
+         <text:h text:style-name="P17" text:outline-level="3"><text:bookmark text:name="_Toc441656803"/><text:bookmark text:name="_Toc396111554"/>Constraints</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -4289,36 +4389,36 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Describe any limitations or constraints that have a significant impact on the design of the system. Such constraints may be imposed by any of the following (the list is not exhaustive):</text:p>
-   <text:list xml:id="list95128298919424" text:continue-list="list95128786055132" text:style-name="WWNum2">
+   <text:list xml:id="list115713366560835" text:continue-list="list115711835287740" text:style-name="WWNum2">
     <text:list-item>
-     <text:p text:style-name="P29">Hardware or software environment</text:p>
+     <text:p text:style-name="P45">Hardware or software environment</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">End-user environment</text:p>
+     <text:p text:style-name="P45">End-user environment</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Availability of resources</text:p>
+     <text:p text:style-name="P45">Availability of resources</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Interoperability requirements</text:p>
+     <text:p text:style-name="P45">Interoperability requirements</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Interface/protocol requirements</text:p>
+     <text:p text:style-name="P45">Interface/protocol requirements</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Data repository and distribution requirements</text:p>
+     <text:p text:style-name="P45">Data repository and distribution requirements</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Other requirements described in the Requirements Document</text:p>
+     <text:p text:style-name="P45">Other requirements described in the Requirements Document</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list95128032846953" text:continue-list="list95128618018496" text:style-name="WWNum4">
+   <text:list xml:id="list115712981968724" text:continue-list="list115711808301705" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P13" text:outline-level="3"><text:bookmark text:name="_Toc441656804"/><text:bookmark text:name="_Toc396111555"/>Design Goals</text:h>
+         <text:h text:style-name="P17" text:outline-level="3"><text:bookmark text:name="_Toc441656804"/><text:bookmark text:name="_Toc396111555"/>Design Goals</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -4327,34 +4427,34 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Describe any goals, guidelines, principles, or priorities that guide the technical design </text:p>
    <text:p text:style-name="Instructional_20_Text">Examples of design goals include:</text:p>
-   <text:list xml:id="list95128815478804" text:continue-list="list95128298919424" text:style-name="WWNum2">
+   <text:list xml:id="list115712212825694" text:continue-list="list115713366560835" text:style-name="WWNum2">
     <text:list-item>
-     <text:p text:style-name="P29">A new system must have the “look and feel” of an existing system.</text:p>
+     <text:p text:style-name="P45">A new system must have the “look and feel” of an existing system.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Prioritization of the most important quality of service characteristics for the system (e.g., high availability, speed, privacy).</text:p>
+     <text:p text:style-name="P45">Prioritization of the most important quality of service characteristics for the system (e.g., high availability, speed, privacy).</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">A new system must minimize duplication of existing data.</text:p>
+     <text:p text:style-name="P45">A new system must minimize duplication of existing data.</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list95128257212361" text:continue-list="list95128032846953" text:style-name="WWNum4">
+   <text:list xml:id="list115711663335244" text:continue-list="list115712981968724" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P7" text:outline-level="2"><text:bookmark text:name="_Toc441656805"/><text:bookmark text:name="_Toc396111556"/>Proposed System</text:h>
+       <text:h text:style-name="P11" text:outline-level="2"><text:bookmark text:name="_Toc441656805"/><text:bookmark text:name="_Toc396111556"/>Proposed System</text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: This section describes the operational requirements and technical design of the proposed system.</text:p>
-   <text:list xml:id="list95128488845310" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115713140736135" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P13" text:outline-level="3"><text:bookmark text:name="_Toc441656806"/><text:bookmark text:name="_Toc396111557"/>High-Level Operational Requirements and Characteristics</text:h>
+         <text:h text:style-name="P17" text:outline-level="3"><text:bookmark text:name="_Toc441656806"/><text:bookmark text:name="_Toc396111557"/>High-Level Operational Requirements and Characteristics</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -4362,7 +4462,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: This section describes the operational requirements and technical design of the proposed system.</text:p>
-   <text:list xml:id="list95127655846041" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115712499456854" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4370,7 +4470,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P8" text:outline-level="4"><text:bookmark text:name="_Toc441656807"/><text:bookmark text:name="_Toc396111558"/>User Community Description</text:h>
+           <text:h text:style-name="P12" text:outline-level="4"><text:bookmark text:name="_Toc441656807"/><text:bookmark text:name="_Toc396111558"/>User Community Description</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -4380,7 +4480,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Using a table similar to the one below, identify the user community for the proposed system and the key characteristics that will influence the technical design.</text:p>
-   <text:p text:style-name="P24"><text:bookmark-start text:name="_Toc441656834"/>Table <text:sequence text:ref-name="refTable0" text:name="Table" text:formula="ooow:Table+1" style:num-format="1">1</text:sequence><text:bookmark-end text:name="_Toc441656834"/> - User Community Description</text:p>
+   <text:p text:style-name="P40"><text:bookmark-start text:name="_Toc441656834"/>Table <text:sequence text:ref-name="refTable0" text:name="Table" text:formula="ooow:Table+1" style:num-format="1">1</text:sequence><text:bookmark-end text:name="_Toc441656834"/> - User Community Description</text:p>
    <table:table table:name="Table1" table:style-name="Table1">
     <table:table-column table:style-name="Table1.A"/>
     <table:table-column table:style-name="Table1.B"/>
@@ -4392,101 +4492,101 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     <table:table-header-rows>
      <table:table-row table:style-name="Table1.1">
       <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-       <text:p text:style-name="P36">User Group</text:p>
+       <text:p text:style-name="P52">User Group</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-       <text:p text:style-name="P36">Description/Expected Use of System</text:p>
+       <text:p text:style-name="P52">Description/Expected Use of System</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table1.A1" office:value-type="string">
        <text:p text:style-name="Table_20_Text_20_10_20_Header_20_Center">Type</text:p>
-       <text:p text:style-name="P36">(Federal Employee, Contractor)</text:p>
+       <text:p text:style-name="P52">(Federal Employee, Contractor)</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-       <text:p text:style-name="P36">Geographic Location</text:p>
+       <text:p text:style-name="P52">Geographic Location</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table1.A1" office:value-type="string">
        <text:p text:style-name="Table_20_Text_20_10_20_Header_20_Center">Network Profile</text:p>
-       <text:p text:style-name="P36">(LAN, WAN, External)</text:p>
+       <text:p text:style-name="P52">(LAN, WAN, External)</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-       <text:p text:style-name="P36">Total Users</text:p>
+       <text:p text:style-name="P52">Total Users</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-       <text:p text:style-name="P36">Concurrent Users</text:p>
+       <text:p text:style-name="P52">Concurrent Users</text:p>
       </table:table-cell>
      </table:table-row>
     </table:table-header-rows>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;User Group&gt;</text:p>
+      <text:p text:style-name="P19">&lt;User Group&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.B2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Description/Expected Use of System&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Description/Expected Use of System&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;User Type&gt;</text:p>
+      <text:p text:style-name="P19">&lt;User Type&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.D2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Geographic Location&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Geographic Location&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.E2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Network Profile&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Network Profile&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.F2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Total # Users&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Total # Users&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.G2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Total # Concurrent Users&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Total # Concurrent Users&gt;</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;User Group&gt;</text:p>
+      <text:p text:style-name="P19">&lt;User Group&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.B3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Description/Expected Use of System&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Description/Expected Use of System&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;User Type&gt;</text:p>
+      <text:p text:style-name="P19">&lt;User Type&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.D3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Geographic Location&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Geographic Location&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.E3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Network Profile&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Network Profile&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.F3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Total # Users&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Total # Users&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.G3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Total # Concurrent Users&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Total # Concurrent Users&gt;</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;User Group&gt;</text:p>
+      <text:p text:style-name="P19">&lt;User Group&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.B4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Description/Expected Use of System&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Description/Expected Use of System&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;User Type&gt;</text:p>
+      <text:p text:style-name="P19">&lt;User Type&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.D4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Geographic Location&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Geographic Location&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.E4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Network Profile&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Network Profile&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.F4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Total # Users&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Total # Users&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.G4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Total # Concurrent Users&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Total # Concurrent Users&gt;</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:list xml:id="list95128307159500" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115712224168742" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4494,7 +4594,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P9" text:outline-level="4"><text:bookmark text:name="_Toc441656808"/>Non-Functional Requirements</text:h>
+           <text:h text:style-name="P13" text:outline-level="4"><text:bookmark text:name="_Toc441656808"/>Non-Functional Requirements</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -4504,7 +4604,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: This section will identify and describe the non-functional requirements that will influence the design. The topics in the following sections should be discussed at a high level. The Requirements Document, System Design Document (SDD), and other deliverables should cover these topics in more detail. The author should add subsections accordingly to describe additional known non-functional requirements.</text:p>
-   <text:list xml:id="list95126933686809" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115711630328483" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4514,7 +4614,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
           <text:list-item>
            <text:list>
             <text:list-item>
-             <text:h text:style-name="P14" text:outline-level="5">Security and Privacy Considerations</text:h>
+             <text:h text:style-name="P18" text:outline-level="5">Security and Privacy Considerations</text:h>
             </text:list-item>
            </text:list>
           </text:list-item>
@@ -4526,24 +4626,24 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Discuss the key security and privacy considerations that will influence the technical design. Questions to consider for this subsection include, but are not limited to:</text:p>
-   <text:list xml:id="list95127450308555" text:continue-list="list95128815478804" text:style-name="WWNum2">
+   <text:list xml:id="list115711834390362" text:continue-list="list115712212825694" text:style-name="WWNum2">
     <text:list-item>
-     <text:p text:style-name="P29">Will the system store Personal Health Information or Personally Identifiable Information?</text:p>
+     <text:p text:style-name="P45">Will the system store Personal Health Information or Personally Identifiable Information?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Will the system distribute information outside of CMS? If so, to what entities?</text:p>
+     <text:p text:style-name="P45">Will the system distribute information outside of CMS? If so, to what entities?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">What are the user access requirements (e.g., Internet, Extranet)?</text:p>
+     <text:p text:style-name="P45">What are the user access requirements (e.g., Internet, Extranet)?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">What are the business risks of this system from a security and privacy perspective?</text:p>
+     <text:p text:style-name="P45">What are the business risks of this system from a security and privacy perspective?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">What security and privacy rules must this system meet?</text:p>
+     <text:p text:style-name="P45">What security and privacy rules must this system meet?</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list95127603546286" text:continue-list="list95126933686809" text:style-name="WWNum4">
+   <text:list xml:id="list115712367526078" text:continue-list="list115711630328483" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4553,7 +4653,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
           <text:list-item>
            <text:list>
             <text:list-item>
-             <text:h text:style-name="P14" text:outline-level="5">Availability Requirements</text:h>
+             <text:h text:style-name="P18" text:outline-level="5">Availability Requirements</text:h>
             </text:list-item>
            </text:list>
           </text:list-item>
@@ -4565,18 +4665,18 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Discuss the key availability requirements that will influence the technical design. Questions to consider for this subsection include, but are not limited to:</text:p>
-   <text:list xml:id="list95127368275147" text:continue-list="list95127450308555" text:style-name="WWNum2">
+   <text:list xml:id="list115712833016990" text:continue-list="list115711834390362" text:style-name="WWNum2">
     <text:list-item>
-     <text:p text:style-name="P29">What is the anticipated required service uptime for the system (e.g., 24/7 operations, Monday through Friday business hours)?</text:p>
+     <text:p text:style-name="P45">What is the anticipated required service uptime for the system (e.g., 24/7 operations, Monday through Friday business hours)?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">How quickly should the system come back up after an outage?</text:p>
+     <text:p text:style-name="P45">How quickly should the system come back up after an outage?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">How much downtime is acceptable for the system (e.g., how many times per month can the system go down?)</text:p>
+     <text:p text:style-name="P45">How much downtime is acceptable for the system (e.g., how many times per month can the system go down?)</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list95127797491646" text:continue-list="list95127603546286" text:style-name="WWNum4">
+   <text:list xml:id="list115712239206499" text:continue-list="list115712367526078" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4586,7 +4686,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
           <text:list-item>
            <text:list>
             <text:list-item>
-             <text:h text:style-name="P14" text:outline-level="5">Volume and Performance Expectations</text:h>
+             <text:h text:style-name="P18" text:outline-level="5">Volume and Performance Expectations</text:h>
             </text:list-item>
            </text:list>
           </text:list-item>
@@ -4598,32 +4698,32 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Discuss the volume and performance expectations that will influence the technical design. Questions to consider for this subsection include, but are not limited to:</text:p>
-   <text:list xml:id="list95127574065878" text:continue-list="list95127368275147" text:style-name="WWNum2">
+   <text:list xml:id="list115713326110313" text:continue-list="list115712833016990" text:style-name="WWNum2">
     <text:list-item>
-     <text:p text:style-name="P29">What is the anticipated volume of records per day/month/year?</text:p>
+     <text:p text:style-name="P45">What is the anticipated volume of records per day/month/year?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Will there be peak processing periods throughout the day/week/month/year?</text:p>
+     <text:p text:style-name="P45">Will there be peak processing periods throughout the day/week/month/year?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">What is the anticipated nature of transactions in the system:</text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list95127277588435" text:continue-list="list5452575157704186805" text:style-name="WWNum3">
-    <text:list-item>
-     <text:p text:style-name="P30">Will transactions be evenly distributed or clustered around specific times?</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P30">Will the average transaction be small (e.g., data entry of single records) or large data transmissions (e.g., retrieval of large data sets for reports)?</text:p>
+     <text:p text:style-name="P45">What is the anticipated nature of transactions in the system:</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list95127882963438" text:continue-list="list95127797491646" text:style-name="WWNum4">
+   <text:list xml:id="list115711672636028" text:continue-list="list5452575157704186805" text:style-name="WWNum3">
+    <text:list-item>
+     <text:p text:style-name="P46">Will transactions be evenly distributed or clustered around specific times?</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P46">Will the average transaction be small (e.g., data entry of single records) or large data transmissions (e.g., retrieval of large data sets for reports)?</text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list115712494069561" text:continue-list="list115712239206499" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P13" text:outline-level="3"><text:bookmark text:name="_Toc441656809"/><text:bookmark text:name="_Toc396111560"/><text:soft-page-break/>High-Level Architecture</text:h>
+         <text:h text:style-name="P17" text:outline-level="3"><text:bookmark text:name="_Toc441656809"/><text:bookmark text:name="_Toc396111560"/><text:soft-page-break/>High-Level Architecture</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -4644,87 +4744,87 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     <table:table-header-rows>
      <table:table-row table:style-name="Table2.1">
       <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-       <text:p text:style-name="P36">Alternative</text:p>
+       <text:p text:style-name="P52">Alternative</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-       <text:p text:style-name="P36">Description</text:p>
+       <text:p text:style-name="P52">Description</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-       <text:p text:style-name="P36">Pros</text:p>
+       <text:p text:style-name="P52">Pros</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-       <text:p text:style-name="P36">Cons</text:p>
+       <text:p text:style-name="P52">Cons</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-       <text:p text:style-name="P36">Preferred Alternative?</text:p>
+       <text:p text:style-name="P52">Preferred Alternative?</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-       <text:p text:style-name="P36">Rationale</text:p>
+       <text:p text:style-name="P52">Rationale</text:p>
       </table:table-cell>
      </table:table-row>
     </table:table-header-rows>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Alternative&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Alternative&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.B2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Description&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Description&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.C2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Pros&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Pros&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.D2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Cons&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Cons&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.E2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Yes or No&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Yes or No&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.F2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Rationale&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Rationale&gt;</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Alternative&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Alternative&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.B3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Description&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Description&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.C3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Pros&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Pros&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.D3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Cons&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Cons&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.E3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Yes or No&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Yes or No&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.F3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Rationale&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Rationale&gt;</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Alternative&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Alternative&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.B4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Description&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Description&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.C4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Pros&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Pros&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.D4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Cons&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Cons&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.E4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Yes or No&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Yes or No&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.F4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Rationale&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Rationale&gt;</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:list xml:id="list95127201428390" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115711681573050" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4732,7 +4832,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P8" text:outline-level="4"><text:bookmark text:name="_Toc441656810"/><text:bookmark text:name="_Toc396111561"/>Application Architecture</text:h>
+           <text:h text:style-name="P12" text:outline-level="4"><text:bookmark text:name="_Toc441656810"/><text:bookmark text:name="_Toc396111561"/>Application Architecture</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -4742,7 +4842,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Using a table similar to the one below, describe the application components in the architecture diagram above. If the project team considered alternatives around a particular application component, discuss in this subsection.</text:p>
-   <text:p text:style-name="P25"><text:bookmark-start text:name="_Toc441656836"/>Table <text:sequence text:ref-name="refTable2" text:name="Table" text:formula="ooow:Table+1" style:num-format="1">3</text:sequence><text:bookmark-end text:name="_Toc441656836"/> - Description of Application Components</text:p>
+   <text:p text:style-name="P41"><text:bookmark-start text:name="_Toc441656836"/>Table <text:sequence text:ref-name="refTable2" text:name="Table" text:formula="ooow:Table+1" style:num-format="1">3</text:sequence><text:bookmark-end text:name="_Toc441656836"/> - Description of Application Components</text:p>
    <table:table table:name="Table3" table:style-name="Table3">
     <table:table-column table:style-name="Table3.A"/>
     <table:table-column table:style-name="Table3.B"/>
@@ -4756,128 +4856,128 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     <table:table-header-rows>
      <table:table-row table:style-name="Table3.1">
       <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-       <text:p text:style-name="P36">Diagram ID</text:p>
+       <text:p text:style-name="P52">Diagram ID</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-       <text:p text:style-name="P36">Application Component</text:p>
+       <text:p text:style-name="P52">Application Component</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table3.A1" office:value-type="string">
        <text:p text:style-name="Table_20_Text_20_10_20_Header_20_Center">Description</text:p>
-       <text:p text:style-name="P36">(Business Process Supported, Purpose of Component)</text:p>
+       <text:p text:style-name="P52">(Business Process Supported, Purpose of Component)</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table3.A1" office:value-type="string">
        <text:p text:style-name="Table_20_Text_20_10_20_Header_20_Center">Type</text:p>
-       <text:p text:style-name="P36">(Identify both - (1) Operational or Analytical; (2) Batch or Online?)</text:p>
+       <text:p text:style-name="P52">(Identify both - (1) Operational or Analytical; (2) Batch or Online?)</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table3.A1" office:value-type="string">
        <text:p text:style-name="Table_20_Text_20_10_20_Header_20_Center">Strategy</text:p>
-       <text:p text:style-name="P36">(Build, Buy, Reuse, Rewrite)</text:p>
+       <text:p text:style-name="P52">(Build, Buy, Reuse, Rewrite)</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-       <text:p text:style-name="P36">Alternatives</text:p>
+       <text:p text:style-name="P52">Alternatives</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-       <text:p text:style-name="P36">Pros</text:p>
+       <text:p text:style-name="P52">Pros</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-       <text:p text:style-name="P36">Cons</text:p>
+       <text:p text:style-name="P52">Cons</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-       <text:p text:style-name="P36">Preferred Alternative</text:p>
+       <text:p text:style-name="P52">Preferred Alternative</text:p>
       </table:table-cell>
      </table:table-row>
     </table:table-header-rows>
     <table:table-row table:style-name="Table3.1">
      <table:table-cell table:style-name="Table3.A2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;ID&gt;</text:p>
+      <text:p text:style-name="P19">&lt;ID&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.B2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Component&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Component&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.C2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Description&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Description&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.D2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Type&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Type&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.E2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Strategy&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Strategy&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.F2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Alternatives&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Alternatives&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.G2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Pros&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Pros&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.H2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Cons&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Cons&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.I2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Preferred Alternative&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Preferred Alternative&gt;</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table3.1">
      <table:table-cell table:style-name="Table3.A3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;ID&gt;</text:p>
+      <text:p text:style-name="P19">&lt;ID&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.B3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Component&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Component&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.C3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Description&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Description&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.D3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Type&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Type&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.E3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Strategy&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Strategy&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.F3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Alternatives&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Alternatives&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.G3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Pros&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Pros&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.H3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Cons&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Cons&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.I3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Preferred Alternative&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Preferred Alternative&gt;</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table3.1">
      <table:table-cell table:style-name="Table3.A4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;ID&gt;</text:p>
+      <text:p text:style-name="P19">&lt;ID&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.B4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Component&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Component&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.C4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Description&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Description&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.D4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Type&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Type&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.E4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Strategy&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Strategy&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.F4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Alternatives&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Alternatives&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.G4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Pros&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Pros&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.H4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Cons&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Cons&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.I4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Preferred Alternative&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Preferred Alternative&gt;</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
    <text:p text:style-name="Paragraph_20_Spacer_20_10"/>
    <text:p text:style-name="Instructional_20_Text">Instructions: Insert footnotes to applications at bottom of page.</text:p>
-   <text:list xml:id="list95127758005497" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115712063015958" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4885,7 +4985,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P10" text:outline-level="4"><text:bookmark text:name="_Toc441656811"/><text:bookmark text:name="_Toc396111562"/>Information Architecture</text:h>
+           <text:h text:style-name="P14" text:outline-level="4"><text:bookmark text:name="_Toc441656811"/><text:bookmark text:name="_Toc396111562"/>Information Architecture</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -4896,7 +4996,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Describe the information components required to support the system. Start by identifying and describing the conceptual data entities relevant for the system. These should be the highest level information categories for the system (e.g., claims, provider, beneficiary, or clinical data.) This is not intended to be a complete logical or physical data model.</text:p>
    <text:p text:style-name="Instructional_20_Text">Using a matrix similar to the table below, describe the information required for the system. If the project team considered alternatives around a particular information component, discuss in this subsection</text:p>
-   <text:p text:style-name="P26"><text:bookmark-start text:name="_Toc441656837"/>Table <text:sequence text:ref-name="refTable3" text:name="Table" text:formula="ooow:Table+1" style:num-format="1">4</text:sequence><text:bookmark-end text:name="_Toc441656837"/> - Description of Information Components</text:p>
+   <text:p text:style-name="P42"><text:bookmark-start text:name="_Toc441656837"/>Table <text:sequence text:ref-name="refTable3" text:name="Table" text:formula="ooow:Table+1" style:num-format="1">4</text:sequence><text:bookmark-end text:name="_Toc441656837"/> - Description of Information Components</text:p>
    <table:table table:name="Table4" table:style-name="Table4">
     <table:table-column table:style-name="Table4.A"/>
     <table:table-column table:style-name="Table4.B"/>
@@ -4911,139 +5011,139 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     <table:table-header-rows>
      <table:table-row table:style-name="Table4.1">
       <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-       <text:p text:style-name="P36">Diagram ID</text:p>
+       <text:p text:style-name="P52">Diagram ID</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-       <text:p text:style-name="P36">Conceptual Information (Entity)</text:p>
+       <text:p text:style-name="P52">Conceptual Information (Entity)</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-       <text:p text:style-name="P36">Description</text:p>
+       <text:p text:style-name="P52">Description</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-       <text:p text:style-name="P36">Type of Data Store (Transactional, Analytical)</text:p>
+       <text:p text:style-name="P52">Type of Data Store (Transactional, Analytical)</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table4.A1" office:value-type="string">
        <text:p text:style-name="Table_20_Text_20_10_20_Header_20_Center">System of Record?</text:p>
-       <text:p text:style-name="P36">(Does this system or another system serve as system or record for information?)</text:p>
+       <text:p text:style-name="P52">(Does this system or another system serve as system or record for information?)</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table4.A1" office:value-type="string">
        <text:p text:style-name="Table_20_Text_20_10_20_Header_20_Center">Data Acquisition Approach</text:p>
-       <text:p text:style-name="P36">(e.g., User Data Entry, Interface)</text:p>
+       <text:p text:style-name="P52">(e.g., User Data Entry, Interface)</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-       <text:p text:style-name="P36">Alternatives</text:p>
+       <text:p text:style-name="P52">Alternatives</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-       <text:p text:style-name="P36">Pros</text:p>
+       <text:p text:style-name="P52">Pros</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-       <text:p text:style-name="P36">Cons</text:p>
+       <text:p text:style-name="P52">Cons</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-       <text:p text:style-name="P36">Preferred Alternative</text:p>
+       <text:p text:style-name="P52">Preferred Alternative</text:p>
       </table:table-cell>
      </table:table-row>
     </table:table-header-rows>
     <table:table-row table:style-name="Table4.1">
      <table:table-cell table:style-name="Table4.A2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;ID&gt;</text:p>
+      <text:p text:style-name="P19">&lt;ID&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Conceptual Information&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Conceptual Information&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.C2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Description&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Description&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.D2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Type of Data Store&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Type of Data Store&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.E2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;System of Record?&gt;</text:p>
+      <text:p text:style-name="P19">&lt;System of Record?&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.F2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Data Acquisition Approach&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Data Acquisition Approach&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.G2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Alternatives&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Alternatives&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.H2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Pros&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Pros&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.I2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Cons&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Cons&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.J2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Preferred Alternative&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Preferred Alternative&gt;</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table4.1">
      <table:table-cell table:style-name="Table4.A3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;ID&gt;</text:p>
+      <text:p text:style-name="P19">&lt;ID&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Conceptual Information&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Conceptual Information&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.C3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Description&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Description&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.D3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Type of Data Store&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Type of Data Store&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.E3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;System of Record?&gt;</text:p>
+      <text:p text:style-name="P19">&lt;System of Record?&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.F3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Data Acquisition Approach&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Data Acquisition Approach&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.G3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Alternatives&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Alternatives&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.H3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Pros&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Pros&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.I3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Cons&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Cons&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.J3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Preferred Alternative&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Preferred Alternative&gt;</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table4.1">
      <table:table-cell table:style-name="Table4.A4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;ID&gt;</text:p>
+      <text:p text:style-name="P19">&lt;ID&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Conceptual Information&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Conceptual Information&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.C4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Description&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Description&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.D4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Type of Data Store&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Type of Data Store&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.E4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;System of Record?&gt;</text:p>
+      <text:p text:style-name="P19">&lt;System of Record?&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.F4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Data Acquisition Approach&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Data Acquisition Approach&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.G4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Alternatives&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Alternatives&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.H4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Pros&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Pros&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.I4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Cons&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Cons&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.J4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Preferred Alternative&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Preferred Alternative&gt;</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
    <text:p text:style-name="Paragraph_20_Spacer_20_10"/>
    <text:p text:style-name="Instructional_20_Text">Instructions: Insert footnotes to information at bottom of page.</text:p>
-   <text:list xml:id="list95127389255667" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115711979191328" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5051,7 +5151,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P11" text:outline-level="4"><text:bookmark text:name="_Toc396111563"/><text:bookmark text:name="_Toc441656812"/>Interface Architecture</text:h>
+           <text:h text:style-name="P15" text:outline-level="4"><text:bookmark text:name="_Toc396111563"/><text:bookmark text:name="_Toc441656812"/>Interface Architecture</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -5061,7 +5161,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Using a matrix similar to the table below, describe the interfaces required to support the system.</text:p>
-   <text:p text:style-name="P27"><text:bookmark-start text:name="_Toc441656838"/>Table <text:sequence text:ref-name="refTable4" text:name="Table" text:formula="ooow:Table+1" style:num-format="1">5</text:sequence><text:bookmark-end text:name="_Toc441656838"/> - Description of Required Interfaces</text:p>
+   <text:p text:style-name="P43"><text:bookmark-start text:name="_Toc441656838"/>Table <text:sequence text:ref-name="refTable4" text:name="Table" text:formula="ooow:Table+1" style:num-format="1">5</text:sequence><text:bookmark-end text:name="_Toc441656838"/> - Description of Required Interfaces</text:p>
    <table:table table:name="Table5" table:style-name="Table5">
     <table:table-column table:style-name="Table5.A"/>
     <table:table-column table:style-name="Table5.B"/>
@@ -5074,114 +5174,114 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     <table:table-header-rows>
      <table:table-row table:style-name="Table5.1">
       <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-       <text:p text:style-name="P36">Diagram ID</text:p>
+       <text:p text:style-name="P52">Diagram ID</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-       <text:p text:style-name="P36">Information Shared</text:p>
+       <text:p text:style-name="P52">Information Shared</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-       <text:p text:style-name="P36">Interfacing Application</text:p>
+       <text:p text:style-name="P52">Interfacing Application</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-       <text:p text:style-name="P36">Purpose</text:p>
+       <text:p text:style-name="P52">Purpose</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-       <text:p text:style-name="P36">Platforms Involved</text:p>
+       <text:p text:style-name="P52">Platforms Involved</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-       <text:p text:style-name="P36">Inbound or Outbound?</text:p>
+       <text:p text:style-name="P52">Inbound or Outbound?</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-       <text:p text:style-name="P36">Batch or Near-Real Time?</text:p>
+       <text:p text:style-name="P52">Batch or Near-Real Time?</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table5.A1" office:value-type="string">
        <text:p text:style-name="Table_20_Text_20_10_20_Header_20_Center">Data Stored Persistently?</text:p>
-       <text:p text:style-name="P36">(Will proposed system store inbound data from external system persistently?)</text:p>
+       <text:p text:style-name="P52">(Will proposed system store inbound data from external system persistently?)</text:p>
       </table:table-cell>
      </table:table-row>
     </table:table-header-rows>
     <table:table-row table:style-name="Table5.1">
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;ID&gt;</text:p>
+      <text:p text:style-name="P19">&lt;ID&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.B2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Information Shared&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Information Shared&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.C2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Interfacing Application&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Interfacing Application&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.D2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Purpose&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Purpose&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.E2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Platforms Involved&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Platforms Involved&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.F2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Inbound or Outbound&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Inbound or Outbound&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.G2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Batch or Near-Real Time?&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Batch or Near-Real Time?&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.H2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Data Stored Persistently?&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Data Stored Persistently?&gt;</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table5.1">
      <table:table-cell table:style-name="Table5.A3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;ID&gt;</text:p>
+      <text:p text:style-name="P19">&lt;ID&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.B3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Information Shared&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Information Shared&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.C3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Interfacing Application&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Interfacing Application&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.D3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Purpose&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Purpose&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.E3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Platforms Involved&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Platforms Involved&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.F3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Inbound or Outbound&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Inbound or Outbound&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.G3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Batch or Near-Real Time?&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Batch or Near-Real Time?&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.H3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Data Stored Persistently?&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Data Stored Persistently?&gt;</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table5.1">
      <table:table-cell table:style-name="Table5.A4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;ID&gt;</text:p>
+      <text:p text:style-name="P19">&lt;ID&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.B4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Information Shared&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Information Shared&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.C4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Interfacing Application&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Interfacing Application&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.D4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Purpose&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Purpose&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.E4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Platforms Involved&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Platforms Involved&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.F4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Inbound or Outbound&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Inbound or Outbound&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.G4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Batch or Near-Real Time?&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Batch or Near-Real Time?&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.H4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Data Stored Persistently?&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Data Stored Persistently?&gt;</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
    <text:p text:style-name="Paragraph_20_Spacer_20_10"/>
    <text:p text:style-name="Instructional_20_Text">Instructions: Insert footnotes to interfaces at bottom of page.</text:p>
-   <text:list xml:id="list95127462489480" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115712448130235" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5189,7 +5289,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P12" text:outline-level="4"><text:bookmark text:name="_Toc396111564"/><text:bookmark text:name="_Toc441656813"/>Technology Architecture</text:h>
+           <text:h text:style-name="P16" text:outline-level="4"><text:bookmark text:name="_Toc396111564"/><text:bookmark text:name="_Toc441656813"/>Technology Architecture</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -5199,7 +5299,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Describe the anticipated infrastructure that will be required to support the application and information architecture. At this point in the project, focus on describing the technology architecture at a high level only.</text:p>
-   <text:list xml:id="list95127959653638" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115712629550068" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5209,7 +5309,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
           <text:list-item>
            <text:list>
             <text:list-item>
-             <text:h text:style-name="P14" text:outline-level="5">Platform</text:h>
+             <text:h text:style-name="P18" text:outline-level="5">Platform</text:h>
             </text:list-item>
            </text:list>
           </text:list-item>
@@ -5221,7 +5321,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Identify the target platform expected for the system (e.g., mainframe, mid-tier, or other).</text:p>
-   <text:list xml:id="list95126920440878" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115712494461381" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5231,7 +5331,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
           <text:list-item>
            <text:list>
             <text:list-item>
-             <text:h text:style-name="P14" text:outline-level="5">System Hosting</text:h>
+             <text:h text:style-name="P18" text:outline-level="5">System Hosting</text:h>
             </text:list-item>
            </text:list>
           </text:list-item>
@@ -5243,7 +5343,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Identify the target hosting for the system (e.g., EDC, BDC, Other).</text:p>
-   <text:list xml:id="list95127308439597" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115712418499718" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5253,7 +5353,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
           <text:list-item>
            <text:list>
             <text:list-item>
-             <text:h text:style-name="P14" text:outline-level="5">Connectivity Requirements</text:h>
+             <text:h text:style-name="P18" text:outline-level="5">Connectivity Requirements</text:h>
             </text:list-item>
            </text:list>
           </text:list-item>
@@ -5265,7 +5365,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Identify network connectivity requirements for the system (e.g., Internet, Extranet).</text:p>
-   <text:list xml:id="list95128799179387" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115713240440420" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5275,7 +5375,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
           <text:list-item>
            <text:list>
             <text:list-item>
-             <text:h text:style-name="P14" text:outline-level="5">Modes of Operation</text:h>
+             <text:h text:style-name="P18" text:outline-level="5">Modes of Operation</text:h>
             </text:list-item>
            </text:list>
           </text:list-item>
@@ -5287,27 +5387,27 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Describe the modes that the system will operate in:</text:p>
-   <text:list xml:id="list95127492993206" text:continue-list="list95127574065878" text:style-name="WWNum2">
+   <text:list xml:id="list115711618223957" text:continue-list="list115713326110313" text:style-name="WWNum2">
     <text:list-item>
-     <text:p text:style-name="P29">What environments will the system need (e.g., development, test, and production)?</text:p>
+     <text:p text:style-name="P45">What environments will the system need (e.g., development, test, and production)?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Will there be just one production instance of the system? </text:p>
+     <text:p text:style-name="P45">Will there be just one production instance of the system? </text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Will the old and new system run in parallel?</text:p>
+     <text:p text:style-name="P45">Will the old and new system run in parallel?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Will there be a pilot? If so, what is the success criteria and exit strategy?</text:p>
+     <text:p text:style-name="P45">Will there be a pilot? If so, what is the success criteria and exit strategy?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Will the existing system be retired?</text:p>
+     <text:p text:style-name="P45">Will the existing system be retired?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Should the new system convert the data from the current system?</text:p>
+     <text:p text:style-name="P45">Should the new system convert the data from the current system?</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list95128738335677" text:continue-list="list95128799179387" text:style-name="WWNum4">
+   <text:list xml:id="list115712723595087" text:continue-list="list115713240440420" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5315,7 +5415,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P8" text:outline-level="4"><text:bookmark text:name="_Toc441656814"/><text:bookmark text:name="_Toc396111565"/>Security and Privacy Architecture</text:h>
+           <text:h text:style-name="P12" text:outline-level="4"><text:bookmark text:name="_Toc441656814"/><text:bookmark text:name="_Toc396111565"/>Security and Privacy Architecture</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -5325,7 +5425,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Describe the anticipated security and privacy architecture. The purpose of this discussion is to identify the general approach to security to ensure that proper controls will be implemented into the system. This is not intended to be a detailed security design.</text:p>
-   <text:list xml:id="list95126938392671" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115712806964112" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5335,7 +5435,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
           <text:list-item>
            <text:list>
             <text:list-item>
-             <text:h text:style-name="P14" text:outline-level="5">Authentication</text:h>
+             <text:h text:style-name="P18" text:outline-level="5">Authentication</text:h>
             </text:list-item>
            </text:list>
           </text:list-item>
@@ -5347,7 +5447,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Describe the basic user authentication approach to verify user identity before allowing access to the system. For example, will the system use the IACS single-sign-on solution?</text:p>
-   <text:list xml:id="list95127553048933" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115712041216908" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5357,7 +5457,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
           <text:list-item>
            <text:list>
             <text:list-item>
-             <text:h text:style-name="P14" text:outline-level="5">Authorization</text:h>
+             <text:h text:style-name="P18" text:outline-level="5">Authorization</text:h>
             </text:list-item>
            </text:list>
           </text:list-item>
@@ -5369,7 +5469,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Describe the anticipated approach for authorizing users to perform functional activity once logged into the system.</text:p>
-   <text:list xml:id="list95128023729321" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115711822306173" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5379,7 +5479,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
           <text:list-item>
            <text:list>
             <text:list-item>
-             <text:h text:style-name="P14" text:outline-level="5"><text:soft-page-break/>Encryption</text:h>
+             <text:h text:style-name="P18" text:outline-level="5"><text:soft-page-break/>Encryption</text:h>
             </text:list-item>
            </text:list>
           </text:list-item>
@@ -5391,23 +5491,23 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Based on the business risks and the nature of the information, identify if there are any anticipated needs to encrypt the data.</text:p>
-   <text:list xml:id="list95127532249179" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115712531497836" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P7" text:outline-level="2"><text:bookmark text:name="_Toc441656815"/><text:bookmark text:name="_Toc396111566"/>Analysis of the Proposed System</text:h>
+       <text:h text:style-name="P11" text:outline-level="2"><text:bookmark text:name="_Toc441656815"/><text:bookmark text:name="_Toc396111566"/>Analysis of the Proposed System</text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: This section analyzes the proposed system by determining its impact on the organization, analyzing risks, and describing remaining open issues.</text:p>
-   <text:list xml:id="list95128767893012" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115711660477955" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P13" text:outline-level="3"><text:bookmark text:name="_Toc441656816"/><text:bookmark text:name="_Toc396111567"/>Impact Analysis</text:h>
+         <text:h text:style-name="P17" text:outline-level="3"><text:bookmark text:name="_Toc441656816"/><text:bookmark text:name="_Toc396111567"/>Impact Analysis</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -5415,7 +5515,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Describe the impact to existing operations and organizations.</text:p>
-   <text:list xml:id="list95127744416511" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115711744785619" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5423,15 +5523,15 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P8" text:outline-level="4"><text:bookmark text:name="_Toc441656817"/><text:bookmark text:name="_Toc396111568"/>Operational Impacts</text:h>
+           <text:h text:style-name="P12" text:outline-level="4"><text:bookmark text:name="_Toc441656817"/><text:bookmark text:name="_Toc396111568"/>Operational Impacts</text:h>
           </text:list-item>
           <text:list-item>
-           <text:h text:style-name="P8" text:outline-level="4"><text:bookmark text:name="_Toc441656818"/><text:bookmark text:name="_Toc396111569"/>Organizational Impacts</text:h>
+           <text:h text:style-name="P12" text:outline-level="4"><text:bookmark text:name="_Toc441656818"/><text:bookmark text:name="_Toc396111569"/>Organizational Impacts</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
         <text:list-item>
-         <text:h text:style-name="P13" text:outline-level="3"><text:bookmark text:name="_Toc441656819"/><text:bookmark text:name="_Toc396111570"/>Risks</text:h>
+         <text:h text:style-name="P17" text:outline-level="3"><text:bookmark text:name="_Toc441656819"/><text:bookmark text:name="_Toc396111570"/>Risks</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -5439,13 +5539,13 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Describe the risks that the preferred alternative presents and risks that will remain after implementing the design.</text:p>
-   <text:list xml:id="list95128026614432" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115711785684573" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P13" text:outline-level="3"><text:bookmark text:name="_Toc441656820"/><text:bookmark text:name="_Toc396111571"/>Issues to Resolve</text:h>
+         <text:h text:style-name="P17" text:outline-level="3"><text:bookmark text:name="_Toc441656820"/><text:bookmark text:name="_Toc396111571"/>Issues to Resolve</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -5453,13 +5553,13 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Identify and describe any open issues that the project team will need to resolve in later project phases.</text:p>
-   <text:list xml:id="list95127983330579" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list115712201070730" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P13" text:outline-level="3"><text:bookmark text:name="_Toc441656821"/><text:bookmark text:name="_Toc396111572"/>Critical Success Factors for Remainder of Project</text:h>
+         <text:h text:style-name="P17" text:outline-level="3"><text:bookmark text:name="_Toc441656821"/><text:bookmark text:name="_Toc396111572"/>Critical Success Factors for Remainder of Project</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -5467,7 +5567,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">Instructions: Based on the analysis completed in the Concept Phase, identify critical success factors for the remainder of the project.</text:p>
-   <text:p text:style-name="P19"><text:bookmark text:name="_Toc396111573"/><text:bookmark text:name="AppA"/><text:bookmark text:name="_Toc441656822"/>Appendix A: Scenarios Analysis</text:p>
+   <text:p text:style-name="P35"><text:bookmark text:name="_Toc396111573"/><text:bookmark text:name="AppA"/><text:bookmark text:name="_Toc441656822"/>Appendix A: Scenarios Analysis</text:p>
    <text:p text:style-name="Instructional_20_Text">Instructions: Describe the general functionality of the system from the users’ perspectives and provide an execution or operational flow of the system via operational scenarios that provide step-by-step descriptions of how the proposed system should operate and interact with its users and its external interfaces under a given set of circumstances. The scenarios tie together all parts of the system, the users, and other entities by describing how they interact, and may also be used to describe what the system should not do.</text:p>
    <text:p text:style-name="Instructional_20_Text">The scenarios can be presented in several different ways: 1) for each major processing function of the proposed system, or 2) thread-based, where each scenario follows one type of transaction type through the proposed system, or 3) following the information flow through the system for each user capability, following the control flows, or focusing on the objects and events in the system. The number of scenarios and level of detail specified will be proportional to the perceived risk and the criticality of the project.</text:p>
    <text:p text:style-name="Back_20_Matter_20_Heading"><text:bookmark text:name="_Toc441656823"/><text:bookmark text:name="_Toc396111574"/><text:bookmark text:name="AppB"/>Appendix B: Conceptual Information Model</text:p>
@@ -6348,59 +6448,59 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     <table:table-header-rows>
      <table:table-row table:style-name="Table6.1">
       <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-       <text:p text:style-name="P36">Version Number</text:p>
+       <text:p text:style-name="P52">Version Number</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-       <text:p text:style-name="P36">Date</text:p>
+       <text:p text:style-name="P52">Date</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-       <text:p text:style-name="P36">Author/Owner</text:p>
+       <text:p text:style-name="P52">Author/Owner</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-       <text:p text:style-name="P36">Description of Change</text:p>
+       <text:p text:style-name="P52">Description of Change</text:p>
       </table:table-cell>
      </table:table-row>
     </table:table-header-rows>
     <table:table-row table:style-name="Table6.1">
      <table:table-cell table:style-name="Table6.A2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;X.X&gt;</text:p>
+      <text:p text:style-name="P19">&lt;X.X&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.B2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;MM/DD/YYYY&gt;</text:p>
+      <text:p text:style-name="P19">&lt;MM/DD/YYYY&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.C2" office:value-type="string">
-      <text:p text:style-name="P15">CMS</text:p>
+      <text:p text:style-name="P19">CMS</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.D2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Description of Change&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Description of Change&gt;</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table6.1">
      <table:table-cell table:style-name="Table6.A3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;X.X&gt;</text:p>
+      <text:p text:style-name="P19">&lt;X.X&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.B3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;MM/DD/YYYY&gt;</text:p>
+      <text:p text:style-name="P19">&lt;MM/DD/YYYY&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.C3" office:value-type="string">
-      <text:p text:style-name="P15">CMS</text:p>
+      <text:p text:style-name="P19">CMS</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.D3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Description of Change&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Description of Change&gt;</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table6.1">
      <table:table-cell table:style-name="Table6.A4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;X.X&gt;</text:p>
+      <text:p text:style-name="P19">&lt;X.X&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.B4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;MM/DD/YYYY&gt;</text:p>
+      <text:p text:style-name="P19">&lt;MM/DD/YYYY&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.C4" office:value-type="string">
-      <text:p text:style-name="P15">CMS</text:p>
+      <text:p text:style-name="P19">CMS</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.D4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Description of Change&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Description of Change&gt;</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -6413,35 +6513,35 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     <table:table-header-rows>
      <table:table-row table:style-name="Table7.1">
       <table:table-cell table:style-name="Table7.A1" office:value-type="string">
-       <text:p text:style-name="P36">Acronym</text:p>
+       <text:p text:style-name="P52">Acronym</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table7.A1" office:value-type="string">
-       <text:p text:style-name="P36">Literal Translation</text:p>
+       <text:p text:style-name="P52">Literal Translation</text:p>
       </table:table-cell>
      </table:table-row>
     </table:table-header-rows>
     <table:table-row table:style-name="Table7.1">
      <table:table-cell table:style-name="Table7.A2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Acronym&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Acronym&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table7.B2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Literal Translation&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Literal Translation&gt;</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table7.1">
      <table:table-cell table:style-name="Table7.A3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Acronym&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Acronym&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table7.B3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Literal Translation&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Literal Translation&gt;</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table7.1">
      <table:table-cell table:style-name="Table7.A4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Acronym&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Acronym&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table7.B4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Literal Translation&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Literal Translation&gt;</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -6456,47 +6556,47 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     <table:table-header-rows>
      <table:table-row table:style-name="Table8.1">
       <table:table-cell table:style-name="Table8.A1" office:value-type="string">
-       <text:p text:style-name="P36">Term</text:p>
+       <text:p text:style-name="P52">Term</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table8.A1" office:value-type="string">
-       <text:p text:style-name="P36">Acronym</text:p>
+       <text:p text:style-name="P52">Acronym</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table8.A1" office:value-type="string">
-       <text:p text:style-name="P36">Definition</text:p>
+       <text:p text:style-name="P52">Definition</text:p>
       </table:table-cell>
      </table:table-row>
     </table:table-header-rows>
     <table:table-row table:style-name="Table8.1">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Term&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Term&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table8.B2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Acronym&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Acronym&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table8.C2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Definition&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Definition&gt;</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table8.1">
      <table:table-cell table:style-name="Table8.A3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Term&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Term&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table8.B3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Acronym&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Acronym&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table8.C3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Definition&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Definition&gt;</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table8.1">
      <table:table-cell table:style-name="Table8.A4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Term&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Term&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table8.B4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Acronym&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Acronym&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table8.C4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Definition&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Definition&gt;</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -6511,47 +6611,47 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     <table:table-header-rows>
      <table:table-row table:style-name="Table9.1">
       <table:table-cell table:style-name="Table9.A1" office:value-type="string">
-       <text:p text:style-name="P36">Document Name</text:p>
+       <text:p text:style-name="P52">Document Name</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table9.A1" office:value-type="string">
-       <text:p text:style-name="P36">Document Location and/or URL</text:p>
+       <text:p text:style-name="P52">Document Location and/or URL</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table9.A1" office:value-type="string">
-       <text:p text:style-name="P36">Issuance Date</text:p>
+       <text:p text:style-name="P52">Issuance Date</text:p>
       </table:table-cell>
      </table:table-row>
     </table:table-header-rows>
     <table:table-row table:style-name="Table9.1">
      <table:table-cell table:style-name="Table9.A2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Document Name&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Document Name&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table9.B2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Document Location and/or URL&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Document Location and/or URL&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table9.C2" office:value-type="string">
-      <text:p text:style-name="P15">&lt;MM/DD/YYYY&gt;</text:p>
+      <text:p text:style-name="P19">&lt;MM/DD/YYYY&gt;</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table9.1">
      <table:table-cell table:style-name="Table9.A3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Document Name&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Document Name&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table9.B3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Document Location and/or URL&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Document Location and/or URL&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table9.C3" office:value-type="string">
-      <text:p text:style-name="P15">&lt;MM/DD/YYYY&gt;</text:p>
+      <text:p text:style-name="P19">&lt;MM/DD/YYYY&gt;</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table9.1">
      <table:table-cell table:style-name="Table9.A4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Document Name&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Document Name&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table9.B4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;Document Location and/or URL&gt;</text:p>
+      <text:p text:style-name="P19">&lt;Document Location and/or URL&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table9.C4" office:value-type="string">
-      <text:p text:style-name="P15">&lt;MM/DD/YYYY&gt;</text:p>
+      <text:p text:style-name="P19">&lt;MM/DD/YYYY&gt;</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -6565,43 +6665,43 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     <table:table-header-rows>
      <table:table-row table:style-name="Table10.1">
       <table:table-cell table:style-name="Table10.A1" office:value-type="string">
-       <text:p text:style-name="P36">Document Approved By</text:p>
+       <text:p text:style-name="P52">Document Approved By</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table10.A1" office:value-type="string">
-       <text:p text:style-name="P36">Date Approved</text:p>
+       <text:p text:style-name="P52">Date Approved</text:p>
       </table:table-cell>
      </table:table-row>
     </table:table-header-rows>
     <table:table-row table:style-name="Table10.1">
      <table:table-cell table:style-name="Table10.A2" office:value-type="string">
-      <text:p text:style-name="P32">Name: &lt;Name&gt;, &lt;Job Title&gt; - &lt;Company&gt;</text:p>
+      <text:p text:style-name="P48">Name: &lt;Name&gt;, &lt;Job Title&gt; - &lt;Company&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table10.A2" office:value-type="string">
-      <text:p text:style-name="P32">Date</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table10.1">
-     <table:table-cell table:style-name="Table10.A2" office:value-type="string">
-      <text:p text:style-name="P32">Name: &lt;Name&gt;, &lt;Job Title&gt; - &lt;Company&gt;</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table10.A2" office:value-type="string">
-      <text:p text:style-name="P32">Date</text:p>
+      <text:p text:style-name="P48">Date</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table10.1">
      <table:table-cell table:style-name="Table10.A2" office:value-type="string">
-      <text:p text:style-name="P32">Name: &lt;Name&gt;, &lt;Job Title&gt; - &lt;Company&gt;</text:p>
+      <text:p text:style-name="P48">Name: &lt;Name&gt;, &lt;Job Title&gt; - &lt;Company&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table10.A2" office:value-type="string">
-      <text:p text:style-name="P32">Date</text:p>
+      <text:p text:style-name="P48">Date</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table10.1">
      <table:table-cell table:style-name="Table10.A2" office:value-type="string">
-      <text:p text:style-name="P32">Name: &lt;Name&gt;, &lt;Job Title&gt; - &lt;Company&gt;</text:p>
+      <text:p text:style-name="P48">Name: &lt;Name&gt;, &lt;Job Title&gt; - &lt;Company&gt;</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table10.A2" office:value-type="string">
-      <text:p text:style-name="P32">Date</text:p>
+      <text:p text:style-name="P48">Date</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table10.1">
+     <table:table-cell table:style-name="Table10.A2" office:value-type="string">
+      <text:p text:style-name="P48">Name: &lt;Name&gt;, &lt;Job Title&gt; - &lt;Company&gt;</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table10.A2" office:value-type="string">
+      <text:p text:style-name="P48">Date</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -6609,36 +6709,36 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
    <text:p text:style-name="Back_20_Matter_20_Heading"><text:bookmark text:name="_Toc441656830"/><text:bookmark text:name="_Toc363205562"/><text:bookmark text:name="_Toc395081367"/><text:bookmark text:name="_Toc395092005"/><text:bookmark text:name="_Toc395093014"/><text:bookmark text:name="_Toc395095151"/><text:bookmark text:name="_Toc395107350"/><text:bookmark text:name="_Toc395163190"/><text:bookmark text:name="_Toc395165908"/><text:bookmark text:name="_Toc396111581"/><text:bookmark text:name="AppI"/>Appendix I: Notes to the Author/Template Instructions</text:p>
    <text:p text:style-name="Instructional_20_Text">This document is a template for creating a <text:title>High Level Technical Design Template</text:title> for a given investment or project. The final document should be delivered in an electronically searchable format. The <text:title>High Level Technical Design Template</text:title> should stand on its own with all elements explained and acronyms spelled out for reader/reviewers, including reviewers outside CMS who may not be familiar with CMS projects and investments.</text:p>
    <text:p text:style-name="Instructional_20_Text">This template includes instructions, boilerplate text, and fields. The developer should note that:</text:p>
-   <text:list xml:id="list95128752911775" text:continue-list="list95127492993206" text:style-name="WWNum2">
+   <text:list xml:id="list115712555572896" text:continue-list="list115711618223957" text:style-name="WWNum2">
     <text:list-item>
-     <text:p text:style-name="P29">Each section provides instructions or describes the intent, assumptions, and context for content included in that section. Instructional text appears in blue italicized font throughout this template.</text:p>
+     <text:p text:style-name="P45">Each section provides instructions or describes the intent, assumptions, and context for content included in that section. Instructional text appears in blue italicized font throughout this template.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Instructional text in each section should be replaced with information specific to the particular investment.</text:p>
+     <text:p text:style-name="P45">Instructional text in each section should be replaced with information specific to the particular investment.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Some text and tables are provided as boilerplate examples of wording and formats that may be used or modified as appropriate.</text:p>
+     <text:p text:style-name="P45">Some text and tables are provided as boilerplate examples of wording and formats that may be used or modified as appropriate.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Instructional_20_Text">When using this template, follow these steps:</text:p>
    <text:list xml:id="list3165855852976742641" text:style-name="WWNum5">
     <text:list-item>
-     <text:p text:style-name="P31">Table captions and descriptions are to be placed left-aligned, above the table.</text:p>
+     <text:p text:style-name="P47">Table captions and descriptions are to be placed left-aligned, above the table.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">Modify any boilerplate text, as appropriate, to your specific investment.</text:p>
+     <text:p text:style-name="P47">Modify any boilerplate text, as appropriate, to your specific investment.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">Do not delete any headings. If the heading is not applicable to the investment, enter “Not Applicable” under the heading.</text:p>
+     <text:p text:style-name="P47">Do not delete any headings. If the heading is not applicable to the investment, enter “Not Applicable” under the heading.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">All documents must be compliant with Section 508 requirements.</text:p>
+     <text:p text:style-name="P47">All documents must be compliant with Section 508 requirements.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">Figure captions and descriptions are to be placed left-aligned, below the figure. All figures must have an associated tag providing appropriate alternative text for Section 508 compliance.</text:p>
+     <text:p text:style-name="P47">Figure captions and descriptions are to be placed left-aligned, below the figure. All figures must have an associated tag providing appropriate alternative text for Section 508 compliance.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">Delete this “Notes to the Author / Template Instructions” page and all instructions to the author before finalizing the initial draft of the document.</text:p>
+     <text:p text:style-name="P47">Delete this “Notes to the Author / Template Instructions” page and all instructions to the author before finalizing the initial draft of the document.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Back_20_Matter_20_Heading"><text:bookmark text:name="_Toc363205563"/><text:bookmark text:name="_Toc395081368"/><text:bookmark text:name="_Toc395092006"/><text:bookmark text:name="_Toc395093015"/><text:bookmark text:name="_Toc395095152"/><text:bookmark text:name="_Toc395107351"/><text:bookmark text:name="_Toc395163191"/><text:bookmark text:name="_Toc395165909"/><text:bookmark text:name="_Toc396111582"/><text:bookmark text:name="AppJ"/><text:bookmark text:name="_Toc441656831"/>Appendix J: XLC Template Revision History</text:p>
@@ -6652,84 +6752,84 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
     <table:table-header-rows>
      <table:table-row table:style-name="Table11.1">
       <table:table-cell table:style-name="Table11.A1" office:value-type="string">
-       <text:p text:style-name="P36">Version Number</text:p>
+       <text:p text:style-name="P52">Version Number</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table11.A1" office:value-type="string">
-       <text:p text:style-name="P36">Date</text:p>
+       <text:p text:style-name="P52">Date</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table11.A1" office:value-type="string">
-       <text:p text:style-name="P36">Author/Owner</text:p>
+       <text:p text:style-name="P52">Author/Owner</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table11.A1" office:value-type="string">
-       <text:p text:style-name="P36">Description of Change</text:p>
+       <text:p text:style-name="P52">Description of Change</text:p>
       </table:table-cell>
      </table:table-row>
     </table:table-header-rows>
     <table:table-row table:style-name="Table11.1">
      <table:table-cell table:style-name="Table11.A2" office:value-type="string">
-      <text:p text:style-name="P33">1.0</text:p>
+      <text:p text:style-name="P49">1.0</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table11.B2" office:value-type="string">
-      <text:p text:style-name="P33">02/23/2009</text:p>
+      <text:p text:style-name="P49">02/23/2009</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table11.C2" office:value-type="string">
-      <text:p text:style-name="P33">ESD Deliverables Workgroup</text:p>
+      <text:p text:style-name="P49">ESD Deliverables Workgroup</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table11.D2" office:value-type="string">
-      <text:p text:style-name="P33">Baseline document</text:p>
+      <text:p text:style-name="P49">Baseline document</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table11.1">
      <table:table-cell table:style-name="Table11.A3" office:value-type="string">
-      <text:p text:style-name="P33">2.0</text:p>
+      <text:p text:style-name="P49">2.0</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table11.B3" office:value-type="string">
-      <text:p text:style-name="P33">08/07/2014</text:p>
+      <text:p text:style-name="P49">08/07/2014</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table11.C3" office:value-type="string">
-      <text:p text:style-name="P33">Celia Shaunessy, XLC Steering Committee</text:p>
+      <text:p text:style-name="P49">Celia Shaunessy, XLC Steering Committee</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table11.D3" office:value-type="string">
-      <text:p text:style-name="P33">Changes made per CR 14-012</text:p>
+      <text:p text:style-name="P49">Changes made per CR 14-012</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table11.1">
      <table:table-cell table:style-name="Table11.A4" office:value-type="string">
-      <text:p text:style-name="P33">2.1</text:p>
+      <text:p text:style-name="P49">2.1</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table11.B4" office:value-type="string">
-      <text:p text:style-name="P33">02/02/2015</text:p>
+      <text:p text:style-name="P49">02/02/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table11.C4" office:value-type="string">
-      <text:p text:style-name="P33">Surya Potu, CMS/OEI/DPPIG</text:p>
+      <text:p text:style-name="P49">Surya Potu, CMS/OEI/DPPIG</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table11.D4" office:value-type="string">
-      <text:p text:style-name="P33">Updated CMS logo</text:p>
+      <text:p text:style-name="P49">Updated CMS logo</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table11.1">
      <table:table-cell table:style-name="Table11.A5" office:value-type="string">
-      <text:p text:style-name="P33">3.0</text:p>
+      <text:p text:style-name="P49">3.0</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table11.B5" office:value-type="string">
-      <text:p text:style-name="P33">01/27/2016</text:p>
+      <text:p text:style-name="P49">01/27/2016</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table11.C5" office:value-type="string">
-      <text:p text:style-name="P33">CMS</text:p>
+      <text:p text:style-name="P49">CMS</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table11.D5" office:value-type="string">
       <text:list xml:id="list4936828697139465559" text:style-name="WWNum6">
        <text:list-item>
-        <text:p text:style-name="P35">Updated template style sheet for Section 508 compliance</text:p>
+        <text:p text:style-name="P51">Updated template style sheet for Section 508 compliance</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P34">Added instructional text to all blank cells in tables</text:p>
+        <text:p text:style-name="P50">Added instructional text to all blank cells in tables</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P34">Added Acronym column to <text:bookmark-ref text:reference-format="text" text:ref-name="_Ref432499257">Table 8</text:bookmark-ref></text:p>
+        <text:p text:style-name="P50">Added Acronym column to <text:bookmark-ref text:reference-format="text" text:ref-name="_Ref432499257">Table 8</text:bookmark-ref></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P35">Reformatted <text:bookmark-ref text:reference-format="text" text:ref-name="_Ref430942566">Table 10</text:bookmark-ref> in <text:bookmark-ref text:reference-format="text" text:ref-name="AppH"/> for Section 508 compliance</text:p>
+        <text:p text:style-name="P51">Reformatted <text:bookmark-ref text:reference-format="text" text:ref-name="_Ref430942566">Table 10</text:bookmark-ref> in <text:bookmark-ref text:reference-format="text" text:ref-name="AppH"/> for Section 508 compliance</text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
@@ -6737,7 +6837,7 @@ CMS eXpedited Life Cycle (XLC)</svg:desc>
    </table:table>
    <text:p text:style-name="Text_20_body"/>
    <text:p text:style-name="Back_20_Matter_20_Heading"><text:bookmark text:name="_Toc3632055631"/><text:bookmark text:name="_Toc395081369"/><text:bookmark text:name="_Toc395092007"/><text:bookmark text:name="_Toc395093016"/><text:bookmark text:name="_Toc395095153"/><text:bookmark text:name="_Toc395107352"/><text:bookmark text:name="_Toc395163192"/><text:bookmark text:name="_Toc395165910"/><text:bookmark text:name="_Toc396111583"/><text:bookmark text:name="AppK"/><text:bookmark text:name="_Toc441656832"/>Appendix K: Additional Appendices</text:p>
-   <text:p text:style-name="P16"><text:bookmark text:name="_Toc490026795"/>Instructions: Utilize additional appendices to facilitate ease of use and maintenance of the document.</text:p>
+   <text:p text:style-name="P32"><text:bookmark text:name="_Toc490026795"/>Instructions: Utilize additional appendices to facilitate ease of use and maintenance of the document.</text:p>
   </office:text>
  </office:body>
 </office:document>
