@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-05-27T12:53:06</meta:creation-date><dc:language>en-GB</dc:language><dc:date>2018-06-16T14:42:51.474877466</dc:date><meta:editing-cycles>7</meta:editing-cycles><meta:editing-duration>PT1H8M29S</meta:editing-duration><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="1" meta:object-count="0" meta:page-count="15" meta:paragraph-count="118" meta:word-count="2475" meta:character-count="15029" meta:non-whitespace-character-count="12650"/></office:meta>
+ <office:meta><meta:creation-date>2018-05-27T12:53:06</meta:creation-date><dc:language>en-GB</dc:language><dc:date>2018-06-18T15:28:18.770295787</dc:date><meta:editing-cycles>9</meta:editing-cycles><meta:editing-duration>PT1H20M43S</meta:editing-duration><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><meta:document-statistic meta:table-count="2" meta:image-count="0" meta:object-count="0" meta:page-count="14" meta:paragraph-count="131" meta:word-count="2675" meta:character-count="16275" meta:non-whitespace-character-count="13701"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">415502</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">394705</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">32175</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">20269</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">20983</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">9195</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">428826</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">10973</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">413115</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">415502</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">394705</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">32173</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">435769</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">415687</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -69,7 +69,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">true</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1655311</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1812701</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -189,6 +189,7 @@
    <style:text-properties fo:color="#0000ff" fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="italic"/>
   </style:style>
   <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra"/>
   <style:style style:name="ListLabel_20_175" style:display-name="ListLabel 175" style:family="text">
    <style:text-properties fo:font-size="24pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="24pt" style:font-style-asian="normal" style:font-weight-asian="bold"/>
   </style:style>
@@ -510,11 +511,32 @@
   <style:style style:name="Table1.A" style:family="table-column">
    <style:table-column-properties style:column-width="8.5cm" style:rel-column-width="32767*"/>
   </style:style>
+  <style:style style:name="Table1.B" style:family="table-column">
+   <style:table-column-properties style:column-width="8.5cm" style:rel-column-width="32768*"/>
+  </style:style>
   <style:style style:name="Table1.A1" style:family="table-cell">
    <style:table-cell-properties fo:padding="0.097cm" fo:border-left="0.05pt solid #000000" fo:border-right="none" fo:border-top="0.05pt solid #000000" fo:border-bottom="0.05pt solid #000000"/>
   </style:style>
   <style:style style:name="Table1.B1" style:family="table-cell">
    <style:table-cell-properties fo:padding="0.097cm" fo:border="0.05pt solid #000000"/>
+  </style:style>
+  <style:style style:name="Table2" style:family="table">
+   <style:table-properties style:width="17cm" table:align="margins" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="Table2.A" style:family="table-column">
+   <style:table-column-properties style:column-width="5.667cm" style:rel-column-width="21845*"/>
+  </style:style>
+  <style:style style:name="Table2.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.097cm" fo:border-left="0.05pt solid #000000" fo:border-right="none" fo:border-top="0.05pt solid #000000" fo:border-bottom="0.05pt solid #000000"/>
+  </style:style>
+  <style:style style:name="Table2.C1" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.097cm" fo:border="0.05pt solid #000000"/>
+  </style:style>
+  <style:style style:name="Table2.A2" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.097cm" fo:border-left="0.05pt solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.05pt solid #000000"/>
+  </style:style>
+  <style:style style:name="Table2.C2" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.097cm" fo:border-left="0.05pt solid #000000" fo:border-right="0.05pt solid #000000" fo:border-top="none" fo:border-bottom="0.05pt solid #000000"/>
   </style:style>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
@@ -530,143 +552,191 @@
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="00137b3a" officeooo:paragraph-rsid="00137b3a" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:orphans="2" fo:widows="2"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="00148580" officeooo:paragraph-rsid="00148580" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="italic" officeooo:paragraph-rsid="000d7980" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="italic" officeooo:rsid="000d7980" officeooo:paragraph-rsid="000d7980" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="italic" officeooo:paragraph-rsid="000d7980" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="italic" officeooo:rsid="000d7980" officeooo:paragraph-rsid="000d7980" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#4e4242" style:font-name="museo-sans" fo:font-size="13.5pt" fo:letter-spacing="normal" fo:font-style="italic" fo:font-weight="bold" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
-   <style:paragraph-properties style:page-number="auto"/>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:keep-together="always" fo:orphans="2" fo:widows="2" style:page-number="auto"/>
+   <style:paragraph-properties style:page-number="auto"/>
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:keep-together="always" fo:orphans="2" fo:widows="2" style:page-number="auto"/>
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="00137b3a" officeooo:paragraph-rsid="00137b3a" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="000d205c" officeooo:paragraph-rsid="000d205c" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="italic" officeooo:rsid="000d46b9" officeooo:paragraph-rsid="000d46b9" style:font-style-asian="italic" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="italic" officeooo:rsid="000df340" officeooo:paragraph-rsid="000df340" style:font-style-asian="italic" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="italic" officeooo:rsid="000f194b" officeooo:paragraph-rsid="000f194b" style:font-style-asian="italic" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:font-weight="normal" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="italic" fo:font-weight="normal" officeooo:paragraph-rsid="00122306" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:keep-together="always" fo:orphans="2" fo:widows="2" fo:break-before="page"/>
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="000d46b9" officeooo:paragraph-rsid="000d46b9" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum3">
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:orphans="2" fo:widows="2"/>
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="00137b3a" officeooo:paragraph-rsid="00137b3a" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:orphans="2" fo:widows="2"/>
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="00148580" officeooo:paragraph-rsid="00148580" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="WWNum2">
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="" style:master-page-name="Standard">
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:keep-together="always" fo:orphans="2" fo:widows="2" style:page-number="auto"/>
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="00137b3a" officeooo:paragraph-rsid="00137b3a" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:keep-together="always" fo:orphans="2" fo:widows="2" fo:break-before="page"/>
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="000d46b9" officeooo:paragraph-rsid="000d46b9" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="WWNum2">
-   <style:paragraph-properties fo:break-before="page"/>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_3" style:list-style-name="WWNum2">
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="000d205c" officeooo:paragraph-rsid="000d205c" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="italic" officeooo:rsid="000d46b9" officeooo:paragraph-rsid="000d46b9" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="italic" officeooo:rsid="000df340" officeooo:paragraph-rsid="000df340" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="italic" officeooo:rsid="000f194b" officeooo:paragraph-rsid="000f194b" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:font-weight="normal" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="italic" fo:font-weight="normal" officeooo:paragraph-rsid="00122306" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00122306" officeooo:paragraph-rsid="00122306" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="00148580" officeooo:paragraph-rsid="00148580" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="00148580" officeooo:paragraph-rsid="0015d080" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="00148580" officeooo:paragraph-rsid="0017b538" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="0015d080" officeooo:paragraph-rsid="0015d080" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="0016642e" officeooo:paragraph-rsid="0016642e" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="0017288c" officeooo:paragraph-rsid="0017288c" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:break-before="page"/>
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="00148580" officeooo:paragraph-rsid="00148580" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Heading_20_4" style:list-style-name="WWNum2">
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:keep-together="always" fo:orphans="2" fo:widows="2" fo:break-before="page"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="000d46b9" officeooo:paragraph-rsid="000d46b9" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:text-properties officeooo:rsid="0016642e" officeooo:paragraph-rsid="0016642e"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum3">
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001a1d0b" officeooo:paragraph-rsid="001a1d0b"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="WWNum2">
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="" style:master-page-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:keep-together="always" fo:orphans="2" fo:widows="2" style:page-number="auto"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="00137b3a" officeooo:paragraph-rsid="00137b3a" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:keep-together="always" fo:orphans="2" fo:widows="2" fo:break-before="page"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="000d46b9" officeooo:paragraph-rsid="000d46b9" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="WWNum2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="00148580" officeooo:paragraph-rsid="00148580" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="00148580" officeooo:paragraph-rsid="0015d080" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="0019fbaf" officeooo:paragraph-rsid="0019fbaf" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="001a0fda" officeooo:paragraph-rsid="001a0fda" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="0016642e" officeooo:paragraph-rsid="001a0fda" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="0016642e" officeooo:paragraph-rsid="0016642e" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="0016642e" officeooo:paragraph-rsid="0015d080" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="0016642e" officeooo:paragraph-rsid="001a1d0b" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="001a1d0b" officeooo:paragraph-rsid="001a1d0b" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="001ba8dd" officeooo:paragraph-rsid="001ba8dd" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:break-before="page"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="00148580" officeooo:paragraph-rsid="00148580" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_3" style:list-style-name="WWNum2">
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_4" style:list-style-name="WWNum2">
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="001a1d0b" officeooo:paragraph-rsid="001a1d0b"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="0016642e" officeooo:paragraph-rsid="0016642e"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="0016642e" officeooo:paragraph-rsid="001a1d0b"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#0000ff" style:font-name="Arial" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="italic" fo:font-weight="normal" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -737,8 +807,14 @@
   <style:style style:name="T23" style:family="text">
    <style:text-properties officeooo:rsid="0017b538"/>
   </style:style>
-  <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
-   <style:graphic-properties style:vertical-pos="top" style:vertical-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties officeooo:rsid="001a0fda"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties officeooo:rsid="001a1d0b"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties officeooo:rsid="001ba8dd"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="25700" style:layout-grid-base-height="0.423cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.37cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm">
@@ -760,7 +836,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:h text:style-name="P30" text:outline-level="2">Hi Ian.</text:h>
+   <text:h text:style-name="P39" text:outline-level="2">Hi Ian.</text:h>
    <text:p text:style-name="P4"/>
    <text:p text:style-name="P4">Thanks for your review.</text:p>
    <text:p text:style-name="P4"/>
@@ -769,77 +845,77 @@
    <text:p text:style-name="P4"/>
    <text:p text:style-name="P4">I&apos;ve edited the document and included changes in italics.</text:p>
    <text:p text:style-name="P4"/>
-   <text:p text:style-name="P28"/>
+   <text:p text:style-name="P5"/>
    <text:p text:style-name="P4"/>
    <text:p text:style-name="P4">Regards,</text:p>
    <text:p text:style-name="P4"/>
    <text:p text:style-name="P4">Rob Brew.</text:p>
-   <text:h text:style-name="P31" text:outline-level="2"/>
-   <text:list xml:id="list7166350038925578199" text:style-name="WWNum2">
+   <text:h text:style-name="P40" text:outline-level="2"/>
+   <text:list xml:id="list3608275811969491959" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P32" text:outline-level="2"><text:bookmark text:name="_Toc4982355841"/><text:bookmark text:name="_Toc4976340561"/><text:bookmark text:name="_Toc497873017"/><text:bookmark text:name="_Toc497872969"/><text:bookmark text:name="_Toc497872814"/><text:bookmark text:name="_Toc497872046"/><text:bookmark text:name="_Toc497871702"/><text:bookmark text:name="_Toc278189216"/><text:bookmark text:name="_Toc278187080"/><text:bookmark text:name="_Toc441656787"/><text:bookmark text:name="_Toc396111538"/><text:bookmark text:name="_Toc4991066631"/><text:bookmark text:name="_Toc4983250241"/>Introduction</text:h>
+       <text:h text:style-name="P41" text:outline-level="2"><text:bookmark text:name="_Toc4983250241"/><text:bookmark text:name="_Toc4991066631"/><text:bookmark text:name="_Toc396111538"/><text:bookmark text:name="_Toc441656787"/><text:bookmark text:name="_Toc278187080"/><text:bookmark text:name="_Toc278189216"/><text:bookmark text:name="_Toc497871702"/><text:bookmark text:name="_Toc497872046"/><text:bookmark text:name="_Toc497872814"/><text:bookmark text:name="_Toc497872969"/><text:bookmark text:name="_Toc497873017"/><text:bookmark text:name="_Toc4976340561"/><text:bookmark text:name="_Toc4982355841"/>Introduction</text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P21">The program being written I have named Linuxconf. It builds on the Ubuntu restricted devices program, <text:span text:style-name="T18">and will be made available for the latest LTS Ubuntu release, 18.04 running the 4.15 Kernel. <text:s/></text:span></text:p>
-   <text:p text:style-name="P21">This document explains the architecture <text:s/>the proposed system from a high level of <text:s/>abstraction. It is intended for people with an understanding of the process of compiling and inserting linux kernel modules using bash.</text:p>
-   <text:p text:style-name="P34">The users who contribute configurations for the client users to download are referred to as contributors, the users who use these configurations to configure their systems are referred to as users,</text:p>
-   <text:list xml:id="list144251743896596" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P22">The program being written I have named Linuxconf. It builds on the Ubuntu restricted devices program, <text:span text:style-name="T18">and will be made available for the latest LTS Ubuntu release, 18.04 running the 4.15 Kernel. <text:s/></text:span></text:p>
+   <text:p text:style-name="P22">This document explains the architecture <text:s/>the proposed system from a high level of <text:s/>abstraction. It is intended for people with an understanding of the process of compiling and inserting linux kernel modules using bash.</text:p>
+   <text:p text:style-name="P24">The users who contribute configurations for the client users to download are referred to as contributors, the users who use these configurations to configure their systems are referred to as users,</text:p>
+   <text:list xml:id="list152819030328127" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P29" text:outline-level="2"><text:bookmark text:name="_Toc4978728141"/><text:bookmark text:name="_Toc4978720461"/><text:bookmark text:name="_Toc4978717021"/><text:bookmark text:name="_Toc288057840"/><text:bookmark text:name="_Toc288057839"/><text:bookmark text:name="_Toc288057814"/><text:bookmark text:name="_Toc288057813"/><text:bookmark text:name="_Toc288057812"/><text:bookmark text:name="_Toc288057811"/><text:bookmark text:name="_Toc441656788"/><text:bookmark text:name="_Toc396111539"/><text:bookmark text:name="_Toc4978730171"/><text:bookmark text:name="_Toc4978729691"/>Current System</text:h>
+       <text:h text:style-name="P38" text:outline-level="2"><text:bookmark text:name="_Toc4978729691"/><text:bookmark text:name="_Toc4978730171"/><text:bookmark text:name="_Toc396111539"/><text:bookmark text:name="_Toc441656788"/><text:bookmark text:name="_Toc288057811"/><text:bookmark text:name="_Toc288057812"/><text:bookmark text:name="_Toc288057813"/><text:bookmark text:name="_Toc288057814"/><text:bookmark text:name="_Toc288057839"/><text:bookmark text:name="_Toc288057840"/><text:bookmark text:name="_Toc4978717021"/><text:bookmark text:name="_Toc4978720461"/><text:bookmark text:name="_Toc4978728141"/>Current System</text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P15">This project <text:span text:style-name="T14">builds on the current “</text:span><text:span text:style-name="T7">additional drivers” program in Ubuntu which allows proprietary firmware to be installed using a graphical interface. It extends this by <text:s/>allowing Internet users with knowledge of the module build process to contribute </text:span><text:span text:style-name="T8">git projects to </text:span><text:span text:style-name="T7">install firmware on a per device basis.</text:span></text:p>
-   <text:list xml:id="list144253268958033" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P16">This project <text:span text:style-name="T14">builds on the current “</text:span><text:span text:style-name="T7">additional drivers” program in Ubuntu which allows proprietary firmware to be installed using a graphical interface. It extends this by <text:s/>allowing Internet users with knowledge of the module build process to contribute </text:span><text:span text:style-name="T8">git projects to </text:span><text:span text:style-name="T7">install firmware on a per device basis.</text:span></text:p>
+   <text:list xml:id="list152820643244182" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P33" text:outline-level="3"><text:bookmark text:name="_Toc441656789"/><text:bookmark text:name="_Toc396111540"/>Functional Description</text:h>
+         <text:h text:style-name="P53" text:outline-level="3"><text:bookmark text:name="_Toc396111540"/><text:bookmark text:name="_Toc441656789"/>Functional Description</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P15">This project enables a user of Linux with limited technical knowledge to easily install Linux kernel modules using a graphical interface. It relies on the Linux community to suggest configurations for each device being installed based on the identifier of that device.</text:p>
-   <text:p text:style-name="P15">As an incentive for contributions the contribut<text:span text:style-name="T17">ors</text:span> will be able to link to their homepage / profile etc possibly with a <text:s/>location. <text:s/>When the users have successfully installed a kernel module the nearest contribut<text:span text:style-name="T17">or </text:span>will have a link to their web page or git profile displayed with some basic information about them, including a link to a picture as well as a list of their skills. <text:s/>The user chosen will be based on the most successful contributions to the system.</text:p>
-   <text:p text:style-name="P15"/>
-   <text:p text:style-name="P15">In it’s initial configuration three types of <text:span text:style-name="T11">customisation</text:span> were planned, configuration of software available from the <text:span text:style-name="T11">repositories</text:span> using apt-get and yum, kernel parameter configuration (for the make config process), and firmware downloads, possibly using all methods for one device configuration.</text:p>
-   <text:p text:style-name="P15">I realized having installed a wireless ac adapter in Linux that the scope of devices configurable by this project can be <text:s/>massively increased by by allowing users to submit <text:s/>git projects for this system. <text:s/>This process doesn’t require recompiling the kernel, which takes time and may lead to an unstable system. <text:s/>When contemplating how to discuss issues with a particular configuration I realized that git hosts everything this system could need. Firmware files, Makefiles, and most importantly it can host a special file for the entire build process written in bash. <text:s/>The special build file will contain details of how to clone the target git repository, build the firmware using make and insert the module, returning a success or failure exit code once this is done.</text:p>
-   <text:p text:style-name="P18"><text:soft-page-break/>The special build file lives on the GitHub servers and instructs the client application on how to build the kernel module then insert it as part of the client process. It can be seen as similar to a Makefile.</text:p>
-   <text:p text:style-name="P15"/>
-   <text:p text:style-name="P17">After the module has been installed the user will be prompted on the success or failure of the kernel configuration on a per device basis, using a unique code via a website. <text:span text:style-name="T17">A program to demonstrate the success or failure of a configuration can be launched, as part of the post install process. This could involve playing a sound to ensure the audio device works, or opening a webcam program like cheese to test the video camera.</text:span></text:p>
-   <text:p text:style-name="P15"/>
-   <text:list xml:id="list144251630199676" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P16">This project enables a user of Linux with limited technical knowledge to easily install Linux kernel modules using a graphical interface. It relies on the Linux community to suggest configurations for each device being installed based on the identifier of that device.</text:p>
+   <text:p text:style-name="P16">As an incentive for contributions the contribut<text:span text:style-name="T17">ors</text:span> will be able to link to their homepage / profile etc possibly with a <text:s/>location. <text:s/>When the users have successfully installed a kernel module the nearest contribut<text:span text:style-name="T17">or </text:span>will have a link to their web page or git profile displayed with some basic information about them, including a link to a picture as well as a list of their skills. <text:s/>The user chosen will be based on the most successful contributions to the system.</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">In it’s initial configuration three types of <text:span text:style-name="T11">customisation</text:span> were planned, configuration of software available from the <text:span text:style-name="T11">repositories</text:span> using apt-get and yum, kernel parameter configuration (for the make config process), and firmware downloads, possibly using all methods for one device configuration.</text:p>
+   <text:p text:style-name="P16">I realized having installed a wireless ac adapter in Linux that the scope of devices configurable by this project can be <text:s/>massively increased by by allowing users to submit <text:s/>git projects for this system. <text:s/>This process doesn’t require recompiling the kernel, which takes time and may lead to an unstable system. <text:s/>When contemplating how to discuss issues with a particular configuration I realized that git hosts everything this system could need. Firmware files, Makefiles, and most importantly it can host a special file for the entire build process written in bash. <text:s/>The special build file will contain details of how to clone the target git repository, build the firmware using make and insert the module, returning a success or failure exit code once this is done.</text:p>
+   <text:p text:style-name="P19"><text:soft-page-break/>The special build file lives on the GitHub servers and instructs the client application on how to build the kernel module then insert it as part of the client process. It can be seen as similar to a Makefile.</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P18">After the module has been installed the user will be prompted on the success or failure of the kernel configuration on a per device basis, using a unique code via a website. <text:span text:style-name="T17">A program to demonstrate the success or failure of a configuration can be launched, as part of the post install process. This could involve playing a sound to ensure the audio device works, or opening a webcam program like cheese to test the video camera.</text:span></text:p>
+   <text:p text:style-name="P16"/>
+   <text:list xml:id="list152820739709272" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P33" text:outline-level="3"><text:bookmark text:name="_Toc441656790"/><text:bookmark text:name="_Toc396111541"/>User Community Description</text:h>
+         <text:h text:style-name="P53" text:outline-level="3"><text:bookmark text:name="_Toc396111541"/><text:bookmark text:name="_Toc441656790"/>User Community Description</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P15">Two types of user will take advantage of this system. <text:s/>The client users will benefit from not have to use the shell to install kernel modules, which many people find obscure and intimidating. The contributing users will suggest configuration processes referred to as recipes, with the incentive mentioned earlier.</text:p>
-   <text:list xml:id="list144252945613548" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P16">Two types of user will take advantage of this system. <text:s/>The client users will benefit from not have to use the shell to install kernel modules, which many people find obscure and intimidating. The contributing users will suggest configuration processes referred to as recipes, with the incentive mentioned earlier.</text:p>
+   <text:list xml:id="list152820588880588" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P33" text:outline-level="3"><text:bookmark text:name="_Toc396111542"/><text:bookmark text:name="_Toc441656791"/>Technical Architecture</text:h>
+         <text:h text:style-name="P53" text:outline-level="3"><text:bookmark text:name="_Toc441656791"/><text:bookmark text:name="_Toc396111542"/>Technical Architecture</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -847,36 +923,36 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P15">In order to use GitHub the system will look for a certain file, penguin.sh (I’m being obscu<text:span text:style-name="T11">r</text:span>e to keep the concept of this project quiet) as part of the project. <text:s/>The client system aspect will run this shell script to build and insert the module into the kernel, reporting success or failure to the central database.</text:p>
+   <text:p text:style-name="P16">In order to use GitHub the system will look for a certain file, penguin.sh (I’m being obscu<text:span text:style-name="T11">r</text:span>e to keep the concept of this project quiet) as part of the project. <text:s/>The client system aspect will run this shell script to build and insert the module into the kernel, reporting success or failure to the central database.</text:p>
    <text:p text:style-name="P3">Potentially any site could be linked to in the database. <text:span text:style-name="T15">To quote</text:span></text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P7">https://www.infoworld.com/article/3184399/security/malware-finds-unwitting-ally-in-github.html</text:p>
-   <text:p text:style-name="P5"/>
-   <text:p text:style-name="P5">“<text:span text:style-name="T9">We do not allow anyone to use our platform for exploit delivery, such as hosting malicious executables, or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers.</text:span></text:p>
-   <text:p text:style-name="P8"/>
-   <text:p text:style-name="P7"><text:span text:style-name="T9">My intention is to only use git commits older than a week to ensure that malicious Makefiles are not being used. Also </text:span><text:soft-page-break/><text:span text:style-name="T9">building kernel modules in a chroot will protect the client user form malicious Makefiles, but not malicious kernel modules.</text:span></text:p>
+   <text:p text:style-name="P8">https://www.infoworld.com/article/3184399/security/malware-finds-unwitting-ally-in-github.html</text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6">“<text:span text:style-name="T9">We do not allow anyone to use our platform for exploit delivery, such as hosting malicious executables, or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers.</text:span></text:p>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P8"><text:span text:style-name="T9">My intention is to only use git commits older than a week to ensure that malicious Makefiles are not being used. Also </text:span><text:soft-page-break/><text:span text:style-name="T9">building kernel modules in a chroot will protect the client user form malicious Makefiles, but not malicious kernel modules.</text:span></text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1">The system relies on a MySQL database, probably maria DB, accessed using Java EE Servlets using get and post requests of JSON type parameters, running on tomcat8. <text:s/>Bash will also be used extensively to clone the git repository and insert <text:s/>the kernel modules, forked from the client program. Rather than writing <text:span text:style-name="T11">communications</text:span> protocols for <text:span text:style-name="T11">communication</text:span> between the C++ front end and the Java back end I propose using HTTP requests.</text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1">Major components:</text:p>
-   <text:list xml:id="list250486199265819097" text:style-name="WWNum3">
+   <text:list xml:id="list6630695730937746717" text:style-name="WWNum3">
     <text:list-item>
-     <text:p text:style-name="P26">Backend Database.</text:p>
+     <text:p text:style-name="P36">Backend Database.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P26">Java back end.</text:p>
+     <text:p text:style-name="P36">Java back end.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P26">C++ front end, available as a Debian package..</text:p>
+     <text:p text:style-name="P36">C++ front end, available as a Debian package..</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P26">Dynamic webpage for communicating success.</text:p>
+     <text:p text:style-name="P36">Dynamic webpage for communicating success.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P26">Static webpage explaining the project <text:span text:style-name="T11">for file download.</text:span></text:p>
+     <text:p text:style-name="P36">Static webpage explaining the project <text:span text:style-name="T11">for file download.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P26">Linux server to host the system</text:p>
+     <text:p text:style-name="P36">Linux server to host the system</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P1"/>
@@ -888,51 +964,51 @@
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1">The Linux client will be written in C++, using gtk and qt libraries for displaying in gnome and KDE respectively. Feedback on the success or failure of a device can be done in a webpage. Hosting can be provided from the Kent University servers, with the option to migrate this to the Linux Foundation servers if the project takes off. <text:s/>The code will be open source, which may be a <text:s/>legal requirement if GPL v3 <text:span text:style-name="T11">licensing</text:span> is used. <text:span text:style-name="T20">The system will be made available as a Debian package, which can easily be converted to a red hat package using alien.</text:span></text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P15"/>
-   <text:list xml:id="list144251851483537" text:continue-list="list144252945613548" text:style-name="WWNum2">
+   <text:p text:style-name="P16"/>
+   <text:list xml:id="list152819202607237" text:continue-list="list152820588880588" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P29" text:outline-level="2"><text:bookmark text:name="_Toc441656792"/><text:bookmark text:name="_Toc396111543"/>Goals, Objectives, and Rationale for New or Significantly Modified System</text:h>
+       <text:h text:style-name="P38" text:outline-level="2"><text:bookmark text:name="_Toc396111543"/><text:bookmark text:name="_Toc441656792"/>Goals, Objectives, and Rationale for New or Significantly Modified System</text:h>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P33" text:outline-level="3"><text:bookmark text:name="_Toc441656793"/><text:bookmark text:name="_Toc396111544"/>Project Purpose</text:h>
+         <text:h text:style-name="P53" text:outline-level="3"><text:bookmark text:name="_Toc396111544"/><text:bookmark text:name="_Toc441656793"/>Project Purpose</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P15">Create a brand new system based on the current system, Ubuntu additional drivers.</text:p>
-   <text:list xml:id="list144252623551289" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P16">Create a brand new system based on the current system, Ubuntu additional drivers.</text:p>
+   <text:list xml:id="list152820868985414" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P33" text:outline-level="3"><text:bookmark text:name="_Toc441656794"/><text:bookmark text:name="_Toc396111545"/>System Goals and Objectives</text:h>
+         <text:h text:style-name="P53" text:outline-level="3"><text:bookmark text:name="_Toc396111545"/><text:bookmark text:name="_Toc441656794"/>System Goals and Objectives</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P15">Make it easier for novice Ubuntu users to install device drivers,</text:p>
-   <text:list xml:id="list144252823433225" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P16">Make it easier for novice Ubuntu users to install device drivers,</text:p>
+   <text:list xml:id="list152819678845447" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P33" text:outline-level="3"><text:bookmark text:name="_Toc396111546"/><text:bookmark text:name="_Toc2941912931"/><text:bookmark text:name="_Toc441656795"/>Proposed System</text:h>
+         <text:h text:style-name="P53" text:outline-level="3"><text:bookmark text:name="_Toc441656795"/><text:bookmark text:name="_Toc2941912931"/><text:bookmark text:name="_Toc396111546"/>Proposed System</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P15">A graphical interfaced program which identifies devices on a Ubuntu system and downloads the software from GitHub to make the devices function. </text:p>
-   <text:list xml:id="list144251956838618" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P16">A graphical interfaced program which identifies devices on a Ubuntu system and downloads the software from GitHub to make the devices function. </text:p>
+   <text:list xml:id="list152820871096699" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -940,7 +1016,7 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P43" text:outline-level="4"><text:bookmark text:name="_Toc441656796"/><text:bookmark text:name="_Toc396111547"/>System Scope</text:h>
+           <text:h text:style-name="P54" text:outline-level="4"><text:bookmark text:name="_Toc396111547"/><text:bookmark text:name="_Toc441656796"/>System Scope</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -950,7 +1026,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P1">The system will only work for Ubuntu Linux 18.04 (LTS) running on the 14.15 kernel. <text:span text:style-name="T11">Further</text:span> <text:span text:style-name="T11">distribution</text:span> support can be added when this project is released to the Linux community. <text:s/><text:span text:style-name="T19">Included in the database are the linux version, linux distribution and kernel version fields, making this project easily extensible to other distributions and kernels.</text:span></text:p>
-   <text:list xml:id="list144251860739073" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list152820470035087" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -958,7 +1034,7 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P43" text:outline-level="4"><text:bookmark text:name="_Toc441656797"/><text:bookmark text:name="_Toc396111548"/>Business Processes Supported</text:h>
+           <text:h text:style-name="P54" text:outline-level="4"><text:bookmark text:name="_Toc396111548"/><text:bookmark text:name="_Toc441656797"/>Business Processes Supported</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -967,8 +1043,8 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P15">The system will <text:s/>be of most use to home users with little experience of configuring Linux, that said it is likely even capable system administrators will use it as it alleviates the need to find the correct firmware projects on git and perform a manual install.</text:p>
-   <text:list xml:id="list144251596998004" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P16">The system will <text:s/>be of most use to home users with little experience of configuring Linux, that said it is likely even capable system administrators will use it as it alleviates the need to find the correct firmware projects on git and perform a manual install.</text:p>
+   <text:list xml:id="list152819069201448" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -976,7 +1052,7 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P43" text:outline-level="4"><text:bookmark text:name="_Toc441656798"/><text:bookmark text:name="_Toc396111549"/>High-Level Functional Requirements</text:h>
+           <text:h text:style-name="P54" text:outline-level="4"><text:bookmark text:name="_Toc396111549"/><text:bookmark text:name="_Toc441656798"/>High-Level Functional Requirements</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -987,10 +1063,10 @@
    </text:list>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P2">Allow user to contribute git project to system.</text:p>
-   <text:p text:style-name="P16">Clone git repository from GitHub.<text:line-break/>Execute shell script.<text:line-break/>Insert kernel module.<text:line-break/>Provide feedback for user.<text:line-break/>Provide link to a contributing users website.</text:p>
-   <text:p text:style-name="P16"><text:line-break/></text:p>
-   <text:p text:style-name="P16"><text:soft-page-break/></text:p>
-   <text:list xml:id="list144252979441732" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P17">Clone git repository from GitHub.<text:line-break/>Execute shell script.<text:line-break/>Insert kernel module.<text:line-break/>Provide feedback for user.<text:line-break/>Provide link to a contributing users website.</text:p>
+   <text:p text:style-name="P17"><text:line-break/></text:p>
+   <text:p text:style-name="P17"><text:soft-page-break/></text:p>
+   <text:list xml:id="list152819214890988" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -998,7 +1074,7 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P43" text:outline-level="4"><text:bookmark text:name="_Toc441656799"/><text:bookmark text:name="_Toc396111550"/>Summary of Changes</text:h>
+           <text:h text:style-name="P54" text:outline-level="4"><text:bookmark text:name="_Toc396111550"/><text:bookmark text:name="_Toc441656799"/>Summary of Changes</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -1007,52 +1083,52 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P15">The system will perform the same functions as the Ubuntu additional drivers package, but allow this to apply to many more devices by allowing skilled internet users to contribute software without the oversight of the Ubuntu Kernel team. </text:p>
-   <text:list xml:id="list144252547591119" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P16">The system will perform the same functions as the Ubuntu additional drivers package, but allow this to apply to many more devices by allowing skilled internet users to contribute software without the oversight of the Ubuntu Kernel team. </text:p>
+   <text:list xml:id="list152818951297458" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P29" text:outline-level="2"><text:bookmark text:name="_Toc441656800"/><text:bookmark text:name="_Toc396111551"/>Factors Influencing Technical Design</text:h>
+       <text:h text:style-name="P38" text:outline-level="2"><text:bookmark text:name="_Toc396111551"/><text:bookmark text:name="_Toc441656800"/>Factors Influencing Technical Design</text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P15"/>
-   <text:list xml:id="list144253022586353" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P16"/>
+   <text:list xml:id="list152819054751725" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P33" text:outline-level="3"><text:bookmark text:name="_Toc441656801"/><text:bookmark text:name="_Toc396111552"/>Relevant Standards</text:h>
+         <text:h text:style-name="P53" text:outline-level="3"><text:bookmark text:name="_Toc396111552"/><text:bookmark text:name="_Toc441656801"/>Relevant Standards</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P15">The use of GET and POST HTTP standards, the JSON standard for communication.</text:p>
-   <text:list xml:id="list144252982651109" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P16">The use of GET and POST HTTP standards, the JSON standard for communication.</text:p>
+   <text:list xml:id="list152819681760025" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P33" text:outline-level="3"><text:bookmark text:name="_Toc441656802"/><text:bookmark text:name="_Toc396111553"/>Assumptions and Dependencies</text:h>
+         <text:h text:style-name="P53" text:outline-level="3"><text:bookmark text:name="_Toc396111553"/><text:bookmark text:name="_Toc441656802"/>Assumptions and Dependencies</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P15">Build-essential packages will need to be installed on the client machine. It is assumed the user has the knowledge to use the internet to download the package and run it from within a browser window.</text:p>
-   <text:list xml:id="list144252177386389" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P16">Build-essential packages will need to be installed on the client machine. It is assumed the user has the knowledge to use the internet to download the package and run it from within a browser window.</text:p>
+   <text:list xml:id="list152819385692175" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P33" text:outline-level="3"><text:bookmark text:name="_Toc441656803"/><text:bookmark text:name="_Toc396111554"/>Constraints</text:h>
+         <text:h text:style-name="P53" text:outline-level="3"><text:bookmark text:name="_Toc396111554"/><text:bookmark text:name="_Toc441656803"/>Constraints</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -1062,675 +1138,184 @@
    <text:p text:style-name="P1">The client system is running Ubuntu 18.04 running kernel 4.15. <text:s/>Further <text:span text:style-name="T11">distribution</text:span> support is beyond the scope of this project.</text:p>
    <text:p text:style-name="P1">The end user must have an internet connection, to download the package and during the programs execution.</text:p>
    <text:p text:style-name="P1">The success of an implementation depends on a suitable configuration <text:span text:style-name="T11">being produced</text:span> for that device.</text:p>
-   <text:list xml:id="list144253253889187" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list152820218425623" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P33" text:outline-level="3"><text:bookmark text:name="_Toc441656804"/><text:bookmark text:name="_Toc396111555"/>Design Goals</text:h>
+         <text:h text:style-name="P53" text:outline-level="3"><text:bookmark text:name="_Toc396111555"/><text:bookmark text:name="_Toc441656804"/>Design Goals</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P15">Incentive to contribute is crucial.</text:p>
-   <text:p text:style-name="P15">User interface must be easy to use.</text:p>
-   <text:p text:style-name="P15">Vetting of configurations to ensure malicious code is not used is crucial, considering chroot.</text:p>
-   <text:p text:style-name="P15">System must be extendable for future use, for future LTS kernels and different Linux distributions.</text:p>
-   <text:p text:style-name="P15">Ease of use to contribute at GitHub (add bash install script).</text:p>
-   <text:p text:style-name="P15">Rating configurations must be tamper proof.</text:p>
-   <text:p text:style-name="P15"/>
-   <text:p text:style-name="P15"/>
-   <text:p text:style-name="P15"/>
-   <text:list xml:id="list144253639521392" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P16">Incentive to contribute is crucial.</text:p>
+   <text:p text:style-name="P16">User interface must be easy to use.</text:p>
+   <text:p text:style-name="P16">Vetting of configurations to ensure malicious code is not used is crucial, considering chroot.</text:p>
+   <text:p text:style-name="P16">System must be extendable for future use, for future LTS kernels and different Linux distributions.</text:p>
+   <text:p text:style-name="P16">Ease of use to contribute at GitHub (add bash install script).</text:p>
+   <text:p text:style-name="P16">Rating configurations must be tamper proof.</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"/>
+   <text:list xml:id="list152820778324812" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P29" text:outline-level="2"><text:bookmark text:name="_Toc441656805"/><text:bookmark text:name="_Toc396111556"/>Proposed System</text:h>
+       <text:h text:style-name="P38" text:outline-level="2"><text:bookmark text:name="_Toc396111556"/><text:bookmark text:name="_Toc441656805"/>Proposed System</text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P15"/>
-   <text:list xml:id="list144252257918595" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P16"/>
+   <text:list xml:id="list152820077147775" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P33" text:outline-level="3"><text:bookmark text:name="_Toc441656806"/><text:bookmark text:name="_Toc396111557"/>High-Level Operational Requirements and Characteristics</text:h>
+         <text:h text:style-name="P53" text:outline-level="3"><text:bookmark text:name="_Toc396111557"/><text:bookmark text:name="_Toc441656806"/>High-Level Operational Requirements and Characteristics</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P15"/>
-   <text:p text:style-name="P15">The user downloads the client program as a <text:span text:style-name="T11">Debian</text:span> package from the host server. <text:s/>The user then installs the client package and is directed to launch the client program on the user’s machine.</text:p>
-   <text:p text:style-name="P15">The client program identifies the device by it’s device ID. I<text:span text:style-name="T11">t </text:span>contacts the server and if a configuration has been submitted for that device the server returns a link to the GitHub project for the client to download and then install via a special run script (penguin.sh).</text:p>
-   <text:p text:style-name="P20">Using Oauth contributing users can be verified as users of git without revelling their login credentials. <text:s/>I’m suggesting using git hub as it covers many features I would have to build for this project. <text:s/>These include hosting code and files, as well as a comments thread on each repository <text:span text:style-name="T18">and pull requests to suggest changes to current implementations.</text:span></text:p>
-   <text:p text:style-name="P15">The client program builds the kernel modules. <text:s/>It then attempts to insert the newly built kernel module into the kernel, returning a success or failure result. <text:s/>In the case where an install has failed the client program tries again <text:span text:style-name="T11">with a different configuration. </text:span></text:p>
-   <text:p text:style-name="P19">Potentially the client could upload the error logs to the database from where I can use Oauth to post the error <text:span text:style-name="T16">messages as a comment on the git project page under my user name.</text:span></text:p>
-   <text:p text:style-name="P15">In situations where the computer needs to be restarted the client runs again as an at daemon process.</text:p>
-   <text:p text:style-name="P20">https://en.wikipedia.org/wiki/At_(Unix)</text:p>
-   <text:p text:style-name="P15">After the client kernel module has been inserted a user review page appears. <text:s/>The user is welcome to try their new hardware to see if it works (we could fork a process for webcam, audio test etc as part of this?). <text:s/>Once the user has declared a device works it is up-voted in the server database. In situations where the device does not work the device Is down-voted in the <text:soft-page-break/>server database. <text:s/>In cases where an internet connection is not available the user will be invited to connect via phone tethering or Ethernet.</text:p>
-   <text:p text:style-name="P15">Contributing configurations Is done via a website, which communicates with GitHub using Oauth to verify the git user contributing to the project owns the git repository and project being referenced by the system.</text:p>
-   <text:p text:style-name="P23">Configurations are triaged by other contributing users to ensure they are not malicious. If a configuration is marked as malicious constantly I will personally review it. <text:s/>Keeping the voting process to other contributors implies a level of proficiency in the review process. (As things are being built in a chroot and the module is inserted into the kernel is this really necessary?).</text:p>
-   <text:p text:style-name="P42">Design:</text:p>
-   <text:p text:style-name="P36">This project uses git to host code to be build by the client machine. Many such configurations already exist on GitHub, a <text:span text:style-name="T23">contribution of bash code to configure a device </text:span>only has to <text:span text:style-name="T23">add a configuration </text:span>file on <text:span text:style-name="T23">the project page </text:span>and submit the URL of the git project to be included on the <text:s/>system.</text:p>
-   <text:p text:style-name="P36">Those wanting to add project to this system will be required to include the file “Linuxconf” in the root directory of their git project. <text:s/>This file will be read by the program and executed to make the source code, <text:span text:style-name="T23">and replaces the need for the Makefile to be used to build and install the code. <text:s/></text:span></text:p>
-   <text:p text:style-name="P36">It is expected that the configure script is not <text:span text:style-name="T23">included, as this opens too many variables for this application to consider</text:span>. <text:s/>The variable “INSERTMOD” (all caps) is exported to the current shell. This command is run after the code has been run and “make install” has completed. <text:s/></text:p>
-   <text:p text:style-name="P38">It is expected that the make process will be run from within a chroot, to prevent malicious software from harming the system during it’s build phase. There will be some logic on the system to enforce this and the correct kernel header source code will be downloaded via git <text:span text:style-name="T23">for the current kernel version</text:span>. <text:span text:style-name="T20">In order to prevent malicious code from being executed only git commits more than a week old will be used by the client application.</text:span></text:p>
-   <text:p text:style-name="P38"/>
-   <text:p text:style-name="P36">It is expected that the scripts provided will include exit codes of the following nature:</text:p>
-   <text:p text:style-name="P36">make failed: exit code 2</text:p>
-   <text:p text:style-name="P36">make install failed: exit code 3.</text:p>
-   <text:p text:style-name="P36">successful: exit code 0.</text:p>
-   <text:p text:style-name="P39">A template will be accessible at this address: &lt;fix&gt;</text:p>
-   <text:p text:style-name="P41">The TESTINSTALL variable will contain details of an application to launch to test the configuration where appropriate. <text:span text:style-name="T23">If this bash script does not launch correctly it is expected to return a non zero error code to the application.</text:span></text:p>
-   <text:p text:style-name="P36"/>
-   <text:p text:style-name="P37">The system comprises four major components, as illustrated below:</text:p>
-   <text:p text:style-name="P36"><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="paragraph" svg:width="17cm" svg:height="24.044cm" draw:z-index="0"><draw:image>
-      <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAxoAAARjCAYAAAGfzWJDAAAACXBIWXMAAA7EAAAOxAGVKw4b
-       AAB0nUlEQVR4nO3dBZxU5foH8HdhQbAFEzuwvWJ3xzWvnVwLEwNbr91eO7CxG7vjb3djd6MX
-       sTsB4T/v8c7ejRl4Wc7uzC7fr5+V6Xln3nnO7zxnzszUjho1KlA9ais9ABoyIVXGhFQZE1Jl
-       TEiVMSFVxoRUGRNSZUxIlTEhVcaEVBkTUmVMSJUxIVXGhFQZE1JlTEiVMSFVxoRUGRNSZUxI
-       lTEhVcaEVBkTUmVMSJUxIVXGhFQZE1JlTEiVMSFVxoRUGRNSZUxIlTEhVaZVJ2Tfy16u+Ofn
-       Tt22V02lxzA6KqTKVOWEnLbdQmGfS18KX33yTphqprlKXub0PouEvS8Z1Moja3lVNyH9d14y
-       m4zoyiM2DzPMtUj4zzuD6k4rqj8Zo5u4tqbqJqTfBc+Ec3ZdLux27uPZ8XmXWSds+q+L6s4f
-       +uFr4Z4LDgl9Trw9O37mjouHLQ+7MpzXb+XQt/9DFRlznqpuQqLiZDSuimi62Raom4xozwuf
-       y/5tD5MRVeWEjM9adUKqfZWzGqiQKmNCqowJqTImpMqYkCpjQqqMCakybWpCampqRhW0616m
-       TU1Ie5+MqLa13jRq3KVX4s2qx556Izw/oHdVT2qbqpCWUql3MkttSmozE1J802pcfPL0lYX/
-       985nQC0km5BHrz01fPPZh+GXH74KWx19ffbG0FZHDQzXHrN12OKwK8K3Qz8O3aabJVxzzFbh
-       8w9fr7tyfIJuPHnnsPH+F2RPWH3lnrwYzN26dft221MfbHJe4yf91x+/DRNO2q3B+ev1Oz08
-       c/uFofcRVze4zunbL5Idj5vjv//i02y89d148i7hyzefHZvnpsH9lntMebxQ6qv9pDDIaWab
-       L6ywxb51J8bJaHChTp2zf+MbQXEAO5x8V7ho/7VL3mAcXOPJqa8YzI0XE/E6M8y1cHY4TsST
-       N50dajp0DG89fXfY4/wn6y4Xn+gvB78dhrz7Yph+zoXDNsfd9NftjhyZ/duhcJ2fv/uiyYRs
-       vP/5WYY0V/FJf+Dy48Kq2xySHb76qC2zf2/rv3dYaNXNw90XHBJW6r1/mGvxv4frT9ihwRtr
-       qWpnmneJsmfG6ogmnbJHk4EV/43VUf9448Op6l8nVsVq2x2eHS4++Prn13/7tnuP2ZqcP7rH
-       1Fw3nbpr2Gjfc8M8S62ZHf9myAeFKr0meyEtvk6fcOvp/ULH2k7hngGHZhPyxcdvNet+2kyG
-       VFL9yY5VGXWffvYG5/U96+EG16lf1WOjYhNSkTertu3V6nc5tmrb47t4Y9vRV9Nz0C4XWQce
-       eOCJjz/++HIFj1d6LGOrXU7ICSec8K9Kj6G52uWEtGUmpMqYkCpTkQmppo151UaFVJk2MSFx
-       7/a4wXOmeRfPNtV8+vYLYca5F802W8z6t2XCBnufXekh5qZNTMjotKfJiNrEhMTPftTfnhSr
-       I8pzs3e1aBMTMj6pyIS0hbWdSlEhVcaEVBkTUmVMSJUxIVXGhFQZE1JlTEiVMSFVxoRUGRNS
-       ZUxIlTEhVcaEVBkTUmVMSJUxIVXGhFQZE1JlTEiVMSFVxoRUGRNSZUxIlTEhVcaEVBkTUmVM
-       SJUxIVXGhFQZE1JlTEiVMSFVxoRUGRNSZUxIlTEhVcaEVBkTUmVMSJUxIVXGhFQZE1JlTEiV
-       MSFVxoRUGRNSZUxIlTEhVcaEVBkTUmVMSJUxIVXGhFQZE1JlTEiVMSFVxoRUGRNSZUxIlTEh
-       VcaEVBkTUmVMSJUxIVXGhFQZE1JlTEiVqR01qiK/gkoJqqOKmIwqYjKqiMmoIiajipiMKmIy
-       qojJqCImo4qYjCpiMqqIyagiJqOKmIwqYjKqiMmoIiajipiMKmIyqojJqCImo4qYjCpiMqqI
-       yagiJqOKmIwqYjKqiMmoIiajipiMKmIyqojJqCImo4qYjCrSqpOx72UvV/Qza4899UZ4fkDv
-       mkqOYXRURhWpusk4bbuFwjSzzBtW3+7wMNVMczU5b59LXwrD//g1dJpgwgqNsOVU3WTEJzv6
-       6pN3sn+vP2GH8J93BoUdTr6r7jI/fj00fPLmc2GyqWcIt57RL7vO1UdtGXofcU1FxpyXqpuM
-       +y45Kqze54i64198/Fbd4TkXXTX7t/v0s2d/X336XjYR3372UZufiKjqJqM4EcVF1B7nP1l3
-       3jq7ndzgslPN2DP7t1uPWVtpdC2r6iZjfNaqk3Hqtr0qu1q5ba+K3v2YqIwqYjKqiMmoIiaj
-       ipiMKmIyqojJqCJtajJqampGFVTtJvBx1aYmY+edd76g0mNoSbWt8YbPzFNN9Ey/tXsuVf+0
-       5tzvREvuEq+3c3PHUfEtAGPQpiqjpVTiHchS7zq26cmI73k0fgOq6Osh74cpp5+jlUc0bmqL
-       7579/ssP4dzdVwxr7Xx8GDH8jzD/cuvXXejMHZcIf44YFrY+9oZw9ZFbhj0vfC6MGPZ7qO3c
-       pe4yVx25RfjnkdeG8/qtHPr2f6jkncUAjv+WC+Fff/w2TDhpt+wdvaj4RlNjg994Jkzfs1eT
-       03/8+rMw6ZQ9sutPN/sCYYtDr6g7L5526rbNK4Bzdl0u7FJ4TB1rOzXr+qlq4wM+vc8ihSdo
-       ZPbgX7zv6vDItac0mIw9L3w2PoPhtD4L1z1B9SciihMRlZuIaHRrQsN++yU8dct54a2n724w
-       CcUJKnrzqbvCvEuvHe4ZcGhYdI2tSt5W5y4ThR+++qzBaeUmNsVu5z4eXn/81jBp9+nC3Rcc
-       EnY584HwxI1nhWU33qPuMg9cflxhbHeEfhc8U/fu5NjeZ7aY2vuSQXUnLLx67+yviZqacXpA
-       Y9K560Rh1W0Oyf7qqz8RUZyIaM2djm1yG7Eqot3PeyLXsRWXHuftsVJWHf13WiJ0LYzro1cf
-       D7///GPY8bR7wzxLrRkWX6dPGPLeS2HeZdYJm/7rorG+nzadGa2l+CLse9bDZS8z/ZwLZ//G
-       6pm+50LNup+KTUa1r2ZWQm17fFLGtlOvyHNQ4l3HdreYOv744w8+8MADT6z0OJqj3U3GwQcf
-       fHylx9Bc7W4y2jKTUUVMRhVp9cmo1McCqv3jAJHKqCJVOxm3nL572GDvs8OP3wzNuto/fv0p
-       TDDhJHWbJr7/8tPw7B0Xh79vf2Slh5qbqp2MwW88m/178QHrhL0vHpRNRGPtaSKiqp2MvS56
-       Pvs3TkR9xe1Ek089Y6uPqaVV7WSMj1p9Miq2LazK90CPVEYVMRlVxGRUEZNRRUxGFTEZVcRk
-       VBGTUUVMRhUxGVXEZFQRk1FFTEYVMRlVxGRUEZNRRUxGFTEZVcRkVBGTUUVMRhUxGVXEZFQR
-       k1FFTEYVMRlVxGRUEZNRRUxGFTEZVcRkVBGTUUVMRhUxGVXEZFQRk1FFTEYVMRlVxGRUEZNR
-       RUxGFTEZVcRkVBGTUUVMRhUxGVXEZFQRk1FFTEYVMRlVxGRUEZNRRUxGFTEZVcRkVBGTUUVM
-       RhUxGVXEZFQRk1FFTEYVMRlVxGRUEZNRRUxGFTEZVcRkVBGTUUVqR42qyK97QtWzpIIyFAeU
-       oTigDMUBZSgOKENxQBmKA8pQHFCG4oAyFAeUoTigDMUBZSgOKENxQBmKA8pQHFCG4oAyFAeU
-       oTigDMUBZSgOKENxQBmKA8pQHFCG4oAyFAeUoTigDMUBZSgOKENxQBmKA8pQHFCG4oAy2m1x
-       LLbT1eP9T1bNPuMU7w88bK2elR5HW9Vui2P5peer9BAq7rGn3pij0mNoy9ptccC4UhxjcNp2
-       C4V9Ln0pOzxq5MhQ06FD+OqTd8KVR2yenR7P7z797GG9fqeHSw78R+hY2yn8OWJ43Xn9Lng6
-       1HbuUndbsy24XFh/r/7Z8Q9feSw8ccNZYdG1tg1TFm7jhpN2CsN+/yXsffGgij1e/kdxjIV3
-       nvu/MPeSazY4bc8Lny0UROd6x58LP379Wd3xYmGcueMSdUVWLLjvv/g0bH3sDdnxrY4aGHY7
-       57Hs/HsGHBLW3Om4ln44jIHiGIPiCzoqFsZUM81Vd3r9wiieNumUPZpcNxZR48vNOPeidcdj
-       GhUpjOqgOCooFlmpw1SHdlscjz31RqWHUHHzzzal5mUctNvieH5A75pKj4G2rd0WB4wrxQFl
-       KA4oQ3FAGYoDylAcUIbiaAG///57l65du/4WD//973//v3vvvXeNSo+Jsac4WkCXLl1+Lx5W
-       GG2X4mgho0aN8iZkG1e772Uvt5tPzM081UTP9Fu751Kju0x7eryjE3efGZu9BMaX5yVKfW4k
-       B5SRFcfFB6wTtj/pzuyE+h/uKYq7Uzfea/TaY7YOn3/8v537Uj+g0/j2T+uzcKip+auI/7H7
-       aWH2hVZIul6K+eab742CZn1etjn3N7bXK/W8pvh6yPthyumbfgL21jP2zD5AVWdA77G+bf4n
-       K45tjr0xm9S9Ln6h7hNsM8y1SHaBTf91Ufjpuy+ySWw88fGTcUXxAz7FzzEUxctH8Tqlzo9q
-       Cv916PBXgMXCKN5Hc1+c9b355pvzFgpvVMeOHf8cMWLEWKfkFx+/Gb774pMw9xJ/9dQ/fPWf
-       MNlUM4RHrzstO63+eY3de9HhYY0djg5XH7Vl6H3ENeH8PVcNXSeeLGxz3E11l4mfJlxw5U3D
-       KlsdVHfabf33zj5VGNV/zj5589lw48m7ZM/Jn8OHlbzP9fc6s+5wa++VXH++zt19hbDr2Y9m
-       p03afbrsMd93yVHZeb1W2TQ8dPVJ2YKhOM/xtVX/ePE615+wfajt1CUM/eDV7LVZ/1OXk089
-       Y4s/ptrig4p/p/dZJOx9yaDs8Hn9Vg7zL7d+dqHpZv9bOHPHxZu8WOsfr//ptxfvvyY8c9uA
-       ugdb35yLrhqGfvhamG62BbLjo0aNDH+O+GuyLz1ogyYDvOX03UOXiSZv1oMbl6a4+NimmWXe
-       utNiYUQrbLZPk/MaXy8WRhQLI9rlzAfKXra+YmFE9RcmM827RMkxVaPff/kx+7c43rhgKD7+
-       4ustrnkUxU9BXnbIhmWvE1+LUeNPXba02voTFAujqG//h+oOd5148uzjn/VtcdgVDY7Xn8iF
-       V9sy+4safzpund1ObnC9culQPH2Dvc/O/l1zp2MTHg6VUn8eG89p/QVD8bzi66d4fNvjbi57
-       neJrsTULI9KQQxm1p27ba7zaHt9WH++cc8757j777HPaLrvscn7SFbbt1bIDGg9Ijjbivffe
-       69m3b9/zkotjLLXVhUazJC44FEcb4R331qc4oAzFAWUoDihDcUAZ40VxjE97nEZju0cupY0X
-       xdES3n/x4XDnOfuHZTfpFxZdY+smOxHeePLOYeP9L8gOl9pPLI99x2hZiqMZii/suDPciOHD
-       6vYNq3/eJ28+12C/sk/ffqHui6O///LTVh8zY09xNENxh8qamg7ZjpONE+Dj154KM827eIPk
-       iIXRf6clQtdJuoWN9jsvOz3uUPfbT99JkCqlOJqp8Qu6uEpVPH2WBZZuctl+A5r+DAHVa7wo
-       jvHtG9cXnmvqRys9hvZgvCgOW25ojvGiOKA5FAeUoTigDMUBZSgOKENxQBmKA8pQHFCG4oAy
-       FAeUoTigDMUBZSgOKENxQBmKA8pQHFCG4oAyFAeUoTigDMUBZSgOKENxQBmKA8pQHFCG4oAy
-       FAeUoTigDMUBZSgOKENxQBmKA8pQHFCG4oAyFAeUoTigDMUBZSgOKENxQBmKA8pQHFCG4oAy
-       FAeUoTigDMUBZSgOKENxQBmKA8pQHFCG4oAyFAeUoTigDMUBZSgOKENxQBmKA8pQHFCG4oAy
-       FAeUoTigDMUBZSgOKENxQBmKA8pQHFCG4oAyFAeUoTigjNpRo0ZVegxQdaQGlKAwoASFASUo
-       DChBYUAJCgNKUBhQgsKAEhQGlKAwoASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAwoASFASUo
-       DChBYUAJCgNKUBhQgsKAEhQGlKAwoASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAwoASFASUo
-       DChBYUAJCgNKUBhQgsKAEhQGlKAwoASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAwoASFASUo
-       DChBYUAJCgNKUBhQgsKAEhQGlKAwoASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAwoASFASUo
-       DCihXRbGYjtdParSY6gGzw/oXVPpMbRV7bIwll96vkoPgTauXRYGjCuFASUoDChBYYzBpQdt
-       EL77/OPs8D6XvhRO226h7N8Rw4eF2k6dx+q2itel+imM0fjl+6/Ddv++peR533/5SZh48qnC
-       DSfuGL769L3sBT/0/VfDg1edEOZdeu0w9IPXssut3feEuuvEy1x73DZhi0Muz4qkQ8faMPLP
-       EXUFN/nUM4YfvhoS9r5kUKs8PspTGKPxzB0XhlW2Oqjs+efuvmKYYa5Fsr/oj99+Dv888pqS
-       yVA87fMPX687ba+Lnm9wmT4n3h5uP2ufHB8BzaUwRiMWxUevPhFm/duy2fEzdlisyWU2/ddF
-       dYc7jmbVatE1t8n+3fviQeHn778qe7nvPh/c3OGSI4UxBrMusEwhGVYI8y3zj2wJH5f8RTEB
-       zuu3cph/ufXDcpv0a3Ld/jstEfoNeDbccNJOYZMDBtSdPmDv1bN/773w0ELK/BLW63d6dvzC
-       fdYI6+5+Sgs/IlIojDGpqQm7nv1o3dHiKtKU08+R/du3/0N1580496INLhOLIqpfFMXzY4Gt
-       seOxDU7f8bR7cx48zaUwKqRxD2JrVXVRGFCCwoAS2mVhPPbUG5UeQnXYtlelR9BmtcvCsLs1
-       46pdFgaMK4UBJSgMKEFhQAkKA0pQGFCCwoASFAaUoDCgBIUBJSgMKEFhQAkKA0pQGFCCwmgB
-       NTU1dd+2PmrUKLvAt0EKowXssMMOFxXsUOlx0HwKowVceOGFO8bC+PXXXyes9FhoHoXRgrp2
-       7fpbpcdA8yiMFnLMMcccVukx0Hy1+172crv5Wa5Tt+012kY3/gRZq/3a0gzrhMJze0zr3FlT
-       Y3ouGD2JQesuMKpAykJDYUAJCgNKUBg5+uqTd8JUM82VdNlx+XWlMV33zxHDwvXXX79pwfXN
-       ugP+Koz6T/SokSNDTYcOdRcoNwmn9Vk4vsObHY6/+dAc1x6zdfj84/99a2C52/l6yPt13y4+
-       NgYNGrRIwVgPbuTIP0OHDh3H+v4q6befvst+kqBo6euuq+Bo2r7a4X/8Gv624sbZkSsP3yxs
-       dfR1WTF0n372ut9tOHPHJbKlUP0CmWmexcLG+19Qd7z4uxE7nnJPuO2svcOXg99O+vmt+sUQ
-       fzTlplP6hl9/+jb0u+CZ8OHLj4YX778mzLPUWs0qjEUXXfSF4uHbb7/9H2N7/RtP3qXwGM9v
-       snD49cdvwt0XHFLyvPjTYfEnxF56YGD4/MPXwpo7HRfuPGf/sM5uJ9ddtvhcxed0xLA/wgQT
-       TpId/887g+p+nSk+9lvP3KvB7/59+9lHoVuPWUuOteskU4QdT70nXLjvmmP7MHNxzq7LZb8o
-       Vdt5gmzuGiu1gB2bhG1ttWftskzdgL/69N3s3+LkXHLgX6+lPS98tskVP3nzuboJLl6//iQW
-       je7nt6JYdEXx9+52OOXu/97+s3UvjE/ffqHJ9cbGGWecsde66657x9F3XD1W14tjiC/eovgY
-       ppt9gbDFoVc0Oa8oFkX08oPXhR+/HhKW23SvbCETzbnoqtm/xecpvpiKv6ERPXTlCWHrY2/I
-       Ds/Wa4Umt12uKIom6TZt3XO86aa9WnU1ardzH687fOd5B4aFVtksPHT1SdmLvzimEcN+D/13
-       XipM2n26sM1xN2Wnnb3rstnCIf4oz5B3X2xwnfgcxR8Ajc/R77/80OD3Dlta7WRTTZ8duPqo
-       LcMGe5+dHd5ov3NDx9q/fjar/i8I1TfTvIs3SIxyRvfzW1H9ovvx689KXuaz91+p+1GWsdGc
-       HfhefnBgePyG/mGP858KnSboGjp27FR33txLrhneH/RgdrjxeUXxuouvvV3Y8vArsxd+/AHL
-       4k+LvfvCA9m/Z+64ePZvnPD6C4xYFO8PeihMM8u8dSlS3zVH/zPpOa+0d5+7L6zT98Ts16g6
-       1Fstr+3cJUvZd59/IFx8wLpho33PCbuf+0R23tVH9Q69j7i6wXU6d5ko7H7eX+c3/r3Dlla7
-       /Ul3Zge++PitMOvflskOv/X03eHhq08uvDiezI7/9ZNYPxdWrc4Y4w3GSY4/zbX0Bn1Dr1U2
-       b3J+8ee3iuoX3g4n39XktuKLqP4vGrW0OObiuGNxFMcRrbXz8XWXa3xeFFcL6q8aFM9bbdvD
-       Ghzf88LnmlymaI5FVm5yXvHfLQ+/quR1qsqoUdmPbBYL/tO3Gv4A50zzLpH9vf/iww1O7zbd
-       rE2uUyyKF+/7K+nr/95hS6vbKlX/yY6/KRf/Gp9eX+MlV/3L1X8hl/v5rWiLw64oO7D45EX1
-       X0RUr/iijmsZO512b/azzNsce2O4cL81s57zysM3zVYjhxZ6rltP7xf+scepWSoM/+O37DfU
-       Bx63Xeh71sNZ0ta/Tk2HjmH477+G7U64LSy8eu/R/t5h3myuJReNF6Cxr4ov8Giro//X7sQC
-       iHY6/b4mp5W7Tt3l6v3eYUtTGFCCwoASxqvCaMu/tNSlS5ffC7pUehzji1q7J7cNf/zxxwSV
-       HsP4ZLxKjLbqiSeeWLYlb78tJ2lLURhtwHLLLZe9rRy/fcS3jrQOhdEGHHjggSdeddVV/yy4
-       qtJjGV8ojDbghBNO+NeJJ554YPy30mMZXygMKEFhQAkKA0pQGFCCwoASFAaUoDCgBIUBJbT7
-       wmhPXz+Z+j3Ddgwdd+2+MKA5FAaUoDCa6fJDNw7Dfv+l7jPK9b8GJ37DYvGLHuKXzMXvomps
-       bL9srKq/GaQdUhjNcNYuS9d9fU78Urj19zwjO1z8KqDpZmtaCPW/hTB7kdfUZF8N5FtQqpPC
-       aIZiUYwYPiyss+tJdafXT4z635dVamn/wUuPZkUxLl/uTMtRGM1w9/kHhbV2+Xf29ZHx2wWL
-       X71ZX/HFXvy+3sZ6zPG3Fh0j40ZhNMMS/9ixLhF6LrJKg8KIX6ocv5azlKuO3LLu8G8/fx9u
-       PHnn8I/dT23ZwdIsCqMZuveYrcnqT/F4/Mbx+oqNd+PLz7X437M/qpPCgBIUBpTQ7gtj4bmm
-       fvSxp95o+mMT7dm2vSo9gjav3RfGBfuutmKlx0Db0+4LA5pDYUAJCgNKUBhQgsKAEhQGlKAw
-       oASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAwoASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAw
-       oASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAwoASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAw
-       oASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAwoASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAw
-       oASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAwoASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAw
-       oASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAwoASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAw
-       oASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAwoASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAw
-       oASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAwoASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAw
-       oASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAwoASFASUoDChBYUAJCgNKUBhQgsKAEhQGlKAw
-       oASFASXUjho1qtJjAKCNsDYFQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEB
-       QDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAy
-       oQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEB
-       QDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAy
-       oQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEB
-       QDKhAUAyoQFAMqEBQDKhAUAyodGG7HvZy6MqPQaqw2NPvRGeH9C7ptLjYPwjNABIJjQASCY0
-       AEgmNGhxp223UNjqqIFhqpnmyg5vfewNYcrp56j0sIBmEBqMk7N2WTp0nXjysMMpdzc4vf/O
-       S4YpppkpbHX09Q1O3+fSl3K53xg+o7utyw/ZKMzWa4Xw/N2Xhj0vfDZ0rO2cy/3C+E5o0GxP
-       3nxOGP7Hb2GP859qcl6/C54peZ36nUY8vN0Jt2XhEv349Wfhov3XzsIgnjflDD3D1sf8FTrv
-       vvBAuPOc/ZNC54kb+4efv/8qLLdJv7DsRruH07dfpMH14m1PPvWMoc+Jt2fHv/3so3DZIRtm
-       l/nqk3fClUdsXgia5wpB0+mvy/dZOKy4xX5h4dW2HLsnCNohoUGzTT3T3ON8G8XAiCadskeD
-       hftKvQ+oOzztLPMm3d7nH74enrvr0uxwDIeixp3J2n1PqDvcrcesTW6nGBjRvEuvHV556Hqh
-       AUFoMA56LrpKWH+v/tkCea4l/h5W+edBoUPH2nDX+f8KH736RNjlzAfDhJN2K3v9WRZYOtuM
-       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
-       F85pLCR6/fXX519ggX++1hp7t0El1I7rbzYA/7PAAgu8Fv+NvzJY0HFMl68mc83c/Y3CSqSv
-       uW2H5p99yrRPlyaweQpy0qNHj7pP/I0cObLDiSeeeGDBiZUc09i46pA15q/0GKh+QgNycNdd
-       d609dOjQ6eqf9q9//euEthQakEJoQA7WXnvtu4rvY8SvePGeBu2V0AAgmdAAIJnQACCZ0AAg
-       mdAAIJnQACCZ0AAgmdAAIJnQACCZ0GgHFtvp6lHLL+175qrJvpe9PCrP24vfRu3LRakGQgOA
-       ZEIDgGRCg1ZzxvaLhg61ncJG+50bpp+jV/jq03fDjaf0Db/99F3Y59KXSl7ntO0Wqjvv2mO2
-       Dp26dA0b739Bg8sM/eC1cO2xW5e9jca3t9VRA8NUM8017g+ojJRxQFslNGgVcWG9xaFXhOlm
-       X6DutLjg7tv/oQaX++qTd8KVR2ze7AXvp2+/EG44cccG14/33efE28PkU8+YHb/p1F3Ddifc
-       FiboOnEWRF8P+SDscb5fUYUUQoNW073HbA2Ox4V5UU2HDmHviwe1yjjW2/OMLDCiLQ67osE4
-       gNETGrSKHU+9J5y967Jhs4MuDtPP+ddPlxe7geuO7xM+++CVXO5n4smnbHD8zxHDm1zm4atP
-       ClsedmV2+LsvPsnlfmF8ITRoFZN0m7bsJqfNDr6k7nDcZFX/cvUPx66glLjJq3i5KaadpcF1
-       OtZ2Knt72eWnmcl7EDAWhAYAyYQGAMmEBgDJhEY74OslxgPb9qr0CCAjNABIJjQASCY0AEgm
-       NABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQA
-       SCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgm
-       NABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQA
-       SCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgm
-       NABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQA
-       SCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgm
-       NABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQA
-       SCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgm
-       NABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQA
-       SCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASCY0AEgmNABIJjQASFY7atSo
-       So8BgDZCpwFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAy
-       oQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEB
-       QDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAy
-       oQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEB
-       QDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAy
-       oQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEB
-       QDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAy
-       oQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEB
-       QDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAyoQFAMqEBQDKhAUAy
-       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
-       xvo+YHwlNGgVMSwGHrdt066iEAzbHHdTyevMueiq4bHrTg+vPnxD6HPiHUn3s+KW+4c7zz0g
-       TD3z3OGbIR+GTQ+6KFx7zNbZeaP++ybKWbssE3r0XDAM/eDVUNOhQ5h/ufWb+7BgvCM0aDWb
-       H3LZGC9T/z2L1bY7PPsrdV656yy82pbZX6nzY5D4YB+MG6EBQDKhAUAyoQFAMqEBQDKhAUAy
-       oQFAMqHRxv1t5slveuypNyo9jFa14BxTPfnK+18tU+lxtKpte1V6BJARGu3A8wN611R6DMD4
-       QWgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExo
-       AJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQ
-       TGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExo
-       AJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQ
-       TGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExo
-       AJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQ
-       TGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExo
-       AJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQ
-       TGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExo
-       AJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQ
-       TGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExo
-       AJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQ
-       TGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExo
-       AJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQ
-       TGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExo
-       AJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQ
-       TGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExo
-       AJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQ
-       TGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExo
-       AJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQTGgAkExoAJBMaACQ
-       TGgAkExoAJBMaACQTGgAkKx21KhRlR4DAADQztg6BQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6j
-       AQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6j
-       AQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6j
-       AQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6j
-       AQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6j
-       AQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6j
-       AQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6j
-       AQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6j
-       AQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6j
-       AQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6j
-       AQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6j
-       AQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6j
-       AQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6j
-       AQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6j
-       AQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6j
-       AQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jAQAA5E6jATl797OfVh02YuRElR4HUF16
-       dOv6areJO39U6XEAtBaNBuSs95G337/80vNVehhAlXnsqTfC8wN611R6HACtRaMBAADkTqMB
-       AADkTqMBAADkTqMBAADkTqMBAADkTqMBAADkTqMBAADkTqMBAADkTqMBVNyoUSPD+y8+HD58
-       +fEw9INXwq8/fheG/fZzqJ2gS5i023Rh2tnmDz0XXTXMusDSIdQ0/L2zrz55J1x5xObZ4a2O
-       GhimmmmuJqdvfewNYcrp52jdB9VCHrrqxPDygwOzw7MtuFxYf6/+FR4RAJSm0QAq5r0XHgx3
-       X3BQ+HPE8NCxtnNYYIUNw2rbHhamnKFnmKDrxOGPQrMx9MPXwisP3RBuPaNf1pB0mWiysNnB
-       l4TuPWYb7W3HhmOfS19qpUcyZk/fen54+rYLwopb7BcWXr13s27j5Qevy5qMSafsETpN0DV8
-       +Mrj4fEb+oflNumX82gBYNxpNICKuOPs/cJ7gx7MGoytjr4+TDVjzyaXmWDCScIs8y+d/UUv
-       3HN5eOHeK8Kg/7syLLvRHmHCSbuVvf0xvaMx8s8R4c2n7gxvP3Nvdtk/fv0pdJ5w4jDFtDOH
-       ORZaKfRaZbNsZb7o6/+8F644bNPs8G7nPFZojoaF5++6rLCy/1j46dvPQ4eOnUL3GWYPvVbe
-       NMyz1Np113vg8uPCq4/cWHf8kWtPyf6KtxMfY4pP3nwuPHTVCdnh9fc6M0zQZeJw0f5rh+fv
-       vrTQmM3e4D7rG/r+q+Ha47bJDu961iPht19+CM/ecWH49M3nw68/fRs6Fxq6HnP8LSy25rah
-       R89euV0XADQaQKt7+5l7siYj2mi/80o2GaUsuuY22d+4uvm03cLHrz2VvSvyjz1OLTQXs9Sd
-       9+1nH4V7LjwkPH7DmYVxzRl6H3lN6NChY6HpmLDuMtccs1WYeua5wypbHRxW2GLf7LTfCyvh
-       N53SN9wz4NDwyDWnhF3OfDDUdOgQVt3mkOzvnF2Xy96hac47GrGRuenUvtnhv29/VF3TtF6/
-       08KtZ+6V3Wc8rbjbWH21nSeoO3z5oRuFmeZdsjDugwpNwkR1t337WfuEgcdvlz3G7U+6vdDA
-       dR/n6wKARgNodf9598Xs37hyOsNcC7fqfT98zUlZkzHd7AuELQ69osn53XrMGnofcU249tit
-       w9APXsuahpX/eWCoqffZkAVX2qRJsxB36Vpjx2PD5YdsFH77+fsw5L2Xc3ls8Z2Tq47cMowa
-       OTIstNoWYb5l/1F33my9VghLrb9LtltWXNnf6fT7sl3Oyllw5c3Ckv/YscFpk3SbNnu8lx2y
-       YdZkPXTlCWGd3U7O9boAjJ80GkCrK+7yNPyPX7NdllJ3H8pD3AUpik3EadstNMbLxw+nN1bq
-       nYOoU+cudYdH/jm8mSNs6Lrj+4TffvouTN9zobDSlgc0OX+p9XYOXw5+O3zw0iPh2mO2Ctse
-       f0vZ25p5viXLnjftrPNnzcJXn76b+3UBGD9pNIBWt9CqW4Tn7rg4jBz5Z7j3osPCev3OSL7u
-       a4/dEmZdYJkw8RRTN+u+J5xkivBN4d9pZpk39D7i6mbdRmuJu0R9/tEboWNtp/DD10PCgH3+
-       XvaytZ06h2+HfhzuOGe/sO5up5S8TGzsyonf8hVNMNGkuV8XgPGTRgNodV0nnjxsd8Jt4aoj
-       Ng8fvPRoOHvXZbOV49FtNX/nuf8L9154eLYr0bh8revSG+6avUvwxcdvhlceviHbDaqxEcOH
-       hYHHbRO695g9210ofkB8nP1316vYXKV49o6LwltP31W4WofsXYrJppp+tJf/9cdvwoX7rpl9
-       k1fclSruUtXYEzedHbacd4kmp3//5afh/ZceyQ4vsPwGJW9/XK4LwPhJowFURFxx3u3cx7Mt
-       9vdfelT2QerRKqyoz73EGtmHkcdlV6u4C1Lfsx4Ot57eLzx4xfHZX/y62Die33/+Pnwz5MOs
-       GYgfeF5hs33yaTIK5lx01ezdmMeuOz28dP+1oWNtbVj5nweFWRZYusllY7Pw5M3nZIc32Pus
-       MTYZUfwQ9sYHXJA1UfFrdLvPMEd2n/X9bcWNQv+dl8q+TSt+mH3Un3+GoR++nr1bET+4vu7u
-       p4Y5Fl6p5O2Py3UBGD9pNICKmnbW+bKvt22ucr+XMbrf0YjvqGxxWNMPgo9ObEbG9Lsco7vM
-       atsdnv2l6LnoKs36DZDYRI3uetPMPE/od8HTY32743pdAMZPGg0AACB3Gg0AACB3Gg2Admx0
-       u5C15HUBQKMBAADkTqMBAADkTqMBAADkTqMBAADkTqMBAADkTqMBAADkTqMBOXt+QO+aSo+B
-       6lNTUzOqwGtjfLZtr0qPAKBVaTQAAIDcaTQAAIDcaTQAAIDcaTQAAIDcaTQAAIDcaTQAAIDc
-       aTQAAIDcaTQAAIDcaTQAAIDcaTQAAIDcaTQAAIDcaTQAAIDcaTQAAIDcaTQAAIDcaTQAAIDc
-       aTQAAIDcaTQAAIDcaTQAAIDcaTQAAIDcaTQAAIDcaTQAAIDcaTQAAIDcaTQAAIDcaTQAAIDc
-       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
-       ywVX3vR/pzczfOob29BONuqvhUOK+s1Ph/+uHEexOVp+072aXP7BQgDGJmPiKaYOO5xyd5Pz
-       Y0Bte9zN4aL9187G/+CVx4fVtztinEI3L5+8+Vw4bbu03d6WWHeHsMyGu2WH2/IKQ1tReO2N
-       XGihhV6Ku1f17t376p49e75XPO+4u8vvPlTt4srY/Zccne2qMzoj/2xYr9PPuXD2wfIYuref
-       tU/oc+L/VtbjMuqjV5/MVq7jynYe95dq5vmXLHvedLPPn9X8l5+8ncuYPn3nhezfaWedv+x1
-       YhNSzhM3nZ3tXhbF3dA2P+SybKPH2IrLjSgux1OWH0M/eKXJaeW2onaqt5I28s//vZkX3wGN
-       irvDlVKJXXhjkxY3zsW/+uKHwe++4ZqwULcvburatetvrT4wWkxcR4hNevwrrhvF9aKXHhgY
-       +u+8VNj4gAvCTPM03PtibHeVTN1zYZx3C23FXT9HDB+WPaa418c3Qz78a2+XrhP9d7fPxcMC
-       K2xYWM8qvdvnOO0pQ0VljUZ8d6K4f+6sf1u27swVt9g/223osevPCPMvt0G2VTHuOvTeCw9m
-       56+27eENbiyP8GlOaKeI79akfjh15zMeaLArQ1G5govPSTTDXIuM9nbjivabX38Whrz7cpPz
-       xjZ085LHZzTaywpDpXTs2PHPJZdc8pm4q9Tmm28+cJppphn92mcViVvHa+o140X1V5Dj1vWi
-       u88/KLz97L1hosmnDHuc/2TJXXXi8ibuullK/PaqT956vlBDL2a7FsV30OIuSMWmdJMDBmTN
-       al73l2L47+U/31/85qH6uzOOy5gmnGSK8G34KPw8hgalnBHDfs/ewXj/xYfD/ZceHc7ccfGw
-       1i7/DnMvscZY3U4cxzchjPEzM3mKKzHRH7/+XPYy8d3vahFXoLrNsXS4cUDv9v3NImRW6n1g
-       +O3nHworwvdkG0JiMxDfvWzurpJj2nMhr91CW2vXz0H3Xhkeve60bFm40b7nNsj/uFx6dOBp
-       4crDN83GsNPp/5frnjJUVm2c4KdvPS87svJ/380oiu9YxK00bz55Z3jylnPCCpvtU/cB8Pit
-       TNPMMk+Dy+cRPmMb2qnyWKEut1Wg68STZf/+XljIjE7x/K6TTD5O42jr2toKQ17i9+hvueWW
-       18Rdn9Zcc8172vI3UH369gvZ/v1RfJdv0TW3aXD+S/f/r/5n67Vi3eFvhn6U/dtjjgVLrmB/
-       +PKjdSvY5XYPi7tQxc9rDLrvqmz5dO9Fh2Wnx2+Li1sY68vj/sYkvkuwZYnPsX33xSfZCn30
-       txU3ymVMS663c7jxpJ2z5z/eduNvgIvv2l68/zrZ1saFVtsirLRlw2V6XFmJW+AXWH6DrLm4
-       +ujeWeMTd9PqffhVybt8LL3hruG64/tkn5mJH0qP72o2FrdeDjxum8LKwezZu9Sje6clxXzL
-       rBs+//D17HNg8Vvp6u+eGsXH/vA1J4/TfcC4iBtqY6MR11W++ezD7DXaUrtv5nW7rbXrZ3zX
-       JIr5H9/BqC8ud1bZ+uDsr7E89pShsmqfu+uS7BtMYlDU7xKLVtx8v/DWU3eHF//v6jDtLPOF
-       Lwe/lb09tdKW+ze5bB7hM7ahXQ2K4R93h4h/s8y/dJPLxF3QPnzl8b8uX+KDrM3y392XUncJ
-       qxbj6wrDiSee2G6WfjPOvWjY7t+3Zs1G3Poe/xqLuwxucuCF2eeWitbd7eTsXdL4rmj/nZfM
-       3rmKDXx8lzJ+9iuuCPc58fZw6b/Wz3a5i5/lmXKGObKtWDHgorilOH44PH4T1VVHbpltYZt7
-       yTVLfiV1HvdXyqh6HwRe5O//DGftskz2jm/cOBObg/iuXVzZiO/2rLvrydmuqHmMKe6OsdPp
-       92VbGuNW0yh+Xiwuk3/4ckj2pQzxHZ242+K8S5f+EoaieJ24S2fckBSbtbjLx6rbHJq0fI1j
-       ju+M3Hp6v+xzI/Fv0il7ZHP+e2HMcbeIWMdxruIGqnFtMqK4m24c870XH5F99XV8nLGxjLtx
-       xvuLx9fu++9w6xl7Zpcf5cPatLIfv/6s7vAk3aatO9xSu2/mcbuttetnbCLmW/Yfhaw4PVy4
-       35oNLhfreI6FVy4swzdq8pMKeewpQ2XVPnP7hdk+uvFbWkrpMvFkYYl/7BCeuW1AuOv8v74j
-       P35Xfqmt+80Nn3EJ7WpQDP+bT90t+4vj7DbdrNlnNn76ZmihUD/JVobiCvUG+5492t8mGRtz
-       LrpqeO2xW8Jj150eXrr/2sKc1Bbm5qAwywJNG51y4m4op28/+l2+6ouPa5tjbxzzBUfDCkP7
-       EOs3vu7HRvyyid3PfWKMl9v7kkGjPT/u5rnPpS+12v01FpdN9e9/rsX/nnzdcR3TxJNPlTUI
-       qeKujaN7rkp9viBFfGckbvUcGzEPxjRvo7vMvMusm/2NTsrrAvIWm4z4+bFooVU3r9sNqaV2
-       38zrdltz18+4u9Sm/7q4wWlx43P8octnb78o+0bBuNvT1sfckL1TEVViN03yVZuyUI772dX/
-       GtfRaU74jEtoj8nYjqWxlGCMYvjHb5PK+7ZHd5nVtjs8+2uO1nherDAA0J7FDynHXYviXhxR
-       3I20/pfGjPPum2X2XMhrt9DW2PUzfvnL07cNCN8O/TD7so76jUv8Ku7ZFlw++7vskA2zz1y8
-       9+JDYYke22fnV2I3TfLV5JfBAQAI4T9vD8o+kF1f/Brt+iv+8TMGS2+wa1hi3e2b7HI5rrtv
-       lttzYVxutxK7fsYPst96xu3hnN2Wz5qnboVmoOsk3bKfDIhNTfxK/Ch+pmOJdbavu79K7KZJ
-       vjQaAAD1jOu7/kXjuqvk6PZcaO7tVmrXz7irVXM0Z08ZqodGAwAAyJ1GAwAAyJ1GAwAAyJ1G
-       AwAAyJ1GAwAAyJ1GAwAAyJ1GA9qg5wf0rqn0GKA1fPDBB7Pvt99+p9xyyy0bVHosY23bXpUe
-       AUBFaTQAqFrrrbfebW+88cZ8l1122bYFl1V6PACkqz112162jMJY6Ld2z0oPAcYLhx122DGx
-       yYiHd9xxxwvXWmutu6eeeuovKz0uANJ4RwOAqvPCCy8seuyxxx5aPD5ixIjazTbb7LqHH354
-       pUqOC4B0Gg0AqsqoUaNqNt544xsbn/7II4+seMYZZ+xVcEYFhjXe8BkwaIOq9DNhGg0Aqkq/
-       fv36Dx48eOZS5+2zzz6nrb/++rfOMsssH7fysAAYSxoNAKrGAw88sOrZZ5+9e7nz47sdG264
-       4c0vvvjiwq05LgDGnkYDgKowfPjwTptvvvnAMV3upZdeWuioo446ouCo1hgXAM2j0QCgKmy/
-       /fYXf/PNN91TLntkQdyFasEFF3ylpccFQPNoNACoCldcccXW8a/x6TU1NaPiLlOVGBMAzafR
-       AAAAcqfRAAAAcqfRAAAAcqfRAAAAcqfRAAAAcqfRAAAAcqfRAAAAcqfRAAAAcqfRAAAAcqfR
-       AAAAcqfRAAAAcqfRAAAAcqfRAAAAcqfRAAAAcqfRAAAAcqfRAAAAcqfRAAAAcqfRAAAAcqfR
-       gAp749Mf/rH3WQ/f/N33v3Ss9FigWi2209WjKj2GMenVc+onL9x/tWUrPQ6AaqHRgAr7c+So
-       TrHJWH7p+So9FKhKL1wYQluoj8eeemOZSo8BoJpoNAAAgNxpNAAAgNxpNAAAgNxpNAAAgNxp
-       NADK+OqTd8KVR2yeHd762BvClNPPUeERpas/9q2OGhimmmmuCo+o+Waef6lKDwGAZtBoAO3O
-       kHdfDPddekz47vOPG55RUxPCqIbfklrbeYKw7EZ7hIVX793kdqaYdpZsJT2afOqZGpw3+PWn
-       w02n7hpW3GK/Jte99pitw9APXwszzbt42Hj/C8Y43qEfvBauPXbr7PD6e50ZZltw+TFeZ3yy
-       0b7nVnoIADSDRgNoN7769N3CSv5WYcTwYYUmYeaw/Ul3hMmmmqHs5X/5/utw65l7hkeuPSU8
-       dv0ZofcR14SpZuxZd35sQsq9E/D8PZfnPn4AaE80GkC78OPXn4UrD98sOxzfYYjvNIzJRJNP
-       WWguri57fqldp15/7NYw+I1nwn/eGZSd/uZTd2bvSER/3/7IQnPSZVwfSp1P334h3HDijtnh
-       PifeHiafesYmlxny3kvhuuP7jPYy33z2YbjuhO3Dn8OHh249Zv3rtCEfhJF/jsgOr97niDD/
-       cuvnNm4AiDQaQLvwysM31B1ebpN+LXY/8y+/fvZ3zq7LhT9++znMu/Q6JXe7ikaNGpW9uzIm
-       f44YnvcwG3j61vPDrmc9Ejp0bLjI//azj8Jlh2wY7rvkqDD8j9/DQqtu3qLjAGD8otEA2oU/
-       fv0p+zfu7tSxtnPZyw3Y5+/h5+++LHleTYcOYe+LB+U2pk/fej7032mJ3G6vuVbYYt8mTUYU
-       392YfaEVwwcvPRLefPIOjQYAudJoAO3CTPMuEV595KYwYtgf2Qe1y31T0U6n/V+T09594YFw
-       5zn7t8CYxv7D4C1hosmmLHveBBNOkv077PdfW+z+ARg/aTSAdmHOxVYL8y6zbrZl/ubTdg+b
-       HDggzDDXIpUe1jjpWO9diBHDfi95mS8+enOMtzPk3ZfCNLPMW/K8zz96Pft32lnna8YIAaA8
-       jQbQbqyxw9GFZmOdcHv/fcL1J+wQamo6hHmWWjPMvdRa2Yp0lwknDSNGDA+//vB19vWzH7z0
-       aHj3ufvCyJF/htpOncMqWx+cfF9dJ5ki+4xG/DB2uc9ojKvpZv9b6Drx5OG3n78P9150eFhv
-       zzPCJFNMk533+y8/hoeuOiF88fFbY7ydp249L/zywzdhmY12Cx06dMxOi7ua3X7WPtnnNOJ9
-       rLzVv1rkMQAw/tJoAO3KTPMsHnY/74nscPyMRPz8wRM3nhV+/u6rwsr5D6FzlwkLTUK3MPnU
-       04eZ51sqLL1B35Lf1DQmWxx2RXjw8uPC4DefzT6HMfEUU4c1dz4+TDfbArk9lviZkb5nPRze
-       fuae8PKD14XLD94o++D4xFNMFWb923Jhhc32CZ27ThjO2mWZ7PLD//it7rr1D29/0p3h90Kz
-       ct/FRxSekxfCrz99W3geJgo9ei6YPY48xwwARRoNoN2acZ7Fsr/mir+hsc+lL5U8L74LsM5u
-       J5c8L668j43pZl+g7P1Ecy+5ZvZXTqnr9ujZq8Hpcbxr7HjsWI0LAMaFRgMAAMidRgMAAMid
-       RgMAAMidRgMAAMidRgMAAMidRgMqbPKJOn8a/+016+TXVXosQPM99lTYrNJjAKgmGg2osJmm
-       nPC55wf0rqn0OIBxs9UKs2xe6TEAVBONBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuN
-       BgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkDuNBgAAkLv/B5dEvTTu
-       FogVAAAAAElFTkSuQmCC
-      </office:binary-data>
-     </draw:image>
-    </draw:frame><text:soft-page-break/></text:p>
-   <text:p text:style-name="P36"/>
-   <text:p text:style-name="P39"><text:soft-page-break/><text:span text:style-name="T21">T</text:span>he server side can be tested using curl to simulate communication to the server from the command line, <text:span text:style-name="T21">ensuring that the back end is working in the correct manner before building the client</text:span>. <text:s/></text:p>
-   <text:p text:style-name="P39"><text:s/>I’m hoping that I can use an account for the application to automatically post logs of failed installs on the relevant GitHub Issues page <text:span text:style-name="T21">&lt;fix&gt;</text:span>.</text:p>
-   <text:p text:style-name="P39"/>
-   <text:p text:style-name="P40">By taking a hash of the log for a failed install log the application will not post the same log report twice, preventing duplicate install logs from being reported. This also means that the database does not need to handle error log reporting, deferring this to git.</text:p>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40">Communication can be done using Servlets interacting directly with the database, the following Servlets will be built:</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">The user downloads the client program as a <text:span text:style-name="T11">Debian</text:span> package from the host server. <text:s/>The user then installs the client package and is directed to launch the client program on the user’s machine.</text:p>
+   <text:p text:style-name="P16">The client program identifies the device by it’s device ID. I<text:span text:style-name="T11">t </text:span>contacts the server and if a configuration has been submitted for that device the server returns a link to the GitHub project for the client to download and then install via a special run script (penguin.sh).</text:p>
+   <text:p text:style-name="P21">Using Oauth contributing users can be verified as users of git without revelling their login credentials. <text:s/>I’m suggesting using git hub as it covers many features I would have to build for this project. <text:s/>These include hosting code and files, as well as a comments thread on each repository <text:span text:style-name="T18">and pull requests to suggest changes to current implementations.</text:span></text:p>
+   <text:p text:style-name="P16">The client program builds the kernel modules. <text:s/>It then attempts to insert the newly built kernel module into the kernel, returning a success or failure result. <text:s/>In the case where an install has failed the client program tries again <text:span text:style-name="T11">with a different configuration. </text:span></text:p>
+   <text:p text:style-name="P20">Potentially the client could upload the error logs to the database from where I can use Oauth to post the error <text:span text:style-name="T16">messages as a comment on the git project page under my user name.</text:span></text:p>
+   <text:p text:style-name="P16">In situations where the computer needs to be restarted the client runs again as an at daemon process.</text:p>
+   <text:p text:style-name="P21">https://en.wikipedia.org/wiki/At_(Unix)</text:p>
+   <text:p text:style-name="P16">After the client kernel module has been inserted a user review page appears. <text:s/>The user is welcome to try their new hardware to see if it works (we could fork a process for webcam, audio test etc as part of this?). <text:s/>Once the user has declared a device works it is up-voted in the server database. In situations where the device does not work the device Is down-voted in the <text:soft-page-break/>server database. <text:s/>In cases where an internet connection is not available the user will be invited to connect via phone tethering or Ethernet.</text:p>
+   <text:p text:style-name="P16">Contributing configurations Is done via a website, which communicates with GitHub using Oauth to verify the git user contributing to the project owns the git repository and project being referenced by the system.</text:p>
+   <text:p text:style-name="P25">Configurations are triaged by other contributing users to ensure they are not malicious. If a configuration is marked as malicious constantly I will personally review it. <text:s/>Keeping the voting process to other contributors implies a level of proficiency in the review process. (As things are being built in a chroot and the module is inserted into the kernel is this really necessary?).</text:p>
+   <text:p text:style-name="P32">Design:</text:p>
+   <text:p text:style-name="P44">The client builds source code from GitHub.com repositry on the client machine. <text:s/>The client clones a project from a repositry then build the source codde using a custom makefile, the custom makefile can include packages to be downloaded for the client’s architecture, which in this stage is limited to Ubuntu 18.04 on Kernel 4.15. <text:s/>The design of this project is extensible to other kernels and operating systems.</text:p>
+   <text:p text:style-name="P44">Many device configurations are already on Github.com. To be included as a contribution to this project the user will have to login to Gihthub using the Oauth protocol and include a custom Makefile on his project’s site called Linuxconf, which will manage the build process.</text:p>
+   <text:p text:style-name="P44">Makefiles built from a configure script will not be included as part of this project, as there are too many variables to consider.</text:p>
+   <text:p text:style-name="P44">The linuxconf script exports the variable INSERTMOD. This command is used by the client program to insert the newly compiled module into the running kernel. <text:s/><text:span text:style-name="T24">The exit status of this command, run as part of a bash script will inform the client program if the install of the module has been successful. <text:s/></text:span></text:p>
+   <text:p text:style-name="P44"/>
+   <text:p text:style-name="P44">In order <text:span text:style-name="T24">to test the new install a program to demonstrate the correct working of a device is launched if the module is inserted correctly. <text:s/>This could be cheese, to test webcams, or aplayer to test audio outputs.</text:span></text:p>
+   <text:p text:style-name="P26"/>
+   <text:p text:style-name="P45">Each step of the build process, from making the code to installing it will respond with an error code. In situations whereby a suggested configuration has failed I am hoping to use the git oauth protocol to report this on the issue page for the code contributed by the git user.</text:p>
+   <text:p text:style-name="P46">By taking a hash of the log for a failed install log the application will not post the same log report twice, preventing duplicate install logs from being reported. This also means that the database does not need to handle error log reporting, deferring this to git.</text:p>
+   <text:p text:style-name="P45"/>
+   <text:p text:style-name="P45">A template expected from the developers contributing to this project will be available here:<text:span text:style-name="T20">&lt;fix&gt;</text:span></text:p>
+   <text:p text:style-name="P45"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P27">The system comprises four major components, as illustrated below:</text:p>
+   <text:p text:style-name="P45">&lt;image&gt;</text:p>
+   <text:p text:style-name="P45">The client and server communicate using GET and POST requests, This makes implementation easier as I will nto have to create my own protocol. <text:s/><text:span text:style-name="T21">The server side can be tested using curl to simulate communication to the server from the command line, ensuring that the back end is working in the correct manner before building the client. <text:s/></text:span></text:p>
+   <text:p text:style-name="P48"/>
+   <text:p text:style-name="P30">Communication can be done using Servlets interacting directly with the database, the following Servlets will be built:</text:p>
    <table:table table:name="Table1" table:style-name="Table1">
-    <table:table-column table:style-name="Table1.A" table:number-columns-repeated="2"/>
+    <table:table-column table:style-name="Table1.A"/>
+    <table:table-column table:style-name="Table1.B"/>
     <table:table-row>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P40">Register_owner.<text:line-break/>Register_owner_callback. (oauth return).<text:line-break/>get_device.<text:line-break/>add_device.<text:line-break/>report_success.</text:p>
+      <text:p text:style-name="P30"><text:line-break/><text:line-break/>get_device.<text:line-break/>add_device.<text:line-break/>report_success.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.B1" office:value-type="string">
-      <text:p text:style-name="P44">Register a provider of configurations.</text:p>
-      <text:p text:style-name="P44">Report success or failure of a github.com login</text:p>
-      <text:p text:style-name="P44"/>
-      <text:p text:style-name="P44"/>
-      <text:p text:style-name="P44"/>
-      <text:p text:style-name="P44">Return git repository and commit of a device.</text:p>
-      <text:p text:style-name="P44">Allow a authorized user to contribute a configuration. <text:span text:style-name="T22">Check that the code is run from within a chroot.</text:span></text:p>
-      <text:p text:style-name="P44">Use a success code to report on the success of a device installation.</text:p>
+      <text:p text:style-name="P35">Register a provider of configurations.</text:p>
+      <text:p text:style-name="P35">Report success or failure of a github.com login</text:p>
+      <text:p text:style-name="P35"/>
+      <text:p text:style-name="P35"/>
+      <text:p text:style-name="P35"/>
+      <text:p text:style-name="P35">Return git repository and commit of a device.</text:p>
+      <text:p text:style-name="P35">Allow a authorized user to contribute a configuration. <text:span text:style-name="T22">Check that the code is run from within a chroot.</text:span></text:p>
+      <text:p text:style-name="P35">Use a success code to report on the success of a device installation.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P40"><text:line-break/></text:p>
-   <text:p text:style-name="P40">C++ client:</text:p>
-   <text:p text:style-name="P40">the following functionality is required:</text:p>
-   <text:p text:style-name="P40">Use “git clone” to get a repository.</text:p>
-   <text:p text:style-name="P40">Step into repository and find the correct commit.</text:p>
-   <text:p text:style-name="P40">Install the firmware using makefiles and the INSERTMOD variable to insert the module.</text:p>
-   <text:p text:style-name="P40">Where applicable test the device, for example play a sound file or open “cheese” to test the webcam, <text:span text:style-name="T23">using the TESTCONFIG variable.</text:span></text:p>
-   <text:p text:style-name="P40"><text:soft-page-break/>Open the default web browser with a URL containing a unique code to provide feedback on a successful install, <text:span text:style-name="T22">the URL will be a get request.</text:span></text:p>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40">Debian package dependencies:</text:p>
-   <text:p text:style-name="P40">cheese.</text:p>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40"/>
+   <table:table table:name="Table2" table:style-name="Table2">
+    <table:table-column table:style-name="Table2.A" table:number-columns-repeated="3"/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P46">Register_owner.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P55">Webpage</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.C1" office:value-type="string">
+      <text:p text:style-name="P57">Register a provider of configurations <text:span text:style-name="T25">using Git Oauth login.</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table2.A2" office:value-type="string">
+      <text:p text:style-name="P49"><text:line-break/>Register_owner_callback. (oauth return).</text:p>
+      <text:p text:style-name="P49"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A2" office:value-type="string">
+      <text:p text:style-name="P35">Report success or failure of a github.com login. </text:p>
+      <text:p text:style-name="P35"/>
+      <text:p text:style-name="P35"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.C2" office:value-type="string">
+      <text:p text:style-name="P55">Webpage</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table2.A2" office:value-type="string">
+      <text:p text:style-name="P49"><text:span text:style-name="T25">add</text:span>_device.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A2" office:value-type="string">
+      <text:p text:style-name="P37">Using oauth again, add a github,com project as a contribution. The servlet <text:s/>checks the age of the commit.</text:p>
+      <text:p text:style-name="P57"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.C2" office:value-type="string">
+      <text:p text:style-name="P55">Webpage</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table2.A2" office:value-type="string">
+      <text:p text:style-name="P50">get_device</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A2" office:value-type="string">
+      <text:p text:style-name="P37">Get the install script for a device identified by the device id from lspci.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.C2" office:value-type="string">
+      <text:p text:style-name="P55">Client program.</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table2.A2" office:value-type="string">
+      <text:p text:style-name="P50">Report_success</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A2" office:value-type="string">
+      <text:p text:style-name="P37">For each device provide feedback on the install script’s <text:s/>success</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.C2" office:value-type="string">
+      <text:p text:style-name="P55">Webpage</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <text:soft-page-break/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table2.A2" office:value-type="string">
+      <text:p text:style-name="P50">Report_error</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A2" office:value-type="string">
+      <text:p text:style-name="P37">Provide a log of the install script for the community to see</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.C2" office:value-type="string">
+      <text:p text:style-name="P55">Client program.</text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P30"><text:line-break/></text:p>
+   <text:p text:style-name="P30">C++ client:</text:p>
+   <text:p text:style-name="P50">This program will be installed as part of a debian package. A<text:span text:style-name="T26">s</text:span> it’s dependencies are git, cheese (webcam player), aplayer (audio player) and gdebi (gdebi resolves package management dependencies<text:span text:style-name="T26">)</text:span>.</text:p>
+   <text:p text:style-name="P51">It will have a graphical interface, will test for internet access and ask for the user password via sudo, or the root password.</text:p>
+   <text:p text:style-name="P50">The client program will use bash where applicable by forking a process and logging it’s error code. It uses git clone to clone a project from the repository then references a commit at least a week old.</text:p>
+   <text:p text:style-name="P51">The client then enters a chroot before downloading the header files for the running kernel before building the module. It the uses the CPMODULE variable to copy the new module to the /lib/firmware directory. <text:s/>Finally it inserts the module using the INSERTMOD variable.</text:p>
+   <text:p text:style-name="P51">IF there are errors in the build and install phase these will be reported to ta Servlet by the program. <text:s/>The program spawns a process for a program to test that device, which could be a webcam monitor or an audio player. <text:s/>IF the exit codes for these programs indicate an error that error is reported to the backend server.</text:p>
+   <text:p text:style-name="P51">Finally the user is presented with a webpage to confirm the success of a device install. If a restart is needed (for example on graphics drivers), this webpage by wilthe at daemon.</text:p>
+   <text:p text:style-name="P30"/>
+   <text:p text:style-name="P30"/>
+   <text:p text:style-name="P30"/>
   </office:text>
  </office:body>
 </office:document>
