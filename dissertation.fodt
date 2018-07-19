@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-06-25T16:26:19.019736098</meta:creation-date><dc:language>en-GB</dc:language><dc:date>2018-07-15T13:38:24.944628142</dc:date><meta:editing-cycles>12</meta:editing-cycles><meta:editing-duration>PT4H11M52S</meta:editing-duration><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="0" meta:object-count="0" meta:page-count="16" meta:paragraph-count="155" meta:word-count="3016" meta:character-count="18369" meta:non-whitespace-character-count="15470"/></office:meta>
+ <office:meta><meta:creation-date>2018-06-25T16:26:19.019736098</meta:creation-date><dc:language>en-GB</dc:language><dc:date>2018-07-17T17:33:11.672858398</dc:date><meta:editing-cycles>14</meta:editing-cycles><meta:editing-duration>PT9H37M50S</meta:editing-duration><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="0" meta:object-count="0" meta:page-count="16" meta:paragraph-count="155" meta:word-count="3016" meta:character-count="18369" meta:non-whitespace-character-count="15470"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">311362</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">325967</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">32175</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">21301</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">12111</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">328946</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">7586</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">335654</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">311362</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">325967</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">32173</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">332661</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">347266</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -69,7 +69,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">true</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2087083</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2112344</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -676,60 +676,64 @@
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="001c4d18" officeooo:paragraph-rsid="001c4d18" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:break-before="page"/>
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="00148580" officeooo:paragraph-rsid="00148580" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:keep-together="always" fo:orphans="2" fo:widows="2" fo:break-before="page"/>
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="000d46b9" officeooo:paragraph-rsid="000d46b9" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="0016642e" officeooo:paragraph-rsid="0016642e"/>
-  </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="0016642e" officeooo:paragraph-rsid="001a1d0b"/>
-  </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="001a1d0b" officeooo:paragraph-rsid="001a1d0b"/>
-  </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum3">
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_4" style:list-style-name="WWNum2">
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="WWNum2">
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="" style:master-page-name="Standard">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:keep-together="always" fo:orphans="2" fo:widows="2" style:page-number="auto"/>
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="00137b3a" officeooo:paragraph-rsid="00137b3a" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:keep-together="always" fo:orphans="2" fo:widows="2" fo:break-before="page"/>
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="000d46b9" officeooo:paragraph-rsid="000d46b9" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="WWNum2">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="001fd8ab" officeooo:paragraph-rsid="001fd8ab" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001fd8ab" officeooo:paragraph-rsid="001fd8ab" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:break-before="page"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="00148580" officeooo:paragraph-rsid="00148580" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:keep-together="always" fo:orphans="2" fo:widows="2" fo:break-before="page"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="000d46b9" officeooo:paragraph-rsid="000d46b9" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="0016642e" officeooo:paragraph-rsid="0016642e"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="0016642e" officeooo:paragraph-rsid="001a1d0b"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="001a1d0b" officeooo:paragraph-rsid="001a1d0b"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="00203b58" officeooo:paragraph-rsid="00203b58" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:paragraph-rsid="00203b58" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="WWNum2">
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="" style:master-page-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:keep-together="always" fo:orphans="2" fo:widows="2" style:page-number="auto"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="00137b3a" officeooo:paragraph-rsid="00137b3a" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:keep-together="always" fo:orphans="2" fo:widows="2" fo:break-before="page"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="000d46b9" officeooo:paragraph-rsid="000d46b9" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="WWNum2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_4" style:list-style-name="WWNum2">
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
   <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_3" style:list-style-name="WWNum2">
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum3">
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -836,7 +840,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:h text:style-name="P53" text:outline-level="2">Hi Ian.</text:h>
+   <text:h text:style-name="P55" text:outline-level="2">Hi Ian.</text:h>
    <text:p text:style-name="P4"/>
    <text:p text:style-name="P4">Thanks for your review.</text:p>
    <text:p text:style-name="P4"/>
@@ -850,12 +854,12 @@
    <text:p text:style-name="P4">Regards,</text:p>
    <text:p text:style-name="P4"/>
    <text:p text:style-name="P4">Rob Brew.</text:p>
-   <text:h text:style-name="P54" text:outline-level="2"/>
-   <text:list xml:id="list4271541160836772064" text:style-name="WWNum2">
+   <text:h text:style-name="P56" text:outline-level="2"/>
+   <text:list xml:id="list2669420077599448258" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P55" text:outline-level="2"><text:bookmark text:name="_Toc4982355841"/><text:bookmark text:name="_Toc4976340561"/><text:bookmark text:name="_Toc497873017"/><text:bookmark text:name="_Toc497872969"/><text:bookmark text:name="_Toc497872814"/><text:bookmark text:name="_Toc497872046"/><text:bookmark text:name="_Toc497871702"/><text:bookmark text:name="_Toc278189216"/><text:bookmark text:name="_Toc278187080"/><text:bookmark text:name="_Toc441656787"/><text:bookmark text:name="_Toc396111538"/><text:bookmark text:name="_Toc4991066631"/><text:bookmark text:name="_Toc4983250241"/>Introduction</text:h>
+       <text:h text:style-name="P57" text:outline-level="2"><text:bookmark text:name="_Toc4983250241"/><text:bookmark text:name="_Toc4991066631"/><text:bookmark text:name="_Toc396111538"/><text:bookmark text:name="_Toc441656787"/><text:bookmark text:name="_Toc278187080"/><text:bookmark text:name="_Toc278189216"/><text:bookmark text:name="_Toc497871702"/><text:bookmark text:name="_Toc497872046"/><text:bookmark text:name="_Toc497872814"/><text:bookmark text:name="_Toc497872969"/><text:bookmark text:name="_Toc497873017"/><text:bookmark text:name="_Toc4976340561"/><text:bookmark text:name="_Toc4982355841"/>Introduction</text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
@@ -863,23 +867,23 @@
    <text:p text:style-name="P23">The program being written I have named Linuxconf. It builds on the Ubuntu restricted devices program, <text:span text:style-name="T18">and will be made available for the latest LTS Ubuntu release, 18.04 running the 4.15 Kernel. <text:s/></text:span></text:p>
    <text:p text:style-name="P23">This document explains the architecture <text:s/>the proposed system from a high level of <text:s/>abstraction. It is intended for people with an understanding of the process of compiling and inserting linux kernel modules using bash.</text:p>
    <text:p text:style-name="P25">The users who contribute configurations for the client users to download are referred to as contributors, the users who use these configurations to configure their systems are referred to as users,</text:p>
-   <text:list xml:id="list133826573572355" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list173311851502035" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P52" text:outline-level="2"><text:bookmark text:name="_Toc4978728141"/><text:bookmark text:name="_Toc4978720461"/><text:bookmark text:name="_Toc4978717021"/><text:bookmark text:name="_Toc288057840"/><text:bookmark text:name="_Toc288057839"/><text:bookmark text:name="_Toc288057814"/><text:bookmark text:name="_Toc288057813"/><text:bookmark text:name="_Toc288057812"/><text:bookmark text:name="_Toc288057811"/><text:bookmark text:name="_Toc441656788"/><text:bookmark text:name="_Toc396111539"/><text:bookmark text:name="_Toc4978730171"/><text:bookmark text:name="_Toc4978729691"/>Current System</text:h>
+       <text:h text:style-name="P54" text:outline-level="2"><text:bookmark text:name="_Toc4978729691"/><text:bookmark text:name="_Toc4978730171"/><text:bookmark text:name="_Toc396111539"/><text:bookmark text:name="_Toc441656788"/><text:bookmark text:name="_Toc288057811"/><text:bookmark text:name="_Toc288057812"/><text:bookmark text:name="_Toc288057813"/><text:bookmark text:name="_Toc288057814"/><text:bookmark text:name="_Toc288057839"/><text:bookmark text:name="_Toc288057840"/><text:bookmark text:name="_Toc4978717021"/><text:bookmark text:name="_Toc4978720461"/><text:bookmark text:name="_Toc4978728141"/>Current System</text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P17">This project <text:span text:style-name="T14">builds on the current “</text:span><text:span text:style-name="T7">additional drivers” program in Ubuntu which allows proprietary firmware to be installed using a graphical interface. It extends this by <text:s/>allowing Internet users with knowledge of the module build process to contribute </text:span><text:span text:style-name="T8">git projects to </text:span><text:span text:style-name="T7">install firmware on a per device basis.</text:span></text:p>
-   <text:list xml:id="list133826332605754" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list173312350673444" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc441656789"/><text:bookmark text:name="_Toc396111540"/>Functional Description</text:h>
+         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc396111540"/><text:bookmark text:name="_Toc441656789"/>Functional Description</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -895,13 +899,13 @@
    <text:p text:style-name="P17"/>
    <text:p text:style-name="P19">After the module has been installed the user will be prompted on the success or failure of the kernel configuration on a per device basis, using a unique code via a website. <text:span text:style-name="T17">A program to demonstrate the success or failure of a configuration can be launched, as part of the post install process. This could involve playing a sound to ensure the audio device works, or opening a webcam program like cheese to test the video camera.</text:span></text:p>
    <text:p text:style-name="P17"/>
-   <text:list xml:id="list133825876533516" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list173312490716712" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc441656790"/><text:bookmark text:name="_Toc396111541"/>User Community Description</text:h>
+         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc396111541"/><text:bookmark text:name="_Toc441656790"/>User Community Description</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -909,13 +913,13 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P17">Two types of user will take advantage of this system. <text:s/>The client users will benefit from not have to use the shell to install kernel modules, which many people find obscure and intimidating. The contributing users will suggest configuration processes referred to as recipes, with the incentive mentioned earlier.</text:p>
-   <text:list xml:id="list133825399430755" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list173313512156815" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc396111542"/><text:bookmark text:name="_Toc441656791"/>Technical Architecture</text:h>
+         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc441656791"/><text:bookmark text:name="_Toc396111542"/>Technical Architecture</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -935,24 +939,24 @@
    <text:p text:style-name="P1">The system relies on a MySQL database, probably maria DB, accessed using Java EE Servlets using get and post requests of JSON type parameters, running on tomcat8. <text:s/>Bash will also be used extensively to clone the git repository and insert <text:s/>the kernel modules, forked from the client program. Rather than writing <text:span text:style-name="T11">communications</text:span> protocols for <text:span text:style-name="T11">communication</text:span> between the C++ front end and the Java back end I propose using HTTP requests.</text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1">Major components:</text:p>
-   <text:list xml:id="list4525304485781640729" text:style-name="WWNum3">
+   <text:list xml:id="list3027578818058978027" text:style-name="WWNum3">
     <text:list-item>
-     <text:p text:style-name="P50">Backend Database.</text:p>
+     <text:p text:style-name="P60">Backend Database.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P50">Java back end.</text:p>
+     <text:p text:style-name="P60">Java back end.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P50">C++ front end, available as a Debian package..</text:p>
+     <text:p text:style-name="P60">C++ front end, available as a Debian package..</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P50">Dynamic webpage for communicating success.</text:p>
+     <text:p text:style-name="P60">Dynamic webpage for communicating success.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P50">Static webpage explaining the project <text:span text:style-name="T11">for file download.</text:span></text:p>
+     <text:p text:style-name="P60">Static webpage explaining the project <text:span text:style-name="T11">for file download.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P50">Linux server to host the system</text:p>
+     <text:p text:style-name="P60">Linux server to host the system</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P1"/>
@@ -965,14 +969,14 @@
    <text:p text:style-name="P1">The Linux client will be written in C++, using gtk and qt libraries for displaying in gnome and KDE respectively. Feedback on the success or failure of a device can be done in a webpage. Hosting can be provided from the Kent University servers, with the option to migrate this to the Linux Foundation servers if the project takes off. <text:s/>The code will be open source, which may be a <text:s/>legal requirement if GPL v3 <text:span text:style-name="T11">licensing</text:span> is used. <text:span text:style-name="T20">The system will be made available as a Debian package, which can easily be converted to a red hat package using alien.</text:span></text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P17"/>
-   <text:list xml:id="list133826864932962" text:continue-list="list133825399430755" text:style-name="WWNum2">
+   <text:list xml:id="list173312612246995" text:continue-list="list173313512156815" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P52" text:outline-level="2"><text:bookmark text:name="_Toc441656792"/><text:bookmark text:name="_Toc396111543"/>Goals, Objectives, and Rationale for New or Significantly Modified System</text:h>
+       <text:h text:style-name="P54" text:outline-level="2"><text:bookmark text:name="_Toc396111543"/><text:bookmark text:name="_Toc441656792"/>Goals, Objectives, and Rationale for New or Significantly Modified System</text:h>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc441656793"/><text:bookmark text:name="_Toc396111544"/>Project Purpose</text:h>
+         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc396111544"/><text:bookmark text:name="_Toc441656793"/>Project Purpose</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -980,13 +984,13 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P17">Create a brand new system based on the current system, Ubuntu additional drivers.</text:p>
-   <text:list xml:id="list133826302992821" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list173312450834001" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc441656794"/><text:bookmark text:name="_Toc396111545"/>System Goals and Objectives</text:h>
+         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc396111545"/><text:bookmark text:name="_Toc441656794"/>System Goals and Objectives</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -994,13 +998,13 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P17">Make it easier for novice Ubuntu users to install device drivers,</text:p>
-   <text:list xml:id="list133825779743067" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list173312302827544" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc396111546"/><text:bookmark text:name="_Toc2941912931"/><text:bookmark text:name="_Toc441656795"/>Proposed System</text:h>
+         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc441656795"/><text:bookmark text:name="_Toc2941912931"/><text:bookmark text:name="_Toc396111546"/>Proposed System</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -1008,7 +1012,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P17">A graphical interfaced program which identifies devices on a Ubuntu system and downloads the software from GitHub to make the devices function. </text:p>
-   <text:list xml:id="list133825521659207" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list173312089540519" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -1016,7 +1020,7 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P51" text:outline-level="4"><text:bookmark text:name="_Toc441656796"/><text:bookmark text:name="_Toc396111547"/>System Scope</text:h>
+           <text:h text:style-name="P58" text:outline-level="4"><text:bookmark text:name="_Toc396111547"/><text:bookmark text:name="_Toc441656796"/>System Scope</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -1026,7 +1030,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P1">The system will only work for Ubuntu Linux 18.04 (LTS) running on the 14.15 kernel. <text:span text:style-name="T11">Further</text:span> <text:span text:style-name="T11">distribution</text:span> support can be added when this project is released to the Linux community. <text:s/><text:span text:style-name="T19">Included in the database are the linux version, linux distribution and kernel version fields, making this project easily extensible to other distributions and kernels.</text:span></text:p>
-   <text:list xml:id="list133825789612779" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list173313234056602" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -1034,7 +1038,7 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P51" text:outline-level="4"><text:bookmark text:name="_Toc441656797"/><text:bookmark text:name="_Toc396111548"/>Business Processes Supported</text:h>
+           <text:h text:style-name="P58" text:outline-level="4"><text:bookmark text:name="_Toc396111548"/><text:bookmark text:name="_Toc441656797"/>Business Processes Supported</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -1044,7 +1048,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P17">The system will <text:s/>be of most use to home users with little experience of configuring Linux, that said it is likely even capable system administrators will use it as it alleviates the need to find the correct firmware projects on git and perform a manual install.</text:p>
-   <text:list xml:id="list133827067613119" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list173313801498467" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -1052,7 +1056,7 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P51" text:outline-level="4"><text:bookmark text:name="_Toc441656798"/><text:bookmark text:name="_Toc396111549"/>High-Level Functional Requirements</text:h>
+           <text:h text:style-name="P58" text:outline-level="4"><text:bookmark text:name="_Toc396111549"/><text:bookmark text:name="_Toc441656798"/>High-Level Functional Requirements</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -1066,7 +1070,7 @@
    <text:p text:style-name="P18">Clone git repository from GitHub.<text:line-break/>Execute shell script.<text:line-break/>Insert kernel module.<text:line-break/>Provide feedback for user.<text:line-break/>Provide link to a contributing users website.</text:p>
    <text:p text:style-name="P18"><text:line-break/></text:p>
    <text:p text:style-name="P18"><text:soft-page-break/></text:p>
-   <text:list xml:id="list133826484850558" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list173313257578441" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -1074,7 +1078,7 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P51" text:outline-level="4"><text:bookmark text:name="_Toc441656799"/><text:bookmark text:name="_Toc396111550"/>Summary of Changes</text:h>
+           <text:h text:style-name="P58" text:outline-level="4"><text:bookmark text:name="_Toc396111550"/><text:bookmark text:name="_Toc441656799"/>Summary of Changes</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -1084,23 +1088,23 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P17">The system will perform the same functions as the Ubuntu additional drivers package, but allow this to apply to many more devices by allowing skilled internet users to contribute software without the oversight of the Ubuntu Kernel team. </text:p>
-   <text:list xml:id="list133825537790600" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list173312781738438" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P52" text:outline-level="2"><text:bookmark text:name="_Toc441656800"/><text:bookmark text:name="_Toc396111551"/>Factors Influencing Technical Design</text:h>
+       <text:h text:style-name="P54" text:outline-level="2"><text:bookmark text:name="_Toc396111551"/><text:bookmark text:name="_Toc441656800"/>Factors Influencing Technical Design</text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P17"/>
-   <text:list xml:id="list133826049807127" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list173313810701846" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc441656801"/><text:bookmark text:name="_Toc396111552"/>Relevant Standards</text:h>
+         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc396111552"/><text:bookmark text:name="_Toc441656801"/>Relevant Standards</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -1108,13 +1112,13 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P17">The use of GET and POST HTTP standards, the JSON standard for communication.</text:p>
-   <text:list xml:id="list133825814076158" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list173311934040180" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc441656802"/><text:bookmark text:name="_Toc396111553"/>Assumptions and Dependencies</text:h>
+         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc396111553"/><text:bookmark text:name="_Toc441656802"/>Assumptions and Dependencies</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -1122,13 +1126,13 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P17">Build-essential packages will need to be installed on the client machine. It is assumed the user has the knowledge to use the internet to download the package and run it from within a browser window.</text:p>
-   <text:list xml:id="list133825465484036" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list173313249979700" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc441656803"/><text:bookmark text:name="_Toc396111554"/>Constraints</text:h>
+         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc396111554"/><text:bookmark text:name="_Toc441656803"/>Constraints</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -1138,13 +1142,13 @@
    <text:p text:style-name="P1">The client system is running Ubuntu 18.04 running kernel 4.15. <text:s/>Further <text:span text:style-name="T11">distribution</text:span> support is beyond the scope of this project.</text:p>
    <text:p text:style-name="P1">The end user must have an internet connection, to download the package and during the programs execution.</text:p>
    <text:p text:style-name="P1">The success of an implementation depends on a suitable configuration <text:span text:style-name="T11">being produced</text:span> for that device.</text:p>
-   <text:list xml:id="list133825643995946" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list173313318429538" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc441656804"/><text:bookmark text:name="_Toc396111555"/>Design Goals</text:h>
+         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc396111555"/><text:bookmark text:name="_Toc441656804"/>Design Goals</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -1160,23 +1164,23 @@
    <text:p text:style-name="P17"/>
    <text:p text:style-name="P17"/>
    <text:p text:style-name="P17"/>
-   <text:list xml:id="list133825900318773" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list173313564255643" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P52" text:outline-level="2"><text:bookmark text:name="_Toc441656805"/><text:bookmark text:name="_Toc396111556"/>Proposed System</text:h>
+       <text:h text:style-name="P54" text:outline-level="2"><text:bookmark text:name="_Toc396111556"/><text:bookmark text:name="_Toc441656805"/>Proposed System</text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P17"/>
-   <text:list xml:id="list133826152086964" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list173312247055341" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc441656806"/><text:bookmark text:name="_Toc396111557"/>High-Level Operational Requirements and Characteristics</text:h>
+         <text:h text:style-name="P59" text:outline-level="3"><text:bookmark text:name="_Toc396111557"/><text:bookmark text:name="_Toc441656806"/>High-Level Operational Requirements and Characteristics</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -1194,15 +1198,15 @@
    <text:p text:style-name="P17">After the client kernel module has been inserted a user review page appears. <text:s/>The user is welcome to try their new hardware to see if it works (we could fork a process for webcam, audio test etc as part of this?). <text:s/>Once the user has declared a device works it is up-voted in the server database. In situations where the device does not work the device Is down-voted in the <text:soft-page-break/>server database. <text:s/>In cases where an internet connection is not available the user will be invited to connect via phone tethering or Ethernet.</text:p>
    <text:p text:style-name="P17">Contributing configurations Is done via a website, which communicates with GitHub using Oauth to verify the git user contributing to the project owns the git repository and project being referenced by the system.</text:p>
    <text:p text:style-name="P26"><text:span text:style-name="T28">In the design phase I proposed that device configurations would be </text:span>triaged by other contributing users to ensure they are not malicious. If a configuration is marked as malicious constantly I will personally review it. <text:s/>Keeping the voting process to other contributors implies a level of proficiency in the review process. (As things are being built in a chroot and the module is inserted into the kernel is this really necessary?).</text:p>
-   <text:p text:style-name="P57">Having contemplated it I decided that even the triage process could be exploited by multiple users upvoting the rankings of a device configuration which is malicious. <text:s/>I have now decided to get root, build the source code in a chroot as a normal user then gain root again in order to insert the module. This will prevent the build process from acting in a malicioous way towards the operating system.</text:p>
-   <text:p text:style-name="P57">The other problem is, we are inserting code into the kernel. Nothing can mitigate against this directly, even running the code in a virtual machine and seeing the consequences of running the code may miss a time based action, <text:s/>akin to that of a trojan horse.</text:p>
-   <text:p text:style-name="P57"/>
-   <text:p text:style-name="P57">The best I can do is only allow code more than two weeks old on github to be included as part of the system. <text:s/>The hope being that anything malicious would be removed as part of github.com’s policy on malware, even then this is not a concrete solution. Ultimately I do not believe I will be able to work round this one.</text:p>
-   <text:p text:style-name="P58">If I do decide to use a triage process the only users allowed to vote on the state of a module will be those who have already submitted solutions. This leads to a bootstrapping problem of getting the users’ to upload good configurations in the first place. <text:s/>Again if people wish to circumvent this by registering multiple accounts the system if vulnerable to this. <text:s/>The point of this project is to inject code into the kernel, and by design the problems of malware faced by it will not go away,</text:p>
-   <text:p text:style-name="P57"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P44">Having contemplated it I decided that even the triage process could be exploited by multiple users upvoting the rankings of a device configuration which is malicious. <text:s/>I have now decided to get root, build the source code in a chroot as a normal user then gain root again in order to insert the module. This will prevent the build process from acting in a malicioous way towards the operating system.</text:p>
+   <text:p text:style-name="P44">The other problem is, we are inserting code into the kernel. Nothing can mitigate against this directly, even running the code in a virtual machine and seeing the consequences of running the code may miss a time based action, <text:s/>akin to that of a trojan horse.</text:p>
+   <text:p text:style-name="P44"/>
+   <text:p text:style-name="P44">The best I can do is only allow code more than two weeks old on github to be included as part of the system. <text:s/>The hope being that anything malicious would be removed as part of github.com’s policy on malware, even then this is not a concrete solution. Ultimately I do not believe I will be able to work round this one.</text:p>
+   <text:p text:style-name="P45">If I do decide to use a triage process the only users allowed to vote on the state of a module will be those who have already submitted solutions. This leads to a bootstrapping problem of getting the users’ to upload good configurations in the first place. <text:s/>Again if people wish to circumvent this by registering multiple accounts the system if vulnerable to this. <text:s/>The point of this project is to inject code into the kernel, and by design the problems of malware faced by it will not go away,</text:p>
+   <text:p text:style-name="P52"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P53"/>
    <text:p text:style-name="P26"/>
-   <text:p text:style-name="P26"/>
-   <text:p text:style-name="P44">Design:</text:p>
+   <text:p text:style-name="P46">Design:</text:p>
    <text:p text:style-name="P36">The client builds source code from GitHub.com repositry on the client machine. <text:s/>The client clones a project from a repositry then build the source codde using a custom makefile, the custom makefile can include packages to be downloaded for the client’s architecture, which in this stage is limited to Ubuntu 18.04 on Kernel 4.15. <text:s/>The design of this project is extensible to other kernels and operating systems.</text:p>
    <text:p text:style-name="P36">Many device configurations are already on Github.com. To be included as a contribution to this project the user will have to login to Gihthub using the Oauth protocol and include a custom Makefile on his project’s site called Linuxconf, which will manage the build process.</text:p>
    <text:p text:style-name="P36">Makefiles built from a configure script will not be included as part of this project, as there are too many variables to consider.</text:p>
@@ -1227,10 +1231,10 @@
       <text:p text:style-name="P32">Register_owner.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P49">Webpage</text:p>
+      <text:p text:style-name="P51">Webpage</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.C1" office:value-type="string">
-      <text:p text:style-name="P48">Register a provider of configurations <text:span text:style-name="T25">using Git Oauth login.</text:span></text:p>
+      <text:p text:style-name="P50">Register a provider of configurations <text:span text:style-name="T25">using Git Oauth login.</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -1239,12 +1243,12 @@
       <text:p text:style-name="P34"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A2" office:value-type="string">
-      <text:p text:style-name="P47">Report success or failure of a github.com login. </text:p>
-      <text:p text:style-name="P47"/>
-      <text:p text:style-name="P47"/>
+      <text:p text:style-name="P49">Report success or failure of a github.com login. </text:p>
+      <text:p text:style-name="P49"/>
+      <text:p text:style-name="P49"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.C2" office:value-type="string">
-      <text:p text:style-name="P49">Webpage</text:p>
+      <text:p text:style-name="P51">Webpage</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -1253,10 +1257,10 @@
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A2" office:value-type="string">
       <text:p text:style-name="P10">Using oauth again, add a github,com project as a contribution. The servlet <text:s/>checks the age of the commit.</text:p>
-      <text:p text:style-name="P48"/>
+      <text:p text:style-name="P50"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.C2" office:value-type="string">
-      <text:p text:style-name="P49">Webpage</text:p>
+      <text:p text:style-name="P51">Webpage</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -1267,7 +1271,7 @@
       <text:p text:style-name="P10">Get the install script for a device identified by the device id from lspci.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.C2" office:value-type="string">
-      <text:p text:style-name="P49">Client program.</text:p>
+      <text:p text:style-name="P51">Client program.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -1278,7 +1282,7 @@
       <text:p text:style-name="P10">For each device provide feedback on the install script’s <text:s/>success</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.C2" office:value-type="string">
-      <text:p text:style-name="P49">Webpage</text:p>
+      <text:p text:style-name="P51">Webpage</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -1289,7 +1293,7 @@
       <text:p text:style-name="P10">Provide a log of the install script for the community to see</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.C2" office:value-type="string">
-      <text:p text:style-name="P49">Client program.</text:p>
+      <text:p text:style-name="P51">Client program.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
