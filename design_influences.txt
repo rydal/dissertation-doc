@@ -1,0 +1,19 @@
+
+Malicious code:
+
+There is the possibily that a user could write malicious code, in the form of scripts to wipe the system or trojan horses etc.  Because the point of this project is to insert code into the kernel this cannot easily be mitigated against.  There was the possibility of only allowing users of the site stackoverflow with a high reputation to contribute but there may only be a small overlap of users on both this site and github.com.
+
+One option is to  triage the recommended code repositries by users to ensure that the repositries are legitimate. This can easily be decieved by a lot of users with malicious intent, making the idea redundant.
+
+One possibily is to present this project to the linux community and allow them to vet the code contributed.  This will include ensuring that binary firmware files come from a legitimate source.  It detracts from the purpose of this project, in the eyes of my Supervisor Ian.  That said when this project is done it might be worth considering.
+
+Error reporting.
+
+As the github users authenticate with github the system retrieves an access code, providing access using Oauth to write rights on the contributing user's repositry.  Using this acces token the system can write bug reports in the form of issues to the project on which there is a problem.
+
+In order to prevent spam on github the file uploaded to the error reporting servlet will include the token sent to the client machine which the servlet will then check to ensure that the error log being posted is genuine.
+
+Conclusion:
+
+I like to think that, using Github and standard protocols, i have made a complicated proposal quite simple. 
+
