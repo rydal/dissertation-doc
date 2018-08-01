@@ -15,5 +15,7 @@ In order to prevent spam on github the file uploaded to the error reporting serv
 
 Conclusion:
 
-I like to think that, using Github and standard protocols, i have made a complicated proposal quite simple. 
+I like to think that, using Github and standard protocols, i have made a complicated proposal quite simple.
+
+The plan was to make this distribution available for different operating systems based on the rpm / debian package managers. a look at the most popular distributions in 2018 shows each version comes with it's own package manager. such as AUR in Arch Linux and portage in Gentoo.  This makes providing a package for each version time consuming, but it could still be done. 
 
