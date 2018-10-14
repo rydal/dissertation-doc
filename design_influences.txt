@@ -1,3 +1,10 @@
+	Deriving values for devices.
+
+The inital plan was to allow a user to enter the values of the device id, it's name and possibly the operating systems that device configration will run on.  This data would be duplicated by the main makefile on github from the contributing users.  In order to ensure data consistency it is better to derive this information as the device configuration has been added on github.
+
+Git logs:
+I realised these can serve well for the log book, and as of 01 / 8 / 18 i am using the commit messages as my log book.
+
 
 Malicious code:
 
@@ -7,13 +14,32 @@ One option is to  triage the recommended code repositries by users to ensure tha
 
 One possibily is to present this project to the linux community and allow them to vet the code contributed.  This will include ensuring that binary firmware files come from a legitimate source.  It detracts from the purpose of this project, in the eyes of my Supervisor Ian.  That said when this project is done it might be worth considering.
 
-Error reporting.
+Error reporting:
 
 As the github users authenticate with github the system retrieves an access code, providing access using Oauth to write rights on the contributing user's repositry.  Using this acces token the system can write bug reports in the form of issues to the project on which there is a problem.
 
-In order to prevent spam on github the file uploaded to the error reporting servlet will include the token sent to the client machine which the servlet will then check to ensure that the error log being posted is genuine.
+In order to prevent spam on github the file uploaded to the error reporting servlet will include the token sent to the client machine which the servlet will then check to ensure that the error log being posted is genuine.  The problem here is that someone monitoring the connection can then extract the code and use this to spam the github walls of the people contributing.  One solution is to use a system such as public private key encryption to ensure the key cannot be worked out, deleting the hash after it is used.
+
+Having spoken to a friend about this i realised that the connections to github and my project can use ssl encryption, making this  attack difficult.  The passwords could be worked out by analysing the program in it's execution but this is not very likely.
+
+
+install linux headers as dependency.
+install curl as a dependency.
+
+Testing:
+
+Cookie for gitauth, retain repository information
+Ensuring url selected
+
+Requirements:
+libcurlpp0
+libjsoncpp1
+libvterm0
+libgtkmm-3.0-1v5
 
 Conclusion:
+
+
 
 I like to think that, using Github and standard protocols, i have made a complicated proposal quite simple.
 

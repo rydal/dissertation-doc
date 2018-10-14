@@ -1,0 +1,12 @@
+As Gnome is the default Graphical toolkit on ubuntu it makes sense to build the user interface using the Gtk Toolkit. I started down this line with the c++ bindings for gtk, gtkmm 3.  I rendered dialog boxes etc.
+
+The console ui widget, livbtemm, for gtkmm exists only with version 2.4 of gtkmm. I could not find a version 3 of this.  One option would be to create a gtk (C)  console widget and cast it as a gtkmm widget.  However i have no knowledge of C, and not enough time to learn it right now.
+
+Having continued building a gtkmm 2.4 graphical interface, including some libraries i got the program built.  However on running it i recieved an error about mixing gtk2 with gtk3 libaries.  At this point i chose a different path.
+
+The QT libries, associated with the KDE desktop enviroment, can be supported by downloading some more libraries, at a size of 28Mb. This has an up to date console widget, qtermwidget. Running the graphical interface in tabs it displays nicely and does not take too much time to download over a fast internet connection.
+
+Further problems arose on the Q_OBJECT macro. This requires the qmake program to import it.  Unfortunaley eclipse does not like the Qt setup, and the qt cdt plugin cannot be found in an installable format online. Whilst running qmake can make the source code compile eclispe gives an error the destructor cannot be found for the class incorpotating the Q_OBJECT macro.  Therefore with some reluctance i have switched to the program QT creator as of 11 / 10 / 2018.
+
+`
+Qtermwidget comes with it's oen problems, it cannot be run in a static context. Therefore the signals from the runconfigTab class to run this method when a button is clicked have no point of reference.  A convoluted solution to this is to reference the parent widget of the runconfigTab class, the QTabWidget tabWidget, and find the terminal console widget from there to manipulate it by simulting entering commands using the sendText() function.
