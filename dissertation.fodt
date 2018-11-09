@@ -4652,7 +4652,7 @@
    <text:p text:style-name="P47"><text:soft-page-break/></text:p>
    <text:p text:style-name="P46"/>
    <text:p text:style-name="P44">This document explains the architecture <text:s/>the proposed system from a high level of <text:s/>abstraction. It is intended for people with an understanding of the process of compiling and inserting linux kernel modules using bash.</text:p>
-   <text:list xml:id="list160617437679315" text:continue-list="list2919324918501069162" text:style-name="WWNum2">
+   <text:list xml:id="list160702135127472" text:continue-list="list2919324918501069162" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4662,7 +4662,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P26">This project <text:span text:style-name="T9">builds on the current “</text:span><text:span text:style-name="T1">additional drivers” program in Ubuntu which allows proprietary firmware to be installed using a graphical interface. It extends this by <text:s/>allowing Internet users with knowledge of the module build process to contribute </text:span><text:span text:style-name="T2">git projects to </text:span><text:span text:style-name="T1">install firmware on a per device basis.</text:span></text:p>
-   <text:list xml:id="list160616224726076" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list160701467197688" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4688,7 +4688,7 @@
    <text:p text:style-name="P33">The specifications for submitting a project are as follows:</text:p>
    <text:p text:style-name="P33"><text:soft-page-break/>The package must be installable as a standard “make”, “make install”, “modprobe &lt;module_name&gt;”. As mentioned earlier a full tuxconfig file must be made available, This information is imported to the database having being parsed by the back-end.</text:p>
    <text:p text:style-name="P26"/>
-   <text:list xml:id="list160616772305112" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list160702813535628" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4702,7 +4702,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P26">Two types of user will take advantage of this system. <text:s/>The client users will benefit from not have to use the shell to install kernel modules, which many people find obscure and intimidating. The <text:span text:style-name="T42">developers, with knowledge of kernel modules and how to engineer them, </text:span>will suggest configuration processes referred to as recipes, with the incentive mentioned earlier.</text:p>
-   <text:list xml:id="list160616855053932" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list160702333024119" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4755,7 +4755,7 @@
    <text:p text:style-name="P9"/>
    <text:p text:style-name="P11"/>
    <text:p text:style-name="P26"/>
-   <text:list xml:id="list160616006223188" text:continue-list="list160616855053932" text:style-name="WWNum2">
+   <text:list xml:id="list160701527833424" text:continue-list="list160702333024119" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4770,7 +4770,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P26">Create a brand new system based on the current system, Ubuntu additional drivers.</text:p>
-   <text:list xml:id="list160617161520343" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list160702896880636" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4784,7 +4784,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P26">Make it easier for novice Ubuntu users to install device drivers,</text:p>
-   <text:list xml:id="list160617205160422" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list160701655464125" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4798,7 +4798,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P26">A graphical interfaced program which identifies devices on a Ubuntu system and downloads the software from GitHub to make the devices function. </text:p>
-   <text:list xml:id="list160615379480278" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list160701182735333" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4818,7 +4818,7 @@
    <text:p text:style-name="P10">As this is a proof of concept it’s limited to only working with <text:span text:style-name="T43">GitHub</text:span>, running on the Ubuntu platform on the amd64 architecture <text:span text:style-name="T43">using kernel 4.15</text:span>. <text:span text:style-name="T43">Implementations to avoid faulty devices being upvoted multiple times are not included, which could possibly be made by using a login system for users with rate limiting on the number of configuration attempts.</text:span></text:p>
    <text:p text:style-name="P10"/>
    <text:p text:style-name="P12"/>
-   <text:list xml:id="list160616576354626" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list160701775521791" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4836,7 +4836,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P26">The system will <text:s/>be of most use to home users with little experience of configuring Linux, that said it is likely even capable system administrators will use it as it alleviates the need to find the correct firmware projects on git and perform a manual install.</text:p>
-   <text:list xml:id="list160616938668873" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list160702001151548" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4858,7 +4858,7 @@
    <text:p text:style-name="P27">Clone git repository from GitHub.<text:line-break/>Execute shell script.<text:line-break/>Insert kernel module.<text:line-break/>Provide feedback for user.<text:line-break/>Provide <text:span text:style-name="T43">details of the contributing developer</text:span>.</text:p>
    <text:p text:style-name="P27"><text:soft-page-break/><text:line-break/></text:p>
    <text:p text:style-name="P27"/>
-   <text:list xml:id="list160616041158392" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list160702648156291" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4876,7 +4876,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P26">The system will perform the same functions as the Ubuntu additional drivers package, but allow this to apply to many more devices by allowing skilled internet users to contribute software without the oversight of the Ubuntu Kernel team. <text:span text:style-name="T44">In order to ensure that contributed code is not malicious a team will have to be built to oversee contributions. At the suggestion of Julio Fernandez, a lecturer at Kent university, it might be worth contacting the kernel maintainers about this.</text:span></text:p>
-   <text:list xml:id="list160615358087752" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list160702226162781" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4886,7 +4886,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P26"/>
-   <text:list xml:id="list160617062832270" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list160701615684055" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4900,7 +4900,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P26">The use of GET and POST HTTP standards, the JSON standard for communicat<text:span text:style-name="T43">ing between and and front end</text:span>. <text:span text:style-name="T43">QT libraries for graphical display, the use of Java beans in the back-end with a similar concept in the front end in c++. The Oauth protocol allowing developers to list and then add their repositories and for error reporting. </text:span></text:p>
-   <text:list xml:id="list160615632537545" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list160700862907771" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4914,7 +4914,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P26">Build-essential packages will need to be installed on the client machine. It is assumed the user has the knowledge to use the internet to download the package and run it from within a browser window. <text:span text:style-name="T43">The QT5 runtime libraries, use of the jsonpp and curlpp libraries, to provide json parsing and http requests (sending and receiving). The boost libraries for extra c++ functionality.</text:span></text:p>
-   <text:list xml:id="list160616883319870" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list160702087415436" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4931,7 +4931,7 @@
    <text:p text:style-name="P1">The end user must have an internet connection, to download the package and during the programs execution. <text:span text:style-name="T43">Restoring from a failed command can be possible offline, in cases where the wireless card has ceased to function.</text:span></text:p>
    <text:p text:style-name="P13">The user must have the device installed with a matching configuration submitted in order for an appropriate driver to be downloaded.</text:p>
    <text:p text:style-name="P13"/>
-   <text:list xml:id="list160616265971323" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list160702368927131" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4951,7 +4951,7 @@
    <text:p text:style-name="P26"><text:soft-page-break/>Ease of use to contribute at GitHub (add <text:span text:style-name="T43">tuxconfig file</text:span>).</text:p>
    <text:p text:style-name="P26">Rating configurations <text:span text:style-name="T43">should </text:span>be tamper proof. <text:span text:style-name="T43">One way (beyond the scope of this project) is to allow each user to only vote once on each device install success <text:s/>or failure.</text:span></text:p>
    <text:p text:style-name="P26"/>
-   <text:list xml:id="list160616220740637" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list160701651784778" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4961,7 +4961,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P26"/>
-   <text:list xml:id="list160617475422392" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list160702414135159" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
