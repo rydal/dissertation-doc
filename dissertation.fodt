@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-06-25T16:26:19.019736098</meta:creation-date><dc:language>en-GB</dc:language><dc:date>2018-11-11T20:55:12.871511543</dc:date><meta:editing-cycles>56</meta:editing-cycles><meta:editing-duration>P1DT13H23M3S</meta:editing-duration><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="1" meta:object-count="0" meta:page-count="26" meta:paragraph-count="325" meta:word-count="6213" meta:character-count="38189" meta:non-whitespace-character-count="31584"/></office:meta>
+ <office:meta><meta:creation-date>2018-06-25T16:26:19.019736098</meta:creation-date><dc:language>en-GB</dc:language><dc:date>2018-11-18T12:42:55.159389651</dc:date><meta:editing-cycles>58</meta:editing-cycles><meta:editing-duration>P1DT13H36M25S</meta:editing-duration><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="1" meta:object-count="0" meta:page-count="25" meta:paragraph-count="327" meta:word-count="6331" meta:character-count="38872" meta:non-whitespace-character-count="32147"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">692362</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">32175</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">20772</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21486</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">18863</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">702649</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">22615</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">167367</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">692362</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">32173</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">713131</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">21484</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -69,7 +69,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">true</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">7460935</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">7645038</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -109,7 +109,7 @@
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">jAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">gAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMApgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
    <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
   </config:config-item-set>
  </office:settings>
@@ -1173,10 +1173,18 @@
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="005d9c73" officeooo:paragraph-rsid="005d9c73" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="P177" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false"/>
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="006ee367" officeooo:paragraph-rsid="006ee367" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:paragraph-rsid="0072bd76" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P178" style:family="paragraph" style:parent-style-name="Heading_20_4" style:list-style-name="WWNum2">
+  <style:style style:name="P178" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:paragraph-rsid="00745fee" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P179" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:paragraph-rsid="0074a76e" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P180" style:family="paragraph" style:parent-style-name="Instructional_20_Text">
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="0074a76e" officeooo:paragraph-rsid="0074a76e" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P181" style:family="paragraph" style:parent-style-name="Heading_20_4" style:list-style-name="WWNum2">
    <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -1186,177 +1194,186 @@
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="000d205c" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
   </style:style>
   <style:style style:name="T3" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#4e4242" style:font-name="museo-sans" fo:font-size="13.5pt" fo:letter-spacing="normal" fo:font-weight="bold"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="0072bd76" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
   </style:style>
   <style:style style:name="T4" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:font-weight="normal" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="00745fee" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
   </style:style>
   <style:style style:name="T5" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="005a1d45" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="0074a76e" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
   </style:style>
   <style:style style:name="T6" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="005d9c73" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#4e4242" style:font-name="museo-sans" fo:font-size="13.5pt" fo:letter-spacing="normal" fo:font-weight="bold"/>
   </style:style>
   <style:style style:name="T7" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="005e4bc2" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:font-weight="normal" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties officeooo:rsid="000d205c"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="005a1d45" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties fo:font-size="12pt" fo:language="en" fo:country="US" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="005d9c73" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
-   <style:text-properties fo:font-size="12pt" fo:language="en" fo:country="GB" fo:font-style="normal" style:font-name-asian="Noto Sans CJK SC DemiLight" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="005e4bc2" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
-   <style:text-properties officeooo:rsid="000d7980"/>
+   <style:text-properties officeooo:rsid="000d205c"/>
   </style:style>
   <style:style style:name="T12" style:family="text">
-   <style:text-properties officeooo:rsid="000f194b"/>
+   <style:text-properties fo:font-size="12pt" fo:language="en" fo:country="US" style:font-name-asian="Times New Roman" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
   </style:style>
   <style:style style:name="T13" style:family="text">
-   <style:text-properties officeooo:rsid="00122306"/>
+   <style:text-properties fo:font-size="12pt" fo:language="en" fo:country="GB" fo:font-style="normal" style:font-name-asian="Noto Sans CJK SC DemiLight" style:font-size-asian="12pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T14" style:family="text">
-   <style:text-properties officeooo:rsid="00137b3a"/>
+   <style:text-properties officeooo:rsid="000d7980"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
-   <style:text-properties officeooo:rsid="00148580"/>
+   <style:text-properties officeooo:rsid="000f194b"/>
   </style:style>
   <style:style style:name="T16" style:family="text">
-   <style:text-properties officeooo:rsid="0015d080"/>
+   <style:text-properties officeooo:rsid="00122306"/>
   </style:style>
   <style:style style:name="T17" style:family="text">
-   <style:text-properties officeooo:rsid="0016642e"/>
+   <style:text-properties officeooo:rsid="00137b3a"/>
   </style:style>
   <style:style style:name="T18" style:family="text">
-   <style:text-properties officeooo:rsid="001a0fda"/>
+   <style:text-properties officeooo:rsid="00148580"/>
   </style:style>
   <style:style style:name="T19" style:family="text">
-   <style:text-properties officeooo:rsid="001a1d0b"/>
+   <style:text-properties officeooo:rsid="0015d080"/>
   </style:style>
   <style:style style:name="T20" style:family="text">
-   <style:text-properties officeooo:rsid="001ba8dd"/>
+   <style:text-properties officeooo:rsid="0016642e"/>
   </style:style>
   <style:style style:name="T21" style:family="text">
-   <style:text-properties officeooo:rsid="001c4d18"/>
+   <style:text-properties officeooo:rsid="001a0fda"/>
   </style:style>
   <style:style style:name="T22" style:family="text">
-   <style:text-properties officeooo:rsid="001fd8ab"/>
+   <style:text-properties officeooo:rsid="001a1d0b"/>
   </style:style>
   <style:style style:name="T23" style:family="text">
-   <style:text-properties officeooo:rsid="0020dc38"/>
+   <style:text-properties officeooo:rsid="001ba8dd"/>
   </style:style>
   <style:style style:name="T24" style:family="text">
-   <style:text-properties officeooo:rsid="0021e633"/>
+   <style:text-properties officeooo:rsid="001c4d18"/>
   </style:style>
   <style:style style:name="T25" style:family="text">
-   <style:text-properties officeooo:rsid="002344e0"/>
+   <style:text-properties officeooo:rsid="001fd8ab"/>
   </style:style>
   <style:style style:name="T26" style:family="text">
-   <style:text-properties officeooo:rsid="00303926"/>
+   <style:text-properties officeooo:rsid="0020dc38"/>
   </style:style>
   <style:style style:name="T27" style:family="text">
-   <style:text-properties officeooo:rsid="00380fda"/>
+   <style:text-properties officeooo:rsid="0021e633"/>
   </style:style>
   <style:style style:name="T28" style:family="text">
-   <style:text-properties officeooo:rsid="003bc4ed"/>
+   <style:text-properties officeooo:rsid="002344e0"/>
   </style:style>
   <style:style style:name="T29" style:family="text">
-   <style:text-properties officeooo:rsid="003c7ab8"/>
+   <style:text-properties officeooo:rsid="00303926"/>
   </style:style>
   <style:style style:name="T30" style:family="text">
-   <style:text-properties officeooo:rsid="003f9468"/>
+   <style:text-properties officeooo:rsid="00380fda"/>
   </style:style>
   <style:style style:name="T31" style:family="text">
-   <style:text-properties officeooo:rsid="00415cc1"/>
+   <style:text-properties officeooo:rsid="003bc4ed"/>
   </style:style>
   <style:style style:name="T32" style:family="text">
-   <style:text-properties officeooo:rsid="00447f55"/>
+   <style:text-properties officeooo:rsid="003c7ab8"/>
   </style:style>
   <style:style style:name="T33" style:family="text">
-   <style:text-properties officeooo:rsid="004a9d36"/>
+   <style:text-properties officeooo:rsid="003f9468"/>
   </style:style>
   <style:style style:name="T34" style:family="text">
-   <style:text-properties officeooo:rsid="0057fe4d"/>
+   <style:text-properties officeooo:rsid="00415cc1"/>
   </style:style>
   <style:style style:name="T35" style:family="text">
-   <style:text-properties officeooo:rsid="005a1d45"/>
+   <style:text-properties officeooo:rsid="00447f55"/>
   </style:style>
   <style:style style:name="T36" style:family="text">
-   <style:text-properties fo:font-size="18pt" style:font-size-asian="15.75pt" style:font-size-complex="18pt"/>
+   <style:text-properties officeooo:rsid="004a9d36"/>
   </style:style>
   <style:style style:name="T37" style:family="text">
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties officeooo:rsid="0057fe4d"/>
   </style:style>
   <style:style style:name="T38" style:family="text">
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="005a1d45" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties officeooo:rsid="005a1d45"/>
   </style:style>
   <style:style style:name="T39" style:family="text">
-   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="005c28b5" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-size="18pt" style:font-size-asian="15.75pt" style:font-size-complex="18pt"/>
   </style:style>
   <style:style style:name="T40" style:family="text">
-   <style:text-properties officeooo:rsid="005e4bc2"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T41" style:family="text">
-   <style:text-properties officeooo:rsid="005eb5bf"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="005a1d45" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T42" style:family="text">
-   <style:text-properties officeooo:rsid="005f5a92"/>
+   <style:text-properties fo:color="#000000" style:font-name="Noto Sans Oriya UI" fo:font-style="normal" officeooo:rsid="005c28b5" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T43" style:family="text">
-   <style:text-properties officeooo:rsid="006053bd"/>
+   <style:text-properties officeooo:rsid="005e4bc2"/>
   </style:style>
   <style:style style:name="T44" style:family="text">
-   <style:text-properties officeooo:rsid="00619972"/>
+   <style:text-properties officeooo:rsid="005eb5bf"/>
   </style:style>
   <style:style style:name="T45" style:family="text">
-   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties officeooo:rsid="005f5a92"/>
   </style:style>
   <style:style style:name="T46" style:family="text">
-   <style:text-properties officeooo:rsid="0062fd1c"/>
+   <style:text-properties officeooo:rsid="006053bd"/>
   </style:style>
   <style:style style:name="T47" style:family="text">
-   <style:text-properties officeooo:rsid="00648a84"/>
+   <style:text-properties officeooo:rsid="00619972"/>
   </style:style>
   <style:style style:name="T48" style:family="text">
-   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T49" style:family="text">
-   <style:text-properties officeooo:rsid="006588f6"/>
+   <style:text-properties officeooo:rsid="0062fd1c"/>
   </style:style>
   <style:style style:name="T50" style:family="text">
-   <style:text-properties officeooo:rsid="0066ff25"/>
+   <style:text-properties officeooo:rsid="00648a84"/>
   </style:style>
   <style:style style:name="T51" style:family="text">
-   <style:text-properties officeooo:rsid="0068529c"/>
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T52" style:family="text">
-   <style:text-properties officeooo:rsid="0069452c"/>
+   <style:text-properties officeooo:rsid="006588f6"/>
   </style:style>
   <style:style style:name="T53" style:family="text">
-   <style:text-properties officeooo:rsid="006a89d9"/>
+   <style:text-properties officeooo:rsid="0066ff25"/>
   </style:style>
   <style:style style:name="T54" style:family="text">
-   <style:text-properties officeooo:rsid="006b98d0"/>
+   <style:text-properties officeooo:rsid="0068529c"/>
   </style:style>
   <style:style style:name="T55" style:family="text">
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties officeooo:rsid="0069452c"/>
   </style:style>
   <style:style style:name="T56" style:family="text">
-   <style:text-properties officeooo:rsid="006d4dfd"/>
+   <style:text-properties officeooo:rsid="006a89d9"/>
   </style:style>
   <style:style style:name="T57" style:family="text">
-   <style:text-properties officeooo:rsid="006e888e"/>
+   <style:text-properties officeooo:rsid="006b98d0"/>
   </style:style>
   <style:style style:name="T58" style:family="text">
-   <style:text-properties officeooo:rsid="006ee367"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T59" style:family="text">
-   <style:text-properties officeooo:rsid="006fabf6"/>
+   <style:text-properties officeooo:rsid="006d4dfd"/>
   </style:style>
   <style:style style:name="T60" style:family="text">
+   <style:text-properties officeooo:rsid="006e888e"/>
+  </style:style>
+  <style:style style:name="T61" style:family="text">
+   <style:text-properties officeooo:rsid="006ee367"/>
+  </style:style>
+  <style:style style:name="T62" style:family="text">
+   <style:text-properties officeooo:rsid="006fabf6"/>
+  </style:style>
+  <style:style style:name="T63" style:family="text">
    <style:text-properties officeooo:rsid="0071d847"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
@@ -4732,13 +4749,13 @@
    <text:p text:style-name="P17">Robert Brew.</text:p>
    <text:h text:style-name="P173" text:outline-level="2">Abstract</text:h>
    <text:p text:style-name="P4"/>
-   <text:p text:style-name="P4">Despite it’s small memory footprint and install size, Linux is way behind windows when it comes to choices of operating systems, rarely bundled with a computer bought from a major supplier. <text:s/>One rea<text:span text:style-name="T31">son </text:span>for this is the problem of configuring devices using a terminal console, forcing the user to enter obscure configuration commands. <text:s/>Ubuntu has this covered in it’s restricted driver application, but the devices listed here are few and far between compared to the vast array of <text:span text:style-name="T31">device support for windows</text:span>.</text:p>
+   <text:p text:style-name="P4">Despite it’s small memory footprint and install size, Linux is way behind windows when it comes to choices of operating systems, rarely bundled with a computer bought from a major supplier. <text:s/>One rea<text:span text:style-name="T34">son </text:span>for this is the problem of configuring devices using a terminal console, forcing the user to enter obscure configuration commands. <text:s/>Ubuntu has this covered in it’s restricted driver application, but the devices listed here are few and far between compared to the vast array of <text:span text:style-name="T34">device support for windows</text:span>.</text:p>
    <text:p text:style-name="P4"/>
-   <text:p text:style-name="P4">Can we find, <text:span text:style-name="T35">programmatically</text:span>, a more effective means of installing obscure hardware, <text:span text:style-name="T35">removing the need to type in commands to configure a device in place of a graphical tool to do so?</text:span></text:p>
+   <text:p text:style-name="P4">Can we find, <text:span text:style-name="T38">programmatically</text:span>, a more effective means of installing obscure hardware, <text:span text:style-name="T38">removing the need to type in commands to configure a device in place of a graphical tool to do so?</text:span></text:p>
    <text:p text:style-name="P4"/>
-   <text:p text:style-name="P4">I have :). I present <text:span text:style-name="T35">a</text:span> <text:span text:style-name="T35">client </text:span>application and server back<text:span text:style-name="T35">-</text:span>end to do this.</text:p>
+   <text:p text:style-name="P4">I have :). I present <text:span text:style-name="T38">a</text:span> <text:span text:style-name="T38">client </text:span>application and server back<text:span text:style-name="T38">-</text:span>end to do this.</text:p>
    <text:p text:style-name="P4"/>
-   <text:p text:style-name="P4">This is not only an application to install third party drivers. It is a platform from which knowledgeable Linux users can submit code to a centralised database for standard users to download, co<text:span text:style-name="T30">mpile and install hardware drivers</text:span></text:p>
+   <text:p text:style-name="P4">This is not only an application to install third party drivers. It is a platform from which knowledgeable Linux users can submit code to a centralised database for standard users to download, co<text:span text:style-name="T33">mpile and install hardware drivers</text:span></text:p>
    <text:h text:style-name="P163" text:outline-level="2">Acknowledgements</text:h>
    <text:p text:style-name="P7"/>
    <text:p text:style-name="P7"/>
@@ -4748,29 +4765,24 @@
    <text:p text:style-name="P19">My parents for their support.</text:p>
    <text:p text:style-name="P19">My supervisor, Ian Utting, for his insight.</text:p>
    <text:p text:style-name="P19">The god of coffee.</text:p>
-   <text:list xml:id="list4234537987414632701" text:style-name="WWNum2">
+   <text:list xml:id="list2154374528625831035" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-header>
-       <text:h text:style-name="P171" text:outline-level="2"><text:tab/><text:span text:style-name="T35">Content Page</text:span></text:h>
+       <text:h text:style-name="P171" text:outline-level="2"><text:tab/><text:span text:style-name="T38">Content Page</text:span></text:h>
       </text:list-header>
      </text:list>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P8"/>
-   <text:h text:style-name="P163" text:outline-level="2">List of Figures / Abbreviations</text:h>
-   <text:p text:style-name="P26"><text:span text:style-name="T38">A</text:span><text:span text:style-name="T37">bbreviations:</text:span></text:p>
-   <text:p text:style-name="P26"><text:span text:style-name="T39">Developer</text:span><text:span text:style-name="T37">: The user supplying software to make make the drivers work.</text:span></text:p>
-   <text:p text:style-name="P14">User: The end user installing the device software.</text:p>
-   <text:p text:style-name="P14"/>
    <text:h text:style-name="P163" text:outline-level="2">Introduction</text:h>
    <text:p text:style-name="P31">This dissertation answers the question, can we safely and programmatically implement a piece of software to enable the installation and configuration of devices in Linux using a graphical interface.</text:p>
    <text:p text:style-name="P31">Currently in the Ubuntu distribution there is a graphical means of achieving this using the restricted drivers program. However this is limited to devices set by the Ubuntu development team. <text:s/>Can this be improved on? Can any device install be verified not to be malicious? Can this install process be made safe? Can a platform to submit device configurations be made available? Can the success or failure of an install be logged? </text:p>
-   <text:p text:style-name="P32">In contrast to other dissertations, this is not a research paper. It is instead the development of a software package based on the above questions. As such there is little literature review. The nearest point of reference is the Ubuntu restricted drivers program, the code for which I have not analysed. <text:s/>This dissertation builds on this available program by creating a means for any developer to submit the software needed for a device to work to a central server which is part of this project.</text:p>
-   <text:p text:style-name="P52"><text:span text:style-name="T5">T</text:span><text:span text:style-name="T4">he program is <text:s/>called Tuxconfig and consists of a client front end written in C++ </text:span><text:span text:style-name="T7">w</text:span><text:span text:style-name="T4">ith a server / database written in Java and Mysql. Contributions to a device install are made available using the HTTP protocol in the form of a web page which links to a develoepr’s github.com account.</text:span></text:p>
+   <text:p text:style-name="P32">The nearest point of reference is the Ubuntu restricted drivers program, the code for which I have not analysed. <text:s/>This dissertation builds on this available program by creating a means for any developer to submit the software needed for a device to work to a central server which is part of this project.</text:p>
+   <text:p text:style-name="P52"><text:span text:style-name="T8">T</text:span><text:span text:style-name="T7">he program is <text:s/>called Tuxconfig and consists of a client front end written in C++ </text:span><text:span text:style-name="T10">w</text:span><text:span text:style-name="T7">ith a server / database written in Java and Mysql. Contributions to a device install are made available using the HTTP protocol in the form of a web page which links to a developer&apos;s github.com account.</text:span></text:p>
    <text:p text:style-name="P48"/>
    <text:p text:style-name="P48">Structure of dissertation:</text:p>
-   <text:list xml:id="list2707317869448678238" text:style-name="L1">
+   <text:list xml:id="list7278652969671794077" text:style-name="L1">
     <text:list-item>
      <text:p text:style-name="P175">Requirements document.</text:p>
     </text:list-item>
@@ -4793,13 +4805,13 @@
      <text:p text:style-name="P176">References.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P176">Appendicies.</text:p>
+     <text:p text:style-name="P176">Appendices.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P50"/>
    <text:p text:style-name="P49"/>
-   <text:p text:style-name="P47"><text:soft-page-break/>This document explains the architecture <text:s/>the proposed system from a high level of <text:s/>abstraction. It is intended for people with an understanding of the process of compiling and inserting linux kernel modules using bash.</text:p>
-   <text:list xml:id="list205514623797860" text:continue-list="list4234537987414632701" text:style-name="WWNum2">
+   <text:p text:style-name="P47">This document explains the architecture <text:s/>the proposed system from a high level of <text:s/>abstraction. It is intended for people with an understanding of the process of compiling and inserting Linux kernel modules using bash.</text:p>
+   <text:list xml:id="list124324115994054" text:continue-list="list2154374528625831035" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4808,8 +4820,14 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P29">This project <text:span text:style-name="T9">builds on the current “</text:span><text:span text:style-name="T1">additional drivers” program in Ubuntu which allows proprietary firmware to be installed using a graphical interface. It extends this by <text:s/>allowing Internet users with knowledge of the module build process to contribute </text:span><text:span text:style-name="T2">git projects to </text:span><text:span text:style-name="T1">install firmware on a per device basis.</text:span></text:p>
-   <text:list xml:id="list205514020750712" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P177">This project <text:span text:style-name="T12">builds on the current “</text:span><text:span text:style-name="T1">additional drivers” program in Ubuntu which allows proprietary firmware to be installed using a graphical interface. </text:span></text:p>
+   <text:p text:style-name="P178"><text:span text:style-name="T3">&lt;image restricted drivers program</text:span><text:span text:style-name="T4">&gt;</text:span></text:p>
+   <text:p text:style-name="P179"><text:span text:style-name="T4">This application, part of the software and updates package in Ubuntu is automatically launched in situations where a device is found in the system for which a suitable driver implementation can be found</text:span><text:span text:style-name="T3">. </text:span><text:span text:style-name="T5">Proprietary </text:span><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T5">drivers can be installed using this system. </text:span></text:p>
+   <text:p text:style-name="P180"><text:span text:style-name="T5">U</text:span><text:span text:style-name="T1">sers can install device drivers from this window, but as far as I can see they cannot uninstall them.</text:span></text:p>
+   <text:p text:style-name="P179"><text:span text:style-name="T5">The phrase proprietary when included in this tool implies that open source device configurations cannot be installed using this application.</text:span><text:span text:style-name="T3"> </text:span></text:p>
+   <text:p text:style-name="P180"><text:span text:style-name="T3">T</text:span><text:span text:style-name="T1">here appears to be no platform for submitting device drivers to be used as part of the distribution, leaving me to believe that the drivers are used by the Ubuntu kernel configuration team.</text:span></text:p>
+   <text:p text:style-name="P179"><text:span text:style-name="T4">This project goes <text:s/>further than the Ubuntu restricted drivers program by offering a platform for anyone to submit code to make a device work. From what I can see (I have no devices on which to test this) the </text:span><text:span text:style-name="T5">current </text:span><text:span text:style-name="T4">program does not facilitate the </text:span><text:span text:style-name="T5">un-installation</text:span><text:span text:style-name="T4"> of devices. </text:span><text:span text:style-name="T5">This project also goes further than the current implementation by allowing non-proprietary devices to be installed to the operating system as well as proprietary configurations.</text:span></text:p>
+   <text:list xml:id="list124324811420908" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4823,19 +4841,19 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P29">This project enables a user of Linux with limited technical knowledge to easily install Linux kernel modules using a graphical interface. It relies on the Linux community to suggest configurations for each device being installed based on the identifier of that device.</text:p>
-   <text:p text:style-name="P29">As an incentive for contributions the <text:span text:style-name="T40">developers </text:span>will be able to link to their <text:span text:style-name="T40">their git profile, plus a web page to the devices they contribute to the platform</text:span>. <text:s/>When the users have successfully installed a kernel module the <text:s/><text:span text:style-name="T40">developer who contributed the configuration </text:span>will have a link to their web page, <text:span text:style-name="T40">email address, git log and git biography</text:span> <text:s/>The user chosen will be based on the most successful contribution to the <text:span text:style-name="T40">device install</text:span>.</text:p>
-   <text:p text:style-name="P35">In order to access the GitHub repositories I am using the oauth protocol. <text:s/>This allows a developer with a GitHub account to authorise the tuxconfig product to act on the developer’s behalf. From this web based protocol the back-end can derive the <text:s/>public repositories the developer owns and then allow him or her to submit a repository to the project. The database stores the url which is cloned by the front-end.</text:p>
-   <text:p text:style-name="P35">In order to prevent malicious code being added to the project a vetting page will be created which will allow those running this project to ensure the Makefile is not malicious and that any device binaries are from genuine sources. In order to ensure that the code has not been changed between submissions a hash of the git commit is stored in the database linking the commit stored to that which is downloaded. <text:span text:style-name="T49">The vetting page will be accessible only on localhost. Access to this host can be used by port forwaring when an authorised user with the correct ssh key logs into the host.</text:span></text:p>
-   <text:p text:style-name="P29">In it’s initial configuration three types of <text:span text:style-name="T8">customisation</text:span> were planned, configuration of software available from the <text:span text:style-name="T8">repositories</text:span> using apt-get and yum, kernel parameter configuration (for the make config process), and firmware downloads, possibly using all methods for one device configuration.</text:p>
-   <text:p text:style-name="P33">I realized having installed a wireless ac adapter in Linux that the scope of devices configurable by this project can be <text:s/>massively increased by by allowing users to submit <text:s/>git projects for this system. <text:s/>This process doesn’t require recompiling the kernel, which takes time and may lead to an unstable system. <text:s/>When contemplating how to discuss issues with a particular configuration I <text:soft-page-break/>realized that git hosts everything this system could need. <text:span text:style-name="T40">This includes but is not limited to Makefiles, source code and firmware files. <text:s/>Initial ideas were to allow the developer to contribute their own Makefile for the install. <text:s text:c="2"/>The custom Makefile could contain details of how to clone the target git repository, build the firmware using make and insert the module, returning a success or failure exit code once this is done. <text:s/></text:span></text:p>
+   <text:p text:style-name="P29">As an incentive for contributions the <text:span text:style-name="T43">developers </text:span>will be able to link to their <text:span text:style-name="T43">their git profile, plus a web page to the devices they contribute to the platform</text:span>. <text:s/>When the users have successfully installed a kernel module the <text:s/><text:span text:style-name="T43">developer who contributed the configuration </text:span>will have a link to their web page, <text:span text:style-name="T43">email address, git log and git biography</text:span> <text:s/>The user chosen will be based on the most successful contribution to the <text:span text:style-name="T43">device install</text:span>.</text:p>
+   <text:p text:style-name="P35">In order to access the GitHub repositories I am using the oauth protocol. <text:s/>This allows a developer with a GitHub account to authorise the tuxconfig product to act on the developer’s behalf. From this web based protocol the back-end can derive the <text:s/>public repositories the developer owns and then allow him or her to submit a repository to the project. The database stores the URL which is cloned by the front-end.</text:p>
+   <text:p text:style-name="P35"><text:soft-page-break/>In order to prevent malicious code being added to the project a vetting page will be created which will allow those running this project to ensure the Makefile is not malicious and that any device binaries are from genuine sources. In order to ensure that the code has not been changed between submissions a hash of the git commit is stored in the database linking the commit stored to that which is downloaded. <text:span text:style-name="T52">The vetting page will be accessible only on localhost. Access to this host can be used by port forwarding when an authorised user with the correct SSH key logs into the host.</text:span></text:p>
+   <text:p text:style-name="P29">In it’s initial configuration three types of <text:span text:style-name="T11">customisation</text:span> were planned, configuration of software available from the <text:span text:style-name="T11">repositories</text:span> using apt-get and yum, kernel parameter configuration (for the make config process), and firmware downloads, possibly using all methods for one device configuration.</text:p>
+   <text:p text:style-name="P33">I realized having installed a wireless ac adapter in Linux that the scope of devices configurable by this project can be <text:s/>massively increased by by allowing users to submit <text:s/>git projects for this system. <text:s/>This process doesn’t require recompiling the kernel, which takes time and may lead to an unstable system. <text:s/>When contemplating how to discuss issues with a particular configuration I realized that git hosts everything this system could need. <text:span text:style-name="T43">This includes but is not limited to Makefiles, source code and firmware files. <text:s/>Initial ideas were to allow the developer to contribute their own Makefile for the install. <text:s text:c="2"/>The custom Makefile could contain details of how to clone the target git repository, build the firmware using make and insert the module, returning a success or failure exit code once this is done. <text:s/></text:span></text:p>
    <text:p text:style-name="P38">This has subsequently been replaced with a standard Makefile and an optional configuration file called tuxconfig. <text:s/></text:p>
-   <text:p text:style-name="P34">The <text:span text:style-name="T41">tuxconfig </text:span>file <text:span text:style-name="T41">works in harmony with the Makefile. It contains a list of device IDs, the module name, dependencies which need to be added using apt-get. The test program to run, a message to describe to the user what the output of the test program should be, as well as a flag to define if a restart is needed. <text:s/></text:span></text:p>
-   <text:p text:style-name="P29">After the module has been installed the user will be prompted on the success or failure of the kernel configuration on a per device basis, using a unique code via a <text:span text:style-name="T41">back-end server</text:span>. <text:span text:style-name="T42">The use of this code was to prevent users from spamming the database with false positives but this can be easily circumvented by up or down voting particular installs. </text:span><text:s/><text:span text:style-name="T13">A program to demonstrate the success or failure of a configuration can be launched, as part of the post install process. This could involve playing a sound to ensure the audio device works, or opening a webcam program like cheese to test the video camera.</text:span></text:p>
-   <text:p text:style-name="P37">Taking advantage of the fact we have the developer’s ouath git token, we can use this to write to their issue tracker listing details of the error logs when a failed configuration is run. In order to prevent multiple error reporting of the same error the length of the error report is checked and subsequent error reports are not uplaoded.</text:p>
+   <text:p text:style-name="P34">The <text:span text:style-name="T44">tuxconfig </text:span>file <text:span text:style-name="T44">works in harmony with the Makefile. It contains a list of device IDs, the module name, dependencies which need to be added using apt-get. The test program to run, a message to describe to the user what the output of the test program should be, as well as a flag to define if a restart is needed. <text:s/></text:span></text:p>
+   <text:p text:style-name="P29">After the module has been installed the user will be prompted on the success or failure of the kernel configuration on a per device basis, using a unique code via a <text:span text:style-name="T44">back-end server</text:span>. <text:span text:style-name="T45">The use of this code was to prevent users from spamming the database with false positives but this can be easily circumvented by up or down voting particular installs. </text:span><text:s/><text:span text:style-name="T16">A program to demonstrate the success or failure of a configuration can be launched, as part of the post install process. This could involve playing a sound to ensure the audio device works, or opening a webcam program like cheese to test the video camera.</text:span></text:p>
+   <text:p text:style-name="P37">Taking advantage of the fact we have the developer’s ouath git token, we can use this to write to their issue tracker listing details of the error logs when a <text:soft-page-break/>failed configuration is run. In order to prevent multiple error reporting of the same error the length of the error report is checked and subsequent error reports are not uploaded.</text:p>
    <text:p text:style-name="P36">The specifications for submitting a project are as follows:</text:p>
    <text:p text:style-name="P36">The package must be installable as a standard “make”, “make install”, “modprobe &lt;module_name&gt;”. As mentioned earlier a full tuxconfig file must be made available, This information is imported to the database having being parsed by the back-end.</text:p>
    <text:p text:style-name="P29"/>
-   <text:list xml:id="list205513359409234" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list124324133808679" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4848,14 +4866,14 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P29">Two types of user will take advantage of this system. <text:s/>The client users will benefit from not have to use the shell to install kernel modules, which many people find obscure and intimidating. The <text:span text:style-name="T42">developers, with knowledge of kernel modules and how to engineer them, </text:span>will suggest configuration processes referred to as recipes, with the incentive mentioned earlier.</text:p>
-   <text:list xml:id="list205514475182662" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P29">Two types of user will take advantage of this system. <text:s/>The client users will benefit from not have to use the shell to install kernel modules, which many people find obscure and intimidating. The <text:span text:style-name="T45">developers, with knowledge of kernel modules and how to engineer them, </text:span>will suggest configuration processes referred to as recipes, with the incentive mentioned earlier.</text:p>
+   <text:list xml:id="list124323563344125" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:h text:style-name="P169" text:outline-level="3"><text:bookmark text:name="_Toc396111542"/><text:bookmark text:name="_Toc441656791"/><text:soft-page-break/>Technical Architecture</text:h>
+         <text:h text:style-name="P169" text:outline-level="3"><text:bookmark text:name="_Toc396111542"/><text:bookmark text:name="_Toc441656791"/>Technical Architecture</text:h>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -4863,10 +4881,10 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1">The system relies on a MySQL database, maria DB, accessed using Java EE Servlets using get and post requests of JSON type parameters, running on tomcat8. <text:s/>Bash will also be used extensively to clone the git repository and insert <text:s/>the kernel modules, <text:span text:style-name="T42">executed </text:span>from the client program. Rather than writing <text:span text:style-name="T8">communications</text:span> protocols for <text:span text:style-name="T8">communication</text:span> between the C++ front end and the Java back end I propose using HTTP requests.</text:p>
+   <text:p text:style-name="P1">The system relies on a MySQL database, maria DB, accessed using Java EE Servlets using get and post requests of JSON type parameters, running on tomcat8. <text:s/>Bash will also be used extensively to clone the git repository and insert <text:s/>the kernel modules, <text:span text:style-name="T45">executed </text:span>from the client program. Rather than writing <text:span text:style-name="T11">communications</text:span> protocols for <text:span text:style-name="T11">communication</text:span> between the C++ front end and the Java back end I propose using HTTP requests.</text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1">Major components:</text:p>
-   <text:list xml:id="list6862462993736788844" text:style-name="WWNum3">
+   <text:list xml:id="list4726964298348073756" text:style-name="WWNum3">
     <text:list-item>
      <text:p text:style-name="P167">Backend Database.</text:p>
     </text:list-item>
@@ -4877,13 +4895,13 @@
      <text:p text:style-name="P167">C++ front end, available as a Debian package..</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P167">Dynamic webpage for <text:span text:style-name="T42">adding git repositories and vetting configurations.</text:span></text:p>
+     <text:p text:style-name="P167">Dynamic webpage for <text:span text:style-name="T45">adding git repositories and vetting configurations.</text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P168">Web server providing JSON arrays of device information using HTTP get and post requests.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P167">Static webpage explaining the project <text:span text:style-name="T8">for file download.</text:span></text:p>
+     <text:p text:style-name="P167">Static webpage explaining the project <text:span text:style-name="T11">for file download.</text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P167">Linux server to host the system.</text:p>
@@ -4892,17 +4910,17 @@
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1">Data collected:</text:p>
    <text:p text:style-name="P1">Device information.</text:p>
-   <text:p text:style-name="P1">User login information (using oa<text:span text:style-name="T42">u</text:span>th for git).</text:p>
+   <text:p text:style-name="P1">User login information (using oa<text:span text:style-name="T45">u</text:span>th for git).</text:p>
    <text:p text:style-name="P1">Information on the success or failure of a particular configuration.</text:p>
    <text:p text:style-name="P1">Two tier architecture.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1">The Linux client will be written in C++, using qt libraries for displaying in gnome and KDE respectively. The code will be open source, which may be a <text:s/>legal requirement if GPL v3 <text:span text:style-name="T8">licensing</text:span> is used. <text:span text:style-name="T16">The system will be made available as a Debian package.</text:span></text:p>
-   <text:p text:style-name="P9">Ideally it would have been nice to use the servers at Kent University. However these are only accessible using a VPN and the callback nature of the oauth requests demands that there is a publicly available URL to redirect the logged in user to. Therefore I am using a digital ocean instance at $5 a month providing one CPU and 1GB of ram.</text:p>
+   <text:p text:style-name="P1">The Linux client will be written in C++, using qt libraries for displaying in gnome and KDE respectively. The code will be open source, which may be a <text:s/>legal requirement if GPL v3 <text:span text:style-name="T11">licensing</text:span> is used. <text:span text:style-name="T19">The system will be made available as a Debian package.</text:span></text:p>
+   <text:p text:style-name="P9"><text:soft-page-break/>Ideally it would have been nice to use the servers at Kent University. However these are only accessible using a VPN and the callback nature of the oauth requests demands that there is a publicly available URL to redirect the logged in user to. Therefore I am using a digital ocean instance at $5 a month providing one CPU and 1GB of ram.</text:p>
    <text:p text:style-name="P9">The code will be made available on the front end as a Debian package for Ubuntu users to install.</text:p>
    <text:p text:style-name="P9"/>
    <text:p text:style-name="P11"/>
    <text:p text:style-name="P29"/>
-   <text:list xml:id="list205513710484170" text:continue-list="list205514475182662" text:style-name="WWNum2">
+   <text:list xml:id="list124325028434911" text:continue-list="list124323563344125" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4917,7 +4935,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P29">Create a brand new system based on the current system, Ubuntu additional drivers.</text:p>
-   <text:list xml:id="list205514130116290" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list124323712330216" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4931,7 +4949,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P29">Make it easier for novice Ubuntu users to install device drivers,</text:p>
-   <text:list xml:id="list205514241671539" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list124324224606019" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4945,7 +4963,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P29">A graphical interfaced program which identifies devices on a Ubuntu system and downloads the software from GitHub to make the devices function. </text:p>
-   <text:list xml:id="list205514518626060" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list124323924193145" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4953,7 +4971,7 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P178" text:outline-level="4"><text:bookmark text:name="_Toc441656796"/><text:bookmark text:name="_Toc396111547"/>System Scope</text:h>
+           <text:h text:style-name="P181" text:outline-level="4"><text:bookmark text:name="_Toc441656796"/><text:bookmark text:name="_Toc396111547"/>System Scope</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -4962,10 +4980,10 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P10">As this is a proof of concept it’s limited to only working with <text:span text:style-name="T43">GitHub</text:span>, running on the Ubuntu platform on the amd64 architecture <text:span text:style-name="T43">using kernel 4.15</text:span>. <text:span text:style-name="T43">Implementations to avoid faulty devices being upvoted multiple times are not included, which could possibly be made by using a login system for users with rate limiting on the number of configuration attempts.</text:span></text:p>
+   <text:p text:style-name="P10">As this is a proof of concept it’s limited to only working with <text:span text:style-name="T46">GitHub</text:span>, running on the Ubuntu platform on the amd64 architecture <text:span text:style-name="T46">using kernel 4.15</text:span>. <text:span text:style-name="T46">Implementations to avoid faulty devices being upvoted multiple times are not included, which could possibly be made by using a login system for users with rate limiting on the number of configuration attempts.</text:span></text:p>
    <text:p text:style-name="P10"/>
    <text:p text:style-name="P12"/>
-   <text:list xml:id="list205514611074099" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list124323644327822" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4973,7 +4991,7 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P178" text:outline-level="4"><text:bookmark text:name="_Toc441656797"/><text:bookmark text:name="_Toc396111548"/>Business Processes Supported</text:h>
+           <text:h text:style-name="P181" text:outline-level="4"><text:bookmark text:name="_Toc441656797"/><text:bookmark text:name="_Toc396111548"/>Business Processes Supported</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -4983,7 +5001,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P29">The system will <text:s/>be of most use to home users with little experience of configuring Linux, that said it is likely even capable system administrators will use it as it alleviates the need to find the correct firmware projects on git and perform a manual install.</text:p>
-   <text:list xml:id="list205513952156725" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list124325240536438" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4991,7 +5009,7 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P178" text:outline-level="4"><text:bookmark text:name="_Toc441656798"/><text:bookmark text:name="_Toc396111549"/>High-Level Functional Requirements</text:h>
+           <text:h text:style-name="P181" text:outline-level="4"><text:bookmark text:name="_Toc441656798"/><text:bookmark text:name="_Toc396111549"/>High-Level Functional Requirements</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -5002,10 +5020,10 @@
    </text:list>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P2">Allow user to contribute git project to system.</text:p>
-   <text:p text:style-name="P30">Clone git repository from GitHub.<text:line-break/>Execute shell script.<text:line-break/>Insert kernel module.<text:line-break/>Provide feedback for user.<text:line-break/>Provide <text:span text:style-name="T43">details of the contributing developer</text:span>.</text:p>
+   <text:p text:style-name="P30">Clone git repository from GitHub.<text:line-break/>Execute shell script.<text:line-break/>Insert kernel module.<text:line-break/>Provide feedback for user.<text:line-break/>Provide <text:span text:style-name="T46">details of the contributing developer</text:span>.</text:p>
    <text:p text:style-name="P30"><text:line-break/></text:p>
    <text:p text:style-name="P30"/>
-   <text:list xml:id="list205513143522027" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list124324529241615" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5013,7 +5031,7 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:h text:style-name="P178" text:outline-level="4"><text:bookmark text:name="_Toc441656799"/><text:bookmark text:name="_Toc396111550"/><text:soft-page-break/>Summary of Changes</text:h>
+           <text:h text:style-name="P181" text:outline-level="4"><text:bookmark text:name="_Toc441656799"/><text:bookmark text:name="_Toc396111550"/><text:soft-page-break/>Summary of Changes</text:h>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -5022,8 +5040,8 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P29">The system will perform the same functions as the Ubuntu additional drivers package, but allow this to apply to many more devices by allowing skilled internet users to contribute software without the oversight of the Ubuntu Kernel team. <text:span text:style-name="T44">In order to ensure that contributed code is not malicious a team will have to be built to oversee contributions. At the suggestion of Julio Fernandez, a lecturer at Kent university, it might be worth contacting the kernel maintainers about this.</text:span></text:p>
-   <text:list xml:id="list205513677194161" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P29">The system will perform the same functions as the Ubuntu additional drivers package, but allow this to apply to many more devices by allowing skilled internet users to contribute software without the oversight of the Ubuntu Kernel team. <text:span text:style-name="T47">In order to ensure that contributed code is not malicious a team will have to be built to oversee contributions. At the suggestion of Julio Fernandez, a lecturer at Kent university, it might be worth contacting the kernel maintainers about this.</text:span></text:p>
+   <text:list xml:id="list124324300069865" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5033,7 +5051,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P29"/>
-   <text:list xml:id="list205513257771983" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list124325628321950" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5046,8 +5064,8 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P29">The use of GET and POST HTTP standards, the JSON standard for communicat<text:span text:style-name="T43">ing between and and front end</text:span>. <text:span text:style-name="T43">QT libraries for graphical display, the use of Java beans in the back-end with a similar concept in the front end in c++. The Oauth protocol allowing developers to list and then add their repositories and for error reporting. </text:span></text:p>
-   <text:list xml:id="list205514796389797" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P29">The use of GET and POST HTTP standards, the JSON standard for communicat<text:span text:style-name="T46">ing between and and front end</text:span>. <text:span text:style-name="T46">QT libraries for graphical display, the use of Java beans in the back-end with a similar concept in the front end in c++. The Oauth protocol allowing developers to list and then add their repositories and for error reporting. </text:span></text:p>
+   <text:list xml:id="list124325454988968" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5060,8 +5078,8 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P29">Build-essential packages will need to be installed on the client machine. It is assumed the user has the knowledge to use the internet to download the package and run it from within a browser window. <text:span text:style-name="T43">The QT5 runtime libraries, use of the jsonpp and curlpp libraries, to provide json parsing and http requests (sending and receiving). The boost libraries for extra c++ functionality.</text:span></text:p>
-   <text:list xml:id="list205513442277254" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P29">Build-essential packages will need to be installed on the client machine. It is assumed the user has the knowledge to use the internet to download the package and run it from within a browser window. <text:span text:style-name="T46">The QT5 runtime libraries, use of the jsonpp and curlpp libraries, to provide json parsing and http requests (sending and receiving). The boost libraries for extra c++ functionality.</text:span></text:p>
+   <text:list xml:id="list124323669486091" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5074,11 +5092,11 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P1">The client system is running Ubuntu 18.04 running kernel 4.15. <text:s/><text:span text:style-name="T43">Multiple </text:span><text:s/><text:span text:style-name="T8">distribution</text:span> , <text:span text:style-name="T43">architecture and kernel </text:span>support is beyond the scope of this project.</text:p>
-   <text:p text:style-name="P1">The end user must have an internet connection, to download the package and during the programs execution. <text:span text:style-name="T43">Restoring from a failed command can be possible offline, in cases where the wireless card has ceased to function.</text:span></text:p>
+   <text:p text:style-name="P1">The client system is running Ubuntu 18.04 running kernel 4.15. <text:s/><text:span text:style-name="T46">Multiple </text:span><text:s/><text:span text:style-name="T11">distribution</text:span> , <text:span text:style-name="T46">architecture and kernel </text:span>support is beyond the scope of this project.</text:p>
+   <text:p text:style-name="P1">The end user must have an internet connection, to download the package and during the programs execution. <text:span text:style-name="T46">Restoring from a failed command can be possible offline, in cases where the wireless card has ceased to function.</text:span></text:p>
    <text:p text:style-name="P13">The user must have the device installed with a matching configuration submitted in order for an appropriate driver to be downloaded.</text:p>
    <text:p text:style-name="P13"/>
-   <text:list xml:id="list205513062370591" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list124324959485093" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5093,12 +5111,12 @@
    </text:list>
    <text:p text:style-name="P29">Incentive to contribute is crucial.</text:p>
    <text:p text:style-name="P29">User interface must be easy to use.</text:p>
-   <text:p text:style-name="P29">Vetting of configurations to ensure malicious code is not used is crucial. <text:span text:style-name="T43">As we are effectively inserting code into the kernel this cannot be circumvented, even using </text:span>chroot. <text:span text:style-name="T43">In it’s place is a vetting process.</text:span></text:p>
+   <text:p text:style-name="P29">Vetting of configurations to ensure malicious code is not used is crucial. <text:span text:style-name="T46">As we are effectively inserting code into the kernel this cannot be circumvented, even using </text:span>chroot. <text:span text:style-name="T46">In it’s place is a vetting process.</text:span></text:p>
    <text:p text:style-name="P29">System must be extendable for future use, for future LTS kernels and different Linux distributions.</text:p>
-   <text:p text:style-name="P29">Ease of use to contribute at GitHub (add <text:span text:style-name="T43">tuxconfig file</text:span>).</text:p>
-   <text:p text:style-name="P29">Rating configurations <text:span text:style-name="T43">should </text:span>be tamper proof. <text:span text:style-name="T43">One way (beyond the scope of this project) is to allow each user to only vote once on each device install success <text:s/>or failure.</text:span></text:p>
+   <text:p text:style-name="P29">Ease of use to contribute at GitHub (add <text:span text:style-name="T46">tuxconfig file</text:span>).</text:p>
+   <text:p text:style-name="P29">Rating configurations <text:span text:style-name="T46">should </text:span>be tamper proof. <text:span text:style-name="T46">One way (beyond the scope of this project) is to allow each user to only vote once on each device install success <text:s/>or failure.</text:span></text:p>
    <text:p text:style-name="P29"/>
-   <text:list xml:id="list205514675466922" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list124323898668882" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5108,7 +5126,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P29"/>
-   <text:list xml:id="list205513033767107" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list124323779671744" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5121,98 +5139,98 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P39">In order for a device to be used in this system it must first be contributed. <text:s/>This is done by the developer logging into the site <text:a xlink:type="simple" xlink:href="https://linuxconf.feedthepenguin.org/hehe/GitAuth.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://linuxconf.feedthepenguin.org/hehe/GitAuth.html</text:a>. <text:s/>From here the develoer has the option of logging into GitHub using the Oauth protocol. This allows the application to read the developer’s public repositories, and post to the respository’s issue tracker on behalf of the program. Information of the developer, the bio, <text:span text:style-name="T46">location,</text:span> avatar image, email address and the users website are stored in the database.</text:p>
-   <text:p text:style-name="P39">From here the developer chooses which repoisory to add. The server application clones the repository in the /tmp directory and ensures the “tuxconfig” file is there with it’s attributes set correctly, before importing the “deviceid” and “modulename” into the database along with the url for the respoitory.</text:p>
-   <text:p text:style-name="P29">The user downloads the client program as a <text:span text:style-name="T8">Debian</text:span> package from the host server. <text:s/>The user then installs the client package and is directed to launch the client program on the user’s machine. <text:s/><text:span text:style-name="T44">Using xdg-open the package can be opened with the Ubuntu software centre, which will also take care of installing the dependencies.</text:span></text:p>
-   <text:p text:style-name="P29">The client program identifies the device by it’s <text:span text:style-name="T44">unique </text:span>device ID. I<text:span text:style-name="T8">t </text:span>contacts the server and if a configuration has been submitted for that device <text:span text:style-name="T44">and that that configuration has been authorized as not malicious. <text:s/></text:span><text:s/><text:span text:style-name="T44">T</text:span>he server returns a link to the GitHub project for the client to download and then install <text:span text:style-name="T44">using the Makefile with configuration options in the “tuxconfig” file</text:span>).</text:p>
-   <text:p text:style-name="P29">The client program builds the kernel modules. <text:s/>It then attempts to insert the newly built kernel module into the kernel, returning a success or failure result. <text:s/>In the case where an install has failed the client program tries again <text:span text:style-name="T8">with a different configuration. Successful or failed results of running the test program are uploaded to the database.</text:span></text:p>
-   <text:p text:style-name="P46"><text:span text:style-name="T45">If the configurati</text:span><text:span text:style-name="T10">on fails the errors logs for that configuration are uploaded to the github tracker for that repository. The option to restore the configuration is made by restoring a tar file with the /lib and /etc/modules* files and folders backed up.</text:span></text:p>
-   <text:p text:style-name="P29"><text:soft-page-break/>In situations where the computer needs to be restarted the client <text:span text:style-name="T46">embeds it’s startup in the X windows startup folders as well as in the ~/.bashrc file in cases where a terminal run is needed. </text:span></text:p>
+   <text:p text:style-name="P39">In order for a device to be used in this system it must first be contributed. <text:s/>This is done by the developer logging into the site <text:a xlink:type="simple" xlink:href="https://linuxconf.feedthepenguin.org/hehe/GitAuth.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://linuxconf.feedthepenguin.org/hehe/GitAuth.html</text:a>. <text:s/>From here the developer has the option of logging into GitHub using the Oauth protocol. This allows the application to read the developer’s public repositories, and post to the repository&apos;s issue tracker on behalf of the program. Information of the developer, the bio, <text:span text:style-name="T49">location,</text:span> avatar image, email address and the users website are stored in the database.</text:p>
+   <text:p text:style-name="P39">From here the developer chooses which repository to add. The server application clones the repository in the /tmp directory and ensures the “tuxconfig” file is there with it’s attributes set correctly, before importing the “deviceid” and “modulename” into the database along with the URL for the repository.</text:p>
+   <text:p text:style-name="P29">The user downloads the client program as a <text:span text:style-name="T11">Debian</text:span> package from the host server. <text:s/>The user then installs the client package and is directed to launch the client program on the user’s machine. <text:s/><text:span text:style-name="T47">Using xdg-open the package can be opened with the Ubuntu software centre, which will also take care of installing the dependencies.</text:span></text:p>
+   <text:p text:style-name="P29">The client program identifies the device by it’s <text:span text:style-name="T47">unique </text:span>device ID. I<text:span text:style-name="T11">t </text:span>contacts the server and if a configuration has been submitted for that device <text:span text:style-name="T47">and that that configuration has been authorized as not malicious. <text:s/></text:span><text:s/><text:span text:style-name="T47">T</text:span>he server returns a link to the GitHub project for the client to download and then install <text:span text:style-name="T47">using the Makefile with configuration options in the “tuxconfig” file</text:span>).</text:p>
+   <text:p text:style-name="P29">The client program builds the kernel modules. <text:s/>It then attempts to insert the newly built kernel module into the kernel, returning a success or failure result. <text:s/>In the case where an install has failed the client program tries again <text:span text:style-name="T11">with a different configuration. Successful or failed results of running the test program are uploaded to the database.</text:span></text:p>
+   <text:p text:style-name="P46"><text:span text:style-name="T48">If the configurati</text:span><text:span text:style-name="T13">on fails the errors logs for that configuration are uploaded to the github tracker for that repository. The option to restore the configuration is made by restoring a tar file with the /lib and /etc/modules* files and folders backed up.</text:span></text:p>
+   <text:p text:style-name="P29"><text:soft-page-break/>In situations where the computer needs to be restarted the client <text:span text:style-name="T49">embeds it’s startup in the X windows startup folders as well as in the ~/.bashrc file in cases where a terminal run is needed. </text:span></text:p>
    <text:p text:style-name="P40">Options to restore the configuration files are made available by starting up by graphical and non graphical means.</text:p>
-   <text:p text:style-name="P40">I feel it important to mention malicious code. If an install wrecks a system due to a bad makefile I would lose credit as being the cause of it. <text:s/><text:span text:style-name="T47">Also if trojan horses are bundled into the confuiguration businesses and users could <text:s/>be at risk.</text:span> The triage system could involve only users with a high stack overflow rating to triage applications. <text:span text:style-name="T47">Many users with a high reputation could be configured to manipulate the triage system in favour of exploiting this process to leave projects in the system containing malware.</text:span> <text:s/>Reference to these users could be made using Oauth requests as previously mentioned. Another alternative is to <text:span text:style-name="T47">leave a 2 week wait on code in the hope that anything malicious will be removed from the site. <text:s/>In cases where a rare configuration is used it could still cause havoc. <text:s/></text:span></text:p>
+   <text:p text:style-name="P40">I feel it important to mention malicious code. If an install wrecks a system due to a bad makefile I would lose credit as being the cause of it. <text:s/><text:span text:style-name="T50">Also if trojan horses are bundled into the configuration businesses and users could <text:s/>be at risk.</text:span> The triage system could involve only users with a high stack overflow rating to triage applications. <text:span text:style-name="T50">Many users with a high reputation could be configured to manipulate the triage system in favour of exploiting this process to leave projects in the system containing malware.</text:span> <text:s/>Reference to these users could be made using Oauth requests as previously mentioned. Another alternative is to <text:span text:style-name="T50">leave a 2 week wait on code in the hope that anything malicious will be removed from the site. <text:s/>In cases where a rare configuration is used it could still cause havoc. <text:s/></text:span></text:p>
    <text:p text:style-name="P128">We are inserting code into the kernel. Nothing can mitigate against this directly, even running the code in a virtual machine and seeing the consequences of running the code may miss a time based action.</text:p>
    <text:p text:style-name="P127"/>
    <text:p text:style-name="P150">Design:</text:p>
    <text:p text:style-name="P96">Overall architecture choices:</text:p>
-   <text:p text:style-name="P96"><text:span text:style-name="T28">Database</text:span>: <text:span text:style-name="T28">MariaDB,</text:span> an open source msyql compatible database. </text:p>
-   <text:p text:style-name="P97">Backend: JavaEE provides a web based framework, using Javabeans to communicate with the back end database with ease, as well as the serving of web pages as JSP dymanic pages. An alternative would have been PHP. <text:s/></text:p>
-   <text:p text:style-name="P97">Frontend: I could have written this in Java, which does support the execution of commands. <text:s/>However the community, if this project is adopted would continue to develop this in C++, as most software for linux is written in this language (and C). <text:s/></text:p>
-   <text:p text:style-name="P97">Host operating system: <text:span text:style-name="T49">Ubuntu is the most popular operating system for novice users of linux. It supports the installation of custom software using a graphical environment. Whilst it would be nice to support all versions of linux on mulitple architectures with multiple kernels this is beyond the scope of my project, which might mutate into the afformentioned after this project has been shared with the linux community.</text:span></text:p>
-   <text:p text:style-name="P97">Web server: Apache. With several plugins Apache may not be the fastest web server out there but it has useful modules, <text:span text:style-name="T49">including &lt;FIX&gt;. SSL support is </text:span><text:soft-page-break/><text:span text:style-name="T49">enabled using letsencrypt, a free SSL certificate provider. This is needed to prevent warnings about insecure forms appearing on connecting web browsers <text:s/>when submitting information.</text:span></text:p>
+   <text:p text:style-name="P96"><text:span text:style-name="T31">Database</text:span>: <text:span text:style-name="T31">MariaDB,</text:span> an open source MySQL compatible database. </text:p>
+   <text:p text:style-name="P97">Backend: JavaEE provides a web based framework, using Java beans to communicate with the back end database with ease, as well as the serving of web pages as JSP dynamic pages. An alternative would have been PHP. <text:s/></text:p>
+   <text:p text:style-name="P97">Frontend: I could have written this in Java, which does support the execution of commands. <text:s/>However the community, if this project is adopted would continue to develop this in C++, as most software for Linux is written in this language (and C). <text:s/></text:p>
+   <text:p text:style-name="P97">Host operating system: <text:span text:style-name="T52">Ubuntu is the most popular operating system for novice users of Linux. It supports the installation of custom software using a graphical environment. Whilst it would be nice to support all versions of Linux on multiple architectures with multiple kernels this is beyond the scope of my project, which might mutate into the aforementioned after this project has been shared with the Linux community.</text:span></text:p>
+   <text:p text:style-name="P97">Web server: Apache. With several plug ins Apache may not be the fastest web server out there but it has useful modules, <text:span text:style-name="T52">including &lt;FIX&gt;. SSL support is </text:span><text:soft-page-break/><text:span text:style-name="T52">enabled using lets encrypt, a free SSL certificate provider. This is needed to prevent warnings about insecure forms appearing on connecting web browsers <text:s/>when submitting information.</text:span></text:p>
    <text:p text:style-name="P133">In order to serve the JSP files and run the backend I am using the Tomcat8 server.</text:p>
    <text:p text:style-name="P79">Copyright:</text:p>
-   <text:p text:style-name="P78">Seeing as this project uses parts of the Linux kernel, as far as I am aware that means that this code must also be released as an open source project. <text:s/><text:span text:style-name="T50">This is also </text:span>convienient to bypass the university’s copyright issues. <text:s/></text:p>
+   <text:p text:style-name="P78">Seeing as this project uses parts of the Linux kernel, as far as I am aware that means that this code must also be released as an open source project. <text:s/><text:span text:style-name="T53">This is also convenient</text:span> to bypass the university’s copyright issues. <text:s/></text:p>
    <text:p text:style-name="P80">Makefile identifiers:</text:p>
-   <text:p text:style-name="P80">in order to parse information from the <text:span text:style-name="T51">tuxconfig configuration </text:span>file we need to use non obvious identifers to the strings we are referencing. Otherwise a situation may arise whereby the contributor references a variable of the same name and the system becomes poorly configured.</text:p>
+   <text:p text:style-name="P80">in order to parse information from the <text:span text:style-name="T54">tuxconfig configuration </text:span>file we need to use non obvious identifiers to the strings we are referencing. Otherwise a situation may arise whereby the contributor references a variable of the same name and the system becomes poorly configured.</text:p>
    <text:p text:style-name="P78">Versioning:</text:p>
-   <text:p text:style-name="P130">If the user wishes to make more than one version of a repository available this is possible using different commits, of course a new commit will have to have it’s commit hash verfied by the maintainers of this project,</text:p>
+   <text:p text:style-name="P130">If the user wishes to make more than one version of a repository available this is possible using different commits, of course a new commit will have to have it’s commit hash verified by the maintainers of this project,</text:p>
    <text:p text:style-name="P80">Hosting:</text:p>
-   <text:p text:style-name="P80">Kent University provide a dedicated cluster with openstack deployments of Linux servers. However the servers are currently only avialable to local users or those of a Virtual Private Network. <text:s/>For now I am using a digitalocean droplet to host the code. <text:s/><text:span text:style-name="T53">This is necessary as the oauth callbacks must point to a url in order to respond with the correct Oauth token.</text:span></text:p>
+   <text:p text:style-name="P80">Kent University provide a dedicated cluster with open stack deployments of Linux servers. However the servers are currently only available to local users or those of a Virtual Private Network. <text:s/>For now I am using a digital ocean droplet to host the code. <text:s/><text:span text:style-name="T56">This is necessary as the oauth callbacks must point to a URL in order to respond with the correct Oauth token.</text:span></text:p>
    <text:p text:style-name="P80"/>
    <text:p text:style-name="P94"/>
-   <text:p text:style-name="P94">The path to the java servlet instance is behind an obscuficated url, in this case “/hehe”. This is to stop bots and other people observing this project and completing it for themselves.</text:p>
+   <text:p text:style-name="P94">The path to the Java servlet instance is behind an obfuscated URL, in this case “/hehe”. This is to stop bots and other people observing this project and completing it for themselves.</text:p>
    <text:p text:style-name="P86">Updates:</text:p>
-   <text:p text:style-name="P130">If a device configuration comes out which is more popular than the current one (as derived by upvotes – downvotes) this result can be compared to the popularity of the current device configuration and a new version can be downloaded and run. This does not cause a positive recursion problem as <text:span text:style-name="T51">the success or failure of installing </text:span>new version will also be voted on by the client user.</text:p>
+   <text:p text:style-name="P130">If a device configuration comes out which is more popular than the current one (as derived by upvotes – downvotes) this result can be compared to the popularity of the current device configuration and a new version can be downloaded and run. This does not cause a positive recursion problem as <text:span text:style-name="T54">the success or failure of installing </text:span>new version will also be voted on by the client user.</text:p>
    <text:p text:style-name="P88">Permissions:</text:p>
-   <text:p text:style-name="P88"><text:soft-page-break/>As the target user will be limited in their knowledge of Linux they may not understand the concept of root as the administrative user. <text:s/><text:span text:style-name="T51">The system was built on my Debain instance for which gksudo is available. When installed under Ubuntu I realised that gksudo was depreciated, with pkexec as an alternative. <text:s/>In it’s place I am using sudo -H in the desktop shortcut file and sudo when the program is in terminal mode.</text:span></text:p>
+   <text:p text:style-name="P88"><text:soft-page-break/>As the target user will be limited in their knowledge of Linux they may not understand the concept of root as the administrative user. <text:s/><text:span text:style-name="T54">The system was built on my Debian instance for which gksudo is available. When installed under Ubuntu I realised that gksudo was depreciated, with pkexec as an alternative. <text:s/>In it’s place I am using sudo -H in the desktop shortcut file and sudo when the program is in terminal mode.</text:span></text:p>
    <text:p text:style-name="P131">Graphics:</text:p>
    <text:p text:style-name="P131">A bash script to ascertain if the GUI is running has been written as the file tuxconfig_cmd. It runs the program in recovery mode if the Graphics are not running as it believes this means that a poor configuration of the graphics drivers has been run and therefore the configuration must be recovered.</text:p>
-   <text:p text:style-name="P88">As in tradition with linux the /<text:span text:style-name="T51">var/lib/tuxconfig folder will be used as the working directory of the program.</text:span></text:p>
+   <text:p text:style-name="P88">As in tradition with Linux the /<text:span text:style-name="T54">var/lib/tuxconfig folder will be used as the working directory of the program.</text:span></text:p>
    <text:p text:style-name="P89">Multiple device support:</text:p>
-   <text:p text:style-name="P89">I realised having installed a wireless .ac usb dongle that one kernel module can support multiple devices. Therefore the <text:span text:style-name="T51">tuxconfig</text:span> configuration file will allow multiple devices to be entered into the database. <text:span text:style-name="T26">The devices table in the database will need to be split into a table for devices and a table for the configuration variables which apply to those devices. One being device_id and one being a reference to the configuration optionsfor a particular repository.</text:span></text:p>
+   <text:p text:style-name="P89">I realised having installed a wireless .ac USB dongle that one kernel module can support multiple devices. Therefore the <text:span text:style-name="T54">tuxconfig</text:span> configuration file will allow multiple devices to be entered into the database. <text:span text:style-name="T29">The devices table in the database will need to be split into a table for devices and a table for the configuration variables which apply to those devices. One being device_id and one being a reference to the configuration options for a particular repository.</text:span></text:p>
    <text:p text:style-name="P89">Multiple distribution support:</text:p>
    <text:p text:style-name="P131">For now checks are made to ensure the client program is running from Ubuntu, this could be changed to provide client side identification of other operating systems.</text:p>
-   <text:p text:style-name="P91">As module source code is made for each operating system on GitHub <text:span text:style-name="T52">in source code which is then compiled for each architecture and operating system we could </text:span>allow one repository to support multiple operating systems. </text:p>
+   <text:p text:style-name="P91">As module source code is made for each operating system on GitHub <text:span text:style-name="T55">in source code which is then compiled for each architecture and operating system we could </text:span>allow one repository to support multiple operating systems. </text:p>
    <text:p text:style-name="P132">Apt install packages:</text:p>
-   <text:p text:style-name="P132">Apt-undo is a script which allows the rolling back of repository changes. I prpopse using this sysetm to reset the package installs of attempts to configure the device. In cases where the system has not made any changes to the pakcage structure <text:span text:style-name="T53">(where the dependencies variable is empty)</text:span> the roolback command will not be run as this would revert genuine changes to the package structure.</text:p>
+   <text:p text:style-name="P132">Apt-undo is a script which allows the rolling back of repository changes. I propose using this system to reset the package installs of attempts to configure the device. In cases where the system has not made any changes to the package structure <text:span text:style-name="T56">(where the dependencies variable is empty)</text:span> the rollback command will not be run as this would revert genuine changes to the package structure.</text:p>
    <text:p text:style-name="P90">Naming:</text:p>
    <text:p text:style-name="P90">The name Linuxconf is taken, so I propose tuxconfig,</text:p>
    <text:p text:style-name="P91">Contributing:</text:p>
-   <text:p text:style-name="P132"><text:soft-page-break/>We could use a client program to test the configuration works for a different device, as well as ensuring the paramters are set correctly. This is already done by the back-end when the repository is added to the project, and therefore duplicate code. <text:s/>There are cases where a developer might take someone else’s code and make it available for other devices with the same chipset, therefore not requiring a device to test an install on.</text:p>
-   <text:p text:style-name="P132">Purging delet<text:span text:style-name="T53">e</text:span>d repositories:</text:p>
+   <text:p text:style-name="P132"><text:soft-page-break/>We could use a client program to test the configuration works for a different device, as well as ensuring the parameters are set correctly. This is already done by the back-end when the repository is added to the project, and therefore duplicate code. <text:s/>There are cases where a developer might take someone else’s code and make it available for other devices with the same chipset, therefore not requiring a device to test an install on.</text:p>
+   <text:p text:style-name="P132">Purging delet<text:span text:style-name="T56">e</text:span>d repositories:</text:p>
    <text:p text:style-name="P118">If a repository is removed from github the backend realises this and deletes the repository. In cases where a malicious repository can be set up with the same name as a valid repository this attack will fail as the git commit will be different for each of the listed repositories.</text:p>
    <text:p text:style-name="P118"/>
    <text:p text:style-name="P151"/>
-   <text:p text:style-name="P132">The client clones a repository from github.com, before checking out a particular commit. It runs a bash file which then runs “make” to build the code, before running “make install” to install the module to the /lib direcotry. <text:s/>It then inserts the module into the kernel. <text:s/>If any errors occur during this process the error is trapped by a function in the executable bash file and a SIGUSR2 kill signal is sent to the running C++ application. <text:span text:style-name="T53">A log of the running install script is then sent to the back end to be posted on the issue tracker. In order to show the minimum amount of information to the user bash stdout Is sent to /dev/null and stderr is displayed to the user. This reduces the amount of information displayed to the user and only displays errors which might be worth noting.</text:span></text:p>
-   <text:p text:style-name="P132">In cases where an install succeeds without error a SIGUSR1 kill signal is sent to the running application. The testing program is launched and the user can comment on it’s success. The testing program could be “cheese” in installs of a webcam, <text:span text:style-name="T53">or x-www-browser youtube.com/video to check the workings of a sounddcard.</text:span></text:p>
+   <text:p text:style-name="P132">The client clones a repository from github.com, before checking out a particular commit. It runs a bash file which then runs “make” to build the code, before running “make install” to install the module to the /lib directory. <text:s/>It then inserts the module into the kernel. <text:s/>If any errors occur during this process the error is trapped by a function in the executable bash file and a SIGUSR2 kill signal is sent to the running C++ application. <text:span text:style-name="T56">A log of the running install script is then sent to the back end to be posted on the issue tracker. In order to show the minimum amount of information to the user bash stdout Is sent to /dev/null and stderr is displayed to the user. This reduces the amount of information displayed to the user and only displays errors which might be worth noting.</text:span></text:p>
+   <text:p text:style-name="P132">In cases where an install succeeds without error a SIGUSR1 kill signal is sent to the running application. The testing program is launched and the user can comment on it’s success. The testing program could be “cheese” in installs of a webcam, <text:span text:style-name="T56">or x-www-browser youtube.com/video to check the workings of a sound card.</text:span></text:p>
    <text:p text:style-name="P132">Where successful installs have occurred the user is then directed to a tab displaying the details of the contributor.</text:p>
    <text:p text:style-name="P65">Makefiles built from a configure script will not be included as part of this project, as there are too many variables to consider.</text:p>
    <text:p text:style-name="P134">History file:</text:p>
-   <text:p text:style-name="P135">A file stored at /var/lib/tuxonfig/history contains the history of the run of this project. It is used by the restore command to revert the system to it’s previous state, as well as informing the general tab in the appliction as to what has been installed and what can be upgraded.</text:p>
-   <text:p text:style-name="P66"><text:soft-page-break/>A template expected from the developers contributing to this project will be available here <text:a xlink:type="simple" xlink:href="https://linxuconf.feedthepenguin.org/hehe/Contribute.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T53">https://linxuconf.feedthepenguin.org/hehe/Contribute.html</text:span></text:a><text:span text:style-name="T53">.</text:span></text:p>
+   <text:p text:style-name="P135">A file stored at /var/lib/tuxonfig/history contains the history of the run of this project. It is used by the restore command to revert the system to it’s previous state, as well as informing the general tab in the application as to what has been installed and what can be upgraded.</text:p>
+   <text:p text:style-name="P66"><text:soft-page-break/>A template expected from the developers contributing to this project will be available here <text:a xlink:type="simple" xlink:href="https://linxuconf.feedthepenguin.org/hehe/Contribute.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T56">https://linxuconf.feedthepenguin.org/hehe/Contribute.html</text:span></text:a><text:span text:style-name="T56">.</text:span></text:p>
    <text:p text:style-name="P139">Deriving installed devices:</text:p>
    <text:p text:style-name="P141">The program lshw, with the argument “-numeric” lists all devices in a system including the device id. The front end parses this document before connecting to the back end to retrieve information on any configuration <text:s/>details which have been added to the system.</text:p>
    <text:p text:style-name="P138">Device ids:</text:p>
    <text:p text:style-name="P141">These take the format nnnn:nnnn, where n is a hexadecimal character.</text:p>
-   <text:p text:style-name="P138">When running lshw – numeric devices are listed with zeros at the beginning and end of the device id ommited. In lsusb these are implemented. <text:s/>For the client using device ids in this fashion is ok, however for the backend these must be taken into account.</text:p>
-   <text:p text:style-name="P138">Therefore on the backend if the device string is less than four characters at each side of their separating colon the zeros are added before the device is logged in the database, <text:span text:style-name="T58">and added when a device is retrieved using it’s id.</text:span></text:p>
+   <text:p text:style-name="P138">When running lshw – numeric devices are listed with zeros at the beginning and end of the device id omitted. In lsusb these are implemented. <text:s/>For the client using device ids in this fashion is OK, however for the backend these must be taken into account.</text:p>
+   <text:p text:style-name="P138">Therefore on the backend if the device string is less than four characters at each side of their separating colon the zeros are added before the device is logged in the database, <text:span text:style-name="T61">and added when a device is retrieved using it’s id.</text:span></text:p>
    <text:p text:style-name="P138"/>
    <text:p text:style-name="P149">Webpage:</text:p>
    <text:p text:style-name="P149">&lt;image gitauth.html&gt;</text:p>
-   <text:p text:style-name="P147">This is the landing page for the application. <text:s/>It allows user<text:span text:style-name="T56">s to download the project as a Debian package, as well as allowing developers to login using the Oauth protocol to github which then authorises the back end to act on their behalf with regard to the users’ public repositories. <text:s/></text:span></text:p>
+   <text:p text:style-name="P147">This is the landing page for the application. <text:s/>It allows user<text:span text:style-name="T59">s to download the project as a Debian package, as well as allowing developers to login using the Oauth protocol to github which then authorises the back end to act on their behalf with regard to the users’ public repositories. <text:s/></text:span></text:p>
    <text:p text:style-name="P148">&lt;image createuser.jsp&gt;</text:p>
-   <text:p text:style-name="P148">This page derives the information from github to ascertain the developer’s details which is parsed from a received JSON array using the “repo” scope. <text:s/>It lists the public repositories available for the developer to contribute. On selecting the repository the devleoper would like to contribute the repoitory is copied into the /tmp direcotry on the server instance. This is then parsed to get the commit has of the repsitory before the tuxconfig file is checked to ensure it exists and the parameters for the tuxcofig file are set correctly. <text:s/>The data copied into the system is not used beyond this by the server, which instead points to the github url.</text:p>
+   <text:p text:style-name="P148">This page derives the information from github to ascertain the developer’s details which is parsed from a received JSON array using the “repo” scope. <text:s/>It lists the public repositories available for the developer to contribute. On selecting the repository the developer would like to contribute the repository is copied into the /tmp directory on the server instance. This is then parsed to get the commit has of the repository before the tuxconfig file is checked to ensure it exists and the parameters for the tuxcofig file are set correctly. <text:s/>The data copied into the system is not used beyond this by the server, which instead points to the github URL.</text:p>
    <text:p text:style-name="P148">&lt;image VetConfigurations&gt;</text:p>
    <text:p text:style-name="P148">This page allows an administrator logged into localhost to approve, revoke or delete a submitted repository submitted by a developer.</text:p>
    <text:p text:style-name="P149">GUI:</text:p>
-   <text:p text:style-name="P133"><text:soft-page-break/>Initally I was using mutipule windows for notifications. <text:span text:style-name="T54">This was hard to navigate, involving an aplication tab, runnign console and test program with a success or failure dialog box. <text:s/></text:span>This has been consolidated into one window of five tabs, each with a different purpose. <text:s/>One tab is a terminal widget from which the scripts will be run for install, uninstall, restore and upgrade.</text:p>
-   <text:p text:style-name="P135"><text:span text:style-name="T56">&lt;</text:span>image about tab&gt;</text:p>
+   <text:p text:style-name="P133"><text:soft-page-break/>Initially I was using multiple windows for notifications. <text:span text:style-name="T57">This was hard to navigate, involving an application tab, running console and test program with a success or failure dialog box. <text:s/></text:span>This has been consolidated into one window of five tabs, each with a different purpose. <text:s/>One tab is a terminal widget from which the scripts will be run for install, uninstall, restore and upgrade.</text:p>
+   <text:p text:style-name="P135"><text:span text:style-name="T59">&lt;</text:span>image about tab&gt;</text:p>
    <text:p text:style-name="P135">Explains what the program is for, links to the General tab and restore tab.</text:p>
    <text:p text:style-name="P135">&lt;image general tab&gt;</text:p>
    <text:p text:style-name="P135">Replace option: Device install options only available where they exist in the database. </text:p>
-   <text:p text:style-name="P135">Uninstall option: The option to uninstall devices only exists where one has been installed by this application, otherwise people would uninstall devices where there is no replacemnet, leaving a naieve user without a functioning machine.</text:p>
+   <text:p text:style-name="P135">Uninstall option: The option to uninstall devices only exists where one has been installed by this application, otherwise people would uninstall devices where there is no replacement, leaving a naive user without a functioning machine.</text:p>
    <text:p text:style-name="P135">Upgrade option: when the device is installed a log is kept in the history file /var/lib/tuxconfig/history. <text:s/>If the database has a higher rated install for a particular device id the option to upgrade the device is shown. <text:s/>As the success of a device is upvotes – downvotes this feature is not time critical. </text:p>
-   <text:p text:style-name="P136">The tab can be refreshed at any time by clicking on the “rescan usb bus” button.</text:p>
+   <text:p text:style-name="P136">The tab can be refreshed at any time by clicking on the “rescan USB bus” button.</text:p>
    <text:p text:style-name="P135">&lt;image restore tab&gt;</text:p>
-   <text:p text:style-name="P135">Entered automatically when the program is run with a “recover” argument. This allows a user to restore from a previous install, at whichever point it got to. <text:s/>This is done by extracting the tar of the /lib/ directory and the /etc/modules* files. In cases where the wireless adaptor has been taken out of action the system can restore itself without requiring access to the internet. <text:span text:style-name="T56">In cases where a user has not yet voted on the success of an install this option is made available. In cases where a device configuration has been altered the tab is updated by parsing the history file again.</text:span></text:p>
+   <text:p text:style-name="P135">Entered automatically when the program is run with a “recover” argument. This allows a user to restore from a previous install, at whichever point it got to. <text:s/>This is done by extracting the tar of the /lib/ directory and the /etc/modules* files. In cases where the wireless adaptor has been taken out of action the system can restore itself without requiring access to the internet. <text:span text:style-name="T59">In cases where a user has not yet voted on the success of an install this option is made available. In cases where a device configuration has been altered the tab is updated by parsing the history file again.</text:span></text:p>
    <text:p text:style-name="P135">&lt;image console tab&gt;</text:p>
-   <text:p text:style-name="P135">Running qtermwidget this tab displays the actions triggered by the install and recover commands, On receiving SIGUSR1 the console displays two buttons and launches the test program. The user votes on the success of an install using these and the result is sent to the backend and stored in the databsae. In cases where the install has failed no buttons appear and the error logs are sent to the back end. <text:s/><text:span text:style-name="T56">In cases where an install has failed the program selects the restore tab for the user to restore the configuration.</text:span></text:p>
+   <text:p text:style-name="P135">Running qtermwidget this tab displays the actions triggered by the install and recover commands, On receiving SIGUSR1 the console displays two buttons and launches the test program. The user votes on the success of an install using these and the result is sent to the backend and stored in the database. In cases where the install has failed no buttons appear and the error logs are sent to the back end. <text:s/><text:span text:style-name="T59">In cases where an install has failed the program selects the restore tab for the user to restore the configuration.</text:span></text:p>
    <text:p text:style-name="P135">&lt;image contributor tab&gt;</text:p>
-   <text:p text:style-name="P135"><text:soft-page-break/>This displays the details of the contributing user in cases where the device has installed correctly. It comprises of the users’ github profile and bio, along with a website for the user and their email address. <text:s/>On clicking the email link the originating user (remember this process runs as root) the xdg-email program is opened for the logged in user to write to the contributing developer. Similrarly the webpage for the user is opened by the logged in user by clicking on the http link for the conributing developer.</text:p>
+   <text:p text:style-name="P135"><text:soft-page-break/>This displays the details of the contributing user in cases where the device has installed correctly. It comprises of the users’ github profile and bio, along with a website for the user and their email address. <text:s/>On clicking the email link the originating user (remember this process runs as root) the xdg-email program is opened for the logged in user to write to the contributing developer. Similarly the webpage for the user is opened by the logged in user by clicking on the http link for the contributing developer.</text:p>
    <text:p text:style-name="P135"/>
    <text:p text:style-name="P135">RestoreCmd:</text:p>
    <text:p text:style-name="P136">&lt;image restoreCmd&gt;</text:p>
-   <text:p text:style-name="P136">This is a simple text based aspect of the application which asks the user if everything is installed correctly. It is run automatically by the .bashrc file of the user’s home directory. <text:s/>It first asks if everything was configured ok, before asking the user to enter the device_id of the configuration which failed. The latest written backup tar archive for that device id and commit is then restored to the system.</text:p>
+   <text:p text:style-name="P136">This is a simple text based aspect of the application which asks the user if everything is installed correctly. It is run automatically by the .bashrc file of the user’s home directory. <text:s/>It first asks if everything was configured OK, before asking the user to enter the device_id of the configuration which failed. The latest written backup tar archive for that device id and commit is then restored to the system.</text:p>
    <text:p text:style-name="P136"/>
    <text:p text:style-name="P108"/>
    <text:p text:style-name="P56">The system comprises four major components, as illustrated below:</text:p>
@@ -5224,7 +5242,7 @@
    <text:p text:style-name="P143">+---------------------+</text:p>
    <text:p text:style-name="P143">| contributor <text:s text:c="8"/>|</text:p>
    <text:p text:style-name="P143">| devices <text:s text:c="12"/>|</text:p>
-   <text:p text:style-name="P143">| git_url <text:s text:c="12"/>|</text:p>
+   <text:p text:style-name="P143">| git_URL <text:s text:c="12"/>|</text:p>
    <text:p text:style-name="P143">| success_code <text:s text:c="7"/>|</text:p>
    <text:p text:style-name="P143">| user <text:s text:c="15"/>|</text:p>
    <text:p text:style-name="P143">+---------------------+</text:p>
@@ -5239,7 +5257,7 @@
    <text:p text:style-name="P143">| git_token <text:s/>| varchar(255) | YES <text:s/>| <text:s text:c="4"/>| NULL <text:s text:c="3"/>| <text:s text:c="6"/>|</text:p>
    <text:p text:style-name="P143">| location <text:s text:c="2"/>| varchar(30) <text:s/>| YES <text:s/>| <text:s text:c="4"/>| NULL <text:s text:c="3"/>| <text:s text:c="6"/>|</text:p>
    <text:p text:style-name="P143">| name <text:s text:c="6"/>| varchar(30) <text:s/>| YES <text:s/>| <text:s text:c="4"/>| NULL <text:s text:c="3"/>| <text:s text:c="6"/>|</text:p>
-   <text:p text:style-name="P143">| avatar_url | varchar(200) | YES <text:s/>| <text:s text:c="4"/>| NULL <text:s text:c="3"/>| <text:s text:c="6"/>|</text:p>
+   <text:p text:style-name="P143">| avatar_URL | varchar(200) | YES <text:s/>| <text:s text:c="4"/>| NULL <text:s text:c="3"/>| <text:s text:c="6"/>|</text:p>
    <text:p text:style-name="P143"/>
    <text:p text:style-name="P143">Devices:</text:p>
    <text:p text:style-name="P143">+---------------------+</text:p>
@@ -5247,16 +5265,16 @@
    <text:p text:style-name="P143">+---------------------+</text:p>
    <text:p text:style-name="P143">| contributor <text:s text:c="8"/>|</text:p>
    <text:p text:style-name="P143">| devices <text:s text:c="12"/>|</text:p>
-   <text:p text:style-name="P143">| git_url <text:s text:c="12"/>|</text:p>
+   <text:p text:style-name="P143">| git_URL <text:s text:c="12"/>|</text:p>
    <text:p text:style-name="P143">| success_code <text:s text:c="7"/>|</text:p>
    <text:p text:style-name="P143">| user <text:s text:c="15"/>|</text:p>
    <text:p text:style-name="P143">+---------------------+</text:p>
-   <text:p text:style-name="P144">git_url:</text:p>
+   <text:p text:style-name="P144">git_URL:</text:p>
    <text:p text:style-name="P144">+----------------+--------------+------+-----+---------+-------+</text:p>
    <text:p text:style-name="P144">| Field <text:s text:c="9"/>| Type <text:s text:c="8"/>| Null | Key | Default | Extra |</text:p>
    <text:p text:style-name="P144">+----------------+--------------+------+-----+---------+-------+</text:p>
    <text:p text:style-name="P144">| owner_git_id <text:s text:c="2"/>| int(11) <text:s text:c="5"/>| NO <text:s text:c="2"/>| PRI | NULL <text:s text:c="3"/>| <text:s text:c="6"/>|</text:p>
-   <text:p text:style-name="P144">| git_url <text:s text:c="7"/>| varchar(189) | YES <text:s/>| <text:s text:c="4"/>| NULL <text:s text:c="3"/>| <text:s text:c="6"/>|</text:p>
+   <text:p text:style-name="P144">| git_URL <text:s text:c="7"/>| varchar(189) | YES <text:s/>| <text:s text:c="4"/>| NULL <text:s text:c="3"/>| <text:s text:c="6"/>|</text:p>
    <text:p text:style-name="P144">| upvotes <text:s text:c="7"/>| int(11) <text:s text:c="5"/>| YES <text:s/>| <text:s text:c="4"/>| 0 <text:s text:c="6"/>| <text:s text:c="6"/>|</text:p>
    <text:p text:style-name="P144">| downvotes <text:s text:c="5"/>| int(11) <text:s text:c="5"/>| YES <text:s/>| <text:s text:c="4"/>| 0 <text:s text:c="6"/>| <text:s text:c="6"/>|</text:p>
    <text:p text:style-name="P144">| commit_hash <text:s text:c="3"/>| varchar(128) | NO <text:s text:c="2"/>| PRI | NULL <text:s text:c="3"/>| <text:s text:c="6"/>|</text:p>
@@ -5272,17 +5290,17 @@
    <text:p text:style-name="P144">| success_code | varchar(64) <text:s/>| NO <text:s text:c="2"/>| PRI | NULL <text:s text:c="13"/>| <text:s text:c="28"/>|</text:p>
    <text:p text:style-name="P144">| timestamp <text:s text:c="3"/>| timestamp <text:s text:c="3"/>| NO <text:s text:c="2"/>| <text:s text:c="4"/>| CURRENT_TIMESTAMP | on update CURRENT_TIMESTAMP |</text:p>
    <text:p text:style-name="P144">| device_id <text:s text:c="3"/>| varchar(9) <text:s text:c="2"/>| YES <text:s/>| <text:s text:c="4"/>| NULL <text:s text:c="13"/>| <text:s text:c="28"/>|</text:p>
-   <text:p text:style-name="P144">| git_url <text:s text:c="5"/>| varchar(255) | YES <text:s/>| <text:s text:c="4"/>| NULL <text:s text:c="13"/>| <text:s text:c="28"/>|</text:p>
+   <text:p text:style-name="P144">| git_URL <text:s text:c="5"/>| varchar(255) | YES <text:s/>| <text:s text:c="4"/>| NULL <text:s text:c="13"/>| <text:s text:c="28"/>|</text:p>
    <text:p text:style-name="P144">+--------------+--------------+------+-----+-------------------+-----------------------------+</text:p>
    <text:p text:style-name="P143"/>
    <text:p text:style-name="P144">Foreign keys:</text:p>
    <text:p text:style-name="P144">&lt;FIX must implement&gt;</text:p>
    <text:p text:style-name="P144">&lt;FIX implement voting by success_code&gt;</text:p>
    <text:p text:style-name="P144"/>
-   <text:p text:style-name="P67">The client and server communicate using GET and POST requests, This makes implementation easier as I will no<text:span text:style-name="T57">t</text:span> have to create my own protocol. <text:s/><text:span text:style-name="T17">The server side can be tested using curl to simulate communication to the server from the command line, ensuring that the back end is working in the correct manner before building the client. </text:span></text:p>
-   <text:p text:style-name="P141">Backend libraies: </text:p>
+   <text:p text:style-name="P67">The client and server communicate using GET and POST requests, This makes implementation easier as I will no<text:span text:style-name="T60">t</text:span> have to create my own protocol. <text:s/><text:span text:style-name="T20">The server side can be tested using curl to simulate communication to the server from the command line, ensuring that the back end is working in the correct manner before building the client. </text:span></text:p>
+   <text:p text:style-name="P141">Backend libraries: </text:p>
    <text:p text:style-name="P144">&lt;fix&gt;</text:p>
-   <text:p text:style-name="P61">Communication can be done using Servlets interacting directly with the database, the following <text:span text:style-name="T57">Classes have been </text:span>built:</text:p>
+   <text:p text:style-name="P61">Communication can be done using Servlets interacting directly with the database, the following <text:span text:style-name="T60">Classes have been </text:span>built:</text:p>
    <table:table table:name="Table2" table:style-name="Table2">
     <table:table-column table:style-name="Table2.A"/>
     <table:table-column table:style-name="Table2.B"/>
@@ -5296,11 +5314,11 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table2.A2" office:value-type="string">
-      <text:p text:style-name="P138">CreateUser</text:p>
+      <text:p text:style-name="P138">Create User</text:p>
       <text:p text:style-name="P64"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.B2" office:value-type="string">
-      <text:p text:style-name="P156"><text:span text:style-name="T58">Adds user details to the database. </text:span>Imports a repository from Github.com, <text:span text:style-name="T58">tests the repository to ensure the tuxocnfig file is there with the required variables set.</text:span></text:p>
+      <text:p text:style-name="P156"><text:span text:style-name="T61">Adds user details to the database. </text:span>Imports a repository from Github.com, <text:span text:style-name="T61">tests the repository to ensure the tuxconfig file is there with the required variables set.</text:span></text:p>
       <text:p text:style-name="P153"/>
      </table:table-cell>
     </table:table-row>
@@ -5309,7 +5327,7 @@
       <text:p text:style-name="P141">CustomDataSource</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.B2" office:value-type="string">
-      <text:p text:style-name="P27">Used as part of the apache dbutils library for connecting to the mariadb database.</text:p>
+      <text:p text:style-name="P27">Used as part of the Apache dbutils library for connecting to the mariadb database.</text:p>
      </table:table-cell>
     </table:table-row>
     <text:soft-page-break/>
@@ -5318,7 +5336,7 @@
       <text:p text:style-name="P141">DBContributor</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.B2" office:value-type="string">
-      <text:p text:style-name="P27">JavaBean to hold information on the developer contributing the repository</text:p>
+      <text:p text:style-name="P27">Java Bean to hold information on the developer contributing the repository</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -5326,7 +5344,7 @@
       <text:p text:style-name="P141">DBDevice</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.B2" office:value-type="string">
-      <text:p text:style-name="P27">JavaBean to hold information for configured devices.</text:p>
+      <text:p text:style-name="P27">Java Bean to hold information for configured devices.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -5334,7 +5352,7 @@
       <text:p text:style-name="P141">DBSuccess</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.B2" office:value-type="string">
-      <text:p text:style-name="P27">JavaBean to hold information on the developer contributing the repository</text:p>
+      <text:p text:style-name="P27">Java Bean to hold information on the developer contributing the repository</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -5342,7 +5360,7 @@
       <text:p text:style-name="P141">GetContributorDetails</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.B2" office:value-type="string">
-      <text:p text:style-name="P27">Returns stored informaiton of the developer contributing a repository.</text:p>
+      <text:p text:style-name="P27">Returns stored information of the developer contributing a repository.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -5350,7 +5368,7 @@
       <text:p text:style-name="P141">GetDevice</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.B2" office:value-type="string">
-      <text:p text:style-name="P27">Returns information of <text:s/>configured device when found in the database. <text:span text:style-name="T60">Removes any devices which from the database which have been removed from github.</text:span></text:p>
+      <text:p text:style-name="P27">Returns information of <text:s/>configured device when found in the database. <text:span text:style-name="T63">Removes any devices which from the database which have been removed from github.</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -5374,7 +5392,7 @@
       <text:p text:style-name="P141">GitAuthCallback</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.B2" office:value-type="string">
-      <text:p text:style-name="P27">Store<text:span text:style-name="T59">s</text:span> informaiton of the developer in the database by referencing the <text:a xlink:type="simple" xlink:href="https://api.github.com/user" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://api.github.com/user</text:a> endpoint <text:span text:style-name="T59">downloaded as a JSON array</text:span>. Holds information of the public repositories which can be downloaded <text:span text:style-name="T59">in a session for the CreateUser.jsp Java server page to use.</text:span></text:p>
+      <text:p text:style-name="P27">Store<text:span text:style-name="T62">s</text:span> information of the developer in the database by referencing the <text:a xlink:type="simple" xlink:href="https://api.github.com/user" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://api.github.com/user</text:a> endpoint <text:span text:style-name="T62">downloaded as a JSON array</text:span>. Holds information of the public repositories which can be downloaded <text:span text:style-name="T62">in a session for the CreateUser.jsp Java server page to use.</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -5382,7 +5400,7 @@
       <text:p text:style-name="P143">ReportBack</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.B2" office:value-type="string">
-      <text:p text:style-name="P28">Accepts an incoming vote on the success or failrue of a device install. Stores this in the database for a particular git url and git commit.</text:p>
+      <text:p text:style-name="P28">Accepts an incoming vote on the success or failure of a device install. Stores this in the database for a particular git URL and git commit.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -5396,8 +5414,8 @@
    </table:table>
    <text:p text:style-name="P61"><text:line-break/></text:p>
    <text:p text:style-name="P61">C++ client:</text:p>
-   <text:p text:style-name="P120">Dep<text:span text:style-name="T57">endencies:</text:span></text:p>
-   <text:p text:style-name="P140">Boost, c++ functionality libraires.</text:p>
+   <text:p text:style-name="P120">Dep<text:span text:style-name="T60">endencies:</text:span></text:p>
+   <text:p text:style-name="P140">Boost, c++ functionality libraries.</text:p>
    <text:p text:style-name="P140">Aptitude, package manager.</text:p>
    <text:p text:style-name="P140">Apt-undo, apt replacement which records actions, allowing them to be reverted.</text:p>
    <text:p text:style-name="P140">Curlpp, C++ bindings for the curl program.</text:p>
@@ -5405,14 +5423,14 @@
    <text:p text:style-name="P140">qt5-default, QT graphical toolkit runtime libraries. </text:p>
    <text:p text:style-name="P144">QtermWidget, to provide a console application as part of the GUI.</text:p>
    <text:p text:style-name="P144">Git, to clone the repositories</text:p>
-   <text:p text:style-name="P124"><text:span text:style-name="T57">F</text:span>iles:</text:p>
-   <text:p text:style-name="P124"><text:soft-page-break/><text:s/>/<text:span text:style-name="T56">usr/share/pixmaps/</text:span>tux.png <text:span text:style-name="T56">(splash screen).</text:span></text:p>
-   <text:p text:style-name="P124"><text:span text:style-name="T56">/usr/share/pixmapstux2</text:span>.png<text:span text:style-name="T56">(icon)</text:span></text:p>
-   <text:p text:style-name="P124">/<text:span text:style-name="T57">usr/local/bin</text:span>apt-undo</text:p>
-   <text:p text:style-name="P124">/<text:span text:style-name="T57">usr/bin/</text:span>tuxconfig-cmd <text:span text:style-name="T56">(bash script to check if graphics are running).</text:span></text:p>
-   <text:p text:style-name="P137">/<text:span text:style-name="T57">usr/bin/t</text:span>uxconfig (main application).</text:p>
-   <text:p text:style-name="P137">/<text:span text:style-name="T58">usr/share/applications/desktop/tuxconfig.desktop.</text:span></text:p>
-   <text:p text:style-name="P142">These are added to a Debian package for the user to downlaod and install.</text:p>
+   <text:p text:style-name="P124"><text:span text:style-name="T60">F</text:span>iles:</text:p>
+   <text:p text:style-name="P124"><text:soft-page-break/><text:s/>/<text:span text:style-name="T59">usr/share/pixmaps/</text:span>tux.png <text:span text:style-name="T59">(splash screen).</text:span></text:p>
+   <text:p text:style-name="P124"><text:span text:style-name="T59">/usr/share/pixmapstux2</text:span>.png<text:span text:style-name="T59">(icon)</text:span></text:p>
+   <text:p text:style-name="P124">/<text:span text:style-name="T60">usr/local/bin/apt-undo</text:span></text:p>
+   <text:p text:style-name="P124">/<text:span text:style-name="T60">usr/bin/</text:span>tuxconfig-cmd <text:span text:style-name="T59">(bash script to check if graphics are running).</text:span></text:p>
+   <text:p text:style-name="P137">/<text:span text:style-name="T60">usr/bin/t</text:span>uxconfig (main application).</text:p>
+   <text:p text:style-name="P137">/<text:span text:style-name="T61">usr/share/applications/desktop/tuxconfig.desktop.</text:span></text:p>
+   <text:p text:style-name="P142">These are added to a Debian package for the user to download and install.</text:p>
    <text:p text:style-name="P144">&lt;fix implement skip network check on recover&gt;</text:p>
    <text:p text:style-name="P145"/>
    <text:p text:style-name="P144">The program uses a tabbed graphical interface with buttons and a console tab to receive input from the user. <text:s/>It checks for a network connection when running, if not in recover mode. </text:p>
@@ -5422,17 +5440,17 @@
    <text:p text:style-name="P60"/>
    <text:p text:style-name="P136">Testing:</text:p>
    <text:p text:style-name="P114"/>
-   <text:p text:style-name="P107">Testing, refresh<text:span text:style-name="T33">ed</text:span> createuser page. <text:span text:style-name="T33">Returns to gitauth.html when session obkjects not found.</text:span></text:p>
+   <text:p text:style-name="P107">Testing, refresh<text:span text:style-name="T36">ed</text:span> createuser page. <text:span text:style-name="T36">Returns to gitauth.html when session objects not found.</text:span></text:p>
    <text:p text:style-name="P100">FIX how it could be improved.</text:p>
    <text:p text:style-name="P101">Multiple distribution <text:s/>support.</text:p>
    <text:p text:style-name="P101"/>
    <text:p text:style-name="P101"/>
    <text:p text:style-name="P58">Conclusion:</text:p>
    <text:p text:style-name="P57"/>
-   <text:p text:style-name="P57">I like to think that, using Github and standard protocols, i have made a complicated proposal quite simple.</text:p>
-   <text:p text:style-name="P96">I’ve used a variety of technologies, including c++, java, web based technologies including javascript, databases using mysql as well as linux commands written in bash, requiring a good knoledge of the linux filesystem and linux commands. <text:s/>The proces of writing this code has dramatically <text:soft-page-break/>increased my understanding of C++, which, whilst being harder to master than Java I am starting to enjoy.</text:p>
-   <text:p text:style-name="P96">I’ve found that people are supprised at how easy Linux is to use, but not configure. I hope this project solves perhaps the biggest problem of Linux adoption. That of manually installing the drivers using the console to get up and running.</text:p>
-   <text:p text:style-name="P96">The linux kernel maintainers have / will be informed of this project, and I hope the Linux community will adopt it as a standardised platform for submitting and implementing drivers for the linux operating system, not only for Ubuntu but for each of the main distributions out there.</text:p>
+   <text:p text:style-name="P57">I like to think that, using Github and standard protocols, I have made a complicated proposal quite simple.</text:p>
+   <text:p text:style-name="P96">I’ve used a variety of technologies, including c++, Java, web based technologies including JavaScript, databases using MySQL as well as Linux commands written in bash, requiring a good knowledge of the Linux filesystem and Linux commands. <text:s/>The process of writing this code has dramatically <text:soft-page-break/>increased my understanding of C++, which, whilst being harder to master than Java I am starting to enjoy.</text:p>
+   <text:p text:style-name="P96">I’ve found that people are surprised at how easy Linux is to use, but not configure. I hope this project solves perhaps the biggest problem of Linux adoption. That of manually installing the drivers using the console to get up and running.</text:p>
+   <text:p text:style-name="P96">The Linux kernel maintainers have / will be informed of this project, and I hope the Linux community will adopt it as a standardised platform for submitting and implementing drivers for the Linux operating system, not only for Ubuntu but for each of the main distributions out there.</text:p>
    <text:p text:style-name="P96">Thanks for reading.</text:p>
    <text:p text:style-name="P96"/>
    <text:p text:style-name="P96">Rob Brew.</text:p>
@@ -5441,14 +5459,14 @@
    <text:p text:style-name="P109">library writers.</text:p>
    <text:p text:style-name="P109"/>
    <text:p text:style-name="P109"/>
-   <text:p text:style-name="P109">TODO:</text:p>
+   <text:p text:style-name="P109">TOO</text:p>
    <text:p text:style-name="P109">check git logins from other users.</text:p>
    <text:p text:style-name="P109">Fix warnings.</text:p>
    <text:p text:style-name="P109"/>
-   <text:p text:style-name="P129">Appendicies:</text:p>
+   <text:p text:style-name="P129">Appendices</text:p>
    <text:p text:style-name="P129">Logbook</text:p>
-   <text:p text:style-name="P129">:<text:span text:style-name="T15">Git logs </text:span>for the back and front end I am using:</text:p>
-   <text:p text:style-name="P59">I realised these can serve well for the log book, and as of 01 / 8 / 18 i am using the commit messages as my log book.</text:p>
+   <text:p text:style-name="P129">:<text:span text:style-name="T18">Git logs </text:span>for the back and front end I am using:</text:p>
+   <text:p text:style-name="P59">I realised these can serve well for the log book, and as of 01 / 8 / 18 I am using the commit messages as my log book.</text:p>
   </office:text>
  </office:body>
 </office:document>
