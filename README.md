@@ -23,6 +23,9 @@ configurations as submitted to GitHub.
 
 I am more than happy to continue work on this project as well as manage git pull requests.
 
+Web page at:
+https://linuxconf.feedthepenguin.org/hehe/index.jsp
+
 The front end code, written in c++ using QT is referenced here:
 https://git.cs.kent.ac.uk/rb602/tuxconfig-qt
 
@@ -31,3 +34,4 @@ https://git.cs.kent.ac.uk/rb602/dissertation-code-server
 
 This repository is of my dissertation, available here:
 https://git.cs.kent.ac.uk/rb602/dissertation-doc/blob/master/dissertation.fodt
+
