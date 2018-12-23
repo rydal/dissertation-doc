@@ -10,9 +10,11 @@ device configurations and vote on their success. Unsuccessful configurations wil
 In cases where a more suitable driver is available the user has the option to install it.
 A backup is made of the /etc/modules.* directory and /lib which can be restored in cases where an install breaks a machine.
 
-It is a proof of concept and still needs some work. at the moment it only works on Ubuntu 18.04. Adding multiple device support is possible.
+It is a proof of concept and still needs some work, the following are it's limitations:
+At the moment it only works on Ubuntu 18.04. Adding multiple device support is possible.
 In order to prevent false votes on the success of a device I propose adding a database table of the device serial numbers of hardware
 ensuring each device can only be voted on once, as well as cryptographically signing the information to the server using a public key.
+It needs to launch when a new device is plugged in.
 
 What I need for this to be successful:
 
