@@ -35,3 +35,5 @@ https://git.cs.kent.ac.uk/rb602/dissertation-code-server
 This repository is of my dissertation, available here:
 https://git.cs.kent.ac.uk/rb602/dissertation-doc/blob/master/dissertation.fodt
 
+Feel free to email me at:
+rb602@kent.ac.uk
