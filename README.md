@@ -32,7 +32,7 @@ https://github.com/rydal/tuxconfig-frontend
 The back end code, written in Java is here:
 https://github.com/rydal/tuxconfig-backend
 This repository is of my dissertation, available here:
-https://github.com/rydal/dissertation/dissertation.fodt
+https://github.com/rydal/dissertation-doc/dissertation.fodt
 
 Feel free to email me at:
 rb602@kent.ac.uk
