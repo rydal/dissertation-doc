@@ -34,7 +34,7 @@ I am more than happy to continue work on this project as well as manage git pull
 I have been using System() calls to bash to get things done quickly, obviously a final version will not use such methods.
 
 Web page at:
-https://linuxconf.feedthepenguin.org/hehe/index.jsp
+https://linuxconf.feedthepenguin.org/hehe/
 
 The front end code, written in c++ using QT is referenced here:
 https://github.com/rydal/tuxconfig-frontend 
