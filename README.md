@@ -2,14 +2,23 @@
 
 Hello and welcome to my project, my dissertation at Kent university and my contribution for the Linux community.
 
-
-This is both a platform for submitting device configurations and a client server system to install them on the host device.
-Submissions are made to a central server, before being verified as not malicious. The client user can download and install the
-device configurations and vote on their success. Unsuccessful configurations will be voted down by the system, whilst successful configurations are voted up by the system.
-
-In cases where a more suitable driver is available the user has the option to install it.
-A backup is made of the /etc/modules.* directory and /lib which can be restored in cases where an install breaks a machine.
-
+Despite it’s small memory footprint and install size, Linux is way behind
+windows when it comes to choices of operating systems, rarely bundled with a
+computer bought from a major supplier. One reason for this is the problem of
+configuring devices using a terminal console, forcing the user to enter obscure
+configuration commands to install the drivers to make a device work. Ubuntu,
+a major Linux distribution, has this covered in it’s restricted driver application,
+but the devices listed here are few and far between compared to the vast array
+of devices available on the market.
+Can there be, programmatically, a more effective means of installing obscure
+hardware, removing the need to type in commands to configure a device in
+place of a graphical tool to do so?
+This paper presents tuxconfig, a client application and server back-end to do
+just that.
+This is not only an application to install a significant array third party drivers. It
+is a platform from which knowledgeable Linux users can submit code to a
+centralised database for standard users to download, compile and install
+hardware drivers.
 It is a proof of concept and still needs some work, the following are it's limitations:
 At the moment it only works on Ubuntu 18.04. Adding multiple device support is possible.
 In order to prevent false votes on the success of a device I propose adding a database table of the device serial numbers of hardware
