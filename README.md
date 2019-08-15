@@ -35,11 +35,6 @@ I have been using System() calls to bash to get things done quickly, obviously a
 
 Web page at:
 https://linuxconf.feedthepenguin.org/hehe/
-
-The front end code, written in c++ using QT is referenced here:
-https://github.com/rydal/tuxconfig-frontend 
-The back end code, written in Java is here:
-https://github.com/rydal/tuxconfig-backend
 This repository is of my dissertation, available here:
 https://github.com/rydal/dissertation-doc/dissertation.fodt
 
