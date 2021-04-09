@@ -1,5 +1,8 @@
 <h1> Tuxconfig - A Linux device configuration platform and application </h1>
 
+Update:
+Well my coding skills have improved a lot since I wrote this, ideally it should be refactored in python and django.  I'm happy to oversee a project to make Linux easier to use for newbies.
+
 Hello and welcome to my project, my dissertation at Kent university and my contribution for the Linux community.
 
 Despite it’s small memory footprint and install size, Linux is way behind
@@ -13,6 +16,7 @@ of devices available on the market.
 Can there be, programmatically, a more effective means of installing obscure
 hardware, removing the need to type in commands to configure a device in
 place of a graphical tool to do so?
+
 This paper presents tuxconfig, a client application and server back-end to do
 just that.
 This is not only an application to install a significant array third party drivers. It
@@ -21,9 +25,9 @@ centralised database for standard users to download, compile and install
 hardware drivers.
 It is a proof of concept and still needs some work, the following are it's limitations:
 At the moment it only works on Ubuntu 18.04. Adding multiple device support is possible.
-In order to prevent false votes on the success of a device I propose adding a database table of the device serial numbers of hardware
-ensuring each device can only be voted on once, as well as cryptographically signing the information to the server using a public key.
-It needs to launch when a new device is plugged in.
+In order to prevent false votes on the success of a device I propose adding a single sign on for users, 
+ensuring each device can only be voted on once.
+By modifying udev rules it needs to launch when a new device is plugged in.
 
 What I need for this to be successful:
 
@@ -39,4 +43,4 @@ This repository is of my dissertation, available here:
 https://github.com/rydal/dissertation-doc/dissertation.fodt
 
 Feel free to email me at:
-rb602@kent.ac.uk
+rob@rydal.org
