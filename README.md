@@ -68,4 +68,4 @@ Feel free to email me at:
 rob@rydal.org
 
 Thank you,
-        Rob Brew.
+        Rob Brew (https://www.rydalinc.org).
