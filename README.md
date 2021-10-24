@@ -56,7 +56,7 @@ Video demonstration:
 https://www.youtube.com/watch?v=BRD7r_C3gXI
 
 This repository is of my dissertation, available here:
-https://github.com/rydal/dissertation-doc/dissertation.pdf
+https://github.com/rydal/dissertation-doc/blob/master/dissertation.pdf
 
 Frontend:
 https://github.com/rydal/tuxconfig-frontend
